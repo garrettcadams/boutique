@@ -1,0 +1,35 @@
+/***************************************************************************
+ Standard styles for the search page. 
+ 
+ You can override these styles in your own CSS by using the !important tag. 
+ 
+ Example:
+  
+   #searchresults h3 {
+     background-color: pink !important;
+   } 
+
+***************************************************************************/
+
+#searchresults {
+	margin: 5px 25px;
+}
+
+#searchresults input {
+  width: 50%;
+}
+
+#searchresults h3 {
+  margin: 15px 0;
+  padding: 0;
+} 
+
+#searchresults li {
+  margin: 20px 0;
+  clear: left;
+}
+
+.result-image {
+  float: left;
+  margin-right: 7px;
+}

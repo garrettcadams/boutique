@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+levertbeauty.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+www.beetailer.com	TRUE	/	FALSE	1999999999	_beetailer_session	BAh7B0kiD3Nlc3Npb25faWQGOgZFRkkiJTYzZjUyYTVmMGU5YmY2MzU1YmM4ODc4MDExYzI0MjczBjsAVEkiC2xvY2FsZQY7AEZJIgplbi1VUwY7AEY%3D--28b05573cb9d053f5fcccb03a34df9ec1b08bed2
+rechargestatic-bootstrapheroes.netdna-ssl.com	TRUE	/	FALSE	1999999999	session	eyJfcGVybWFuZW50Ijp0cnVlfQ.DTjeFg.im9YQgc5j6ZKTrxKa2a8WE8TPzs
+videolectures.net	TRUE	/	FALSE	1999999999	csrftoken	9OTf3VR3QBq1g1guMtCk9e8MVRWMvI8l
+.videolectures.net	TRUE	/	FALSE	1999999999	viideasid	cy2mcpmlj72a5aowiwh64woodpryzam6
+schema.org	TRUE	/	FALSE	1999999999	GOOGAPPUID	3-4pre
+

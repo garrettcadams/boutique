@@ -1,0 +1,63 @@
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2014 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      The Questa Project
+ * License URL: http://www.fontspring.com/licenses/the-questa-project/webfont
+ *
+ *
+ */
+
+@font-face {
+    font-family: 'questa_granderegular';
+    src: url('2-Questa_Grande_Regular-webfont.eot');
+    src: url('2-Questa_Grande_Regular-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('2-Questa_Grande_Regular-webfont.woff2') format('woff2'),
+         url('2-Questa_Grande_Regular-webfont.woff') format('woff'),
+         url('2-Questa_Grande_Regular-webfont.ttf') format('truetype'),
+         url('2-Questa_Grande_Regular-webfont.svg#questa_granderegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'quilline_script_thinregular';
+    src: url('quil_s_t-webfont.eot');
+    src: url('quil_s_t-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('quil_s_t-webfont.woff2') format('woff2'),
+         url('quil_s_t-webfont.woff') format('woff'),
+         url('quil_s_t-webfont.ttf') format('truetype'),
+         url('quil_s_t-webfont.svg#quilline_script_thinregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'texgyretermesregular';
+    src: url('texgyretermes-regular-webfont.eot');
+    src: url('texgyretermes-regular-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('texgyretermes-regular-webfont.woff') format('woff'),
+         url('texgyretermes-regular-webfont.ttf') format('truetype'),
+         url('texgyretermes-regular-webfont.svg#texgyretermesregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

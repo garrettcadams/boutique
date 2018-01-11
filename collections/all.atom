@@ -1,0 +1,1596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://levertbeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://levertbeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://levertbeauty.com/collections/all.atom"/>
+  <title>LeVert Beauty</title>
+  <updated>2017-12-06T10:31:55-08:00</updated>
+  <author>
+    <name>LeVert Beauty</name>
+  </author>
+  <entry>
+    <id>https://levertbeauty.com/products/424186773543</id>
+    <published>2017-12-06T10:31:55-08:00</published>
+    <updated>2017-12-06T10:31:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/aer-next-level-deodorant-ginger-grapefruit"/>
+    <title>AER Next-Level Deodorant (Ginger Grapefruit)</title>
+    <s:type>Deoderant</s:type>
+    <s:vendor>Vapour Organic Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/Ginger_Grapefruit.jpg?v=1512586182" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Vapour Organic Beauty<br>
+        <strong>Type: </strong>Deoderant<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Revolutionary gel-to-powder formula</p>
+<div aria-hidden="false" aria-expanded="true" role="tabpanel" aria-labelledby="ui-accordion-1-header-0" style="display: block;" class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom ui-accordion-content-active" id="details" name="details" itemprop="description">
+<p>Let go of convention. Vapour’s innovative formula transforms from gel to powder on your skin and delivers lasting results. Silky and lightweight, AER’s potent plant + mineral complex effectively combats odor and bacteria at the source.</p>
+<p><strong>AER Performance</strong></p>
+<p>AER’s perfected base of active powders and essential oils in suspension is the result of a five-year process to elevate the performance and integrity of the deodorant category. Like other Vapour products, AER is highly concentrated—a little goes a long way.</p>
+<p><strong>AER Experience</strong></p>
+<p>The optimal combination of form and functionality, AER glides on easily, transforming from gel to powder on your skin. The effect is a light-as-air barrier, allowing skin to breathe while confronting odor-causing bacteria in a lasting way. AER contains no talc, synthetic or toxic ingredients, which are the primary building blocks of conventional deodorants and antiperspirants.</p>
+<p><strong>AER Plant + Mineral Complex</strong></p>
+<p>A potent blend of specific plant + mineral ingredients, featuring Organic Arrowroot, Baking Soda, Organic Tulsi, Wildcrafted Myrrh and Organic Oregano. These powerful natural ingredients work throughout the day and target bacteria at the source.</p>
+<p><strong>AER Essence</strong></p>
+<p>AER’s universal essential oil blends elevate the senses and counteract odor, delivering worry-free comfort. The three options are Ginger Grapefruit, Lavender Myrrh and Palo Santo Blood Orange.</p>
+<p>TEST DRIVE THEIR 12 DAY TRIAL HERE<br><a href="http://www.vapourbeauty.com/trial-set/vapour-organic-beauty-aer-trial-set.htm"></a></p>
+<p><strong><em>OUR BEAUTY NOTES</em>: This novel formula is creating waves inside the beauty industry for its safe approach to highly effective order control. The options were perfectly created to delivery worry-free comfort to everyday deodorant. A little goes a long way and the formula applies smoothly with a desirable texture. </strong></p>
+<p> </p>
+<em>Ingredients</em>
+<p> </p>
+<div aria-hidden="false" aria-expanded="true" role="tabpanel" aria-labelledby="ui-accordion-1-header-1" style="display: block;" class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom ui-accordion-content-active" id="ingredients" name="ingredients" itemprop="description">
+<p>Organic Maranta Arundinacea (Arrowroot) Root</p>
+<p>Organic Helianthus Annuus (Sunflower) Oil</p>
+<p>Sodium Bicarbonate (Baking Soda)</p>
+<p>OrganicVirgin Cocos Nucifera (Coconut) Oil</p>
+<p>Silica</p>
+<p>Glyceryl Undecylenate (Castor and Canola Oils)*</p>
+<p>Organic Cera Alba (Beeswax)</p>
+<p>Vapour's Proprietary Blend of Essential Oils</p>
+<p>Tocopherol (Non GMO Vitamin E – Soy)</p>
+<p>Organic Ocimum Sanctum (Tulsi) Leaf Extract</p>
+<p>Wildcrafted Commiphora Myrrha (Myrrh) Gum Extract</p>
+<p>Organic Oreganum Vulgare (Oregano) Leaf Extract</p>
+<p>*Eco–Cert</p>
+<p> </p>
+<p>Nt Wt 1.8oz /51g</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deodorant</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>ORANGE</s:tag>
+    <s:tag>Sensitivity</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/424186773543</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/424183988263</id>
+    <published>2017-12-06T10:31:55-08:00</published>
+    <updated>2017-12-06T10:31:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/aer-next-level-deodorant-palo-santo-blood-orange"/>
+    <title>AER Next-Level Deodorant (Palo Santo Blood Orange)</title>
+    <s:type>Deoderant</s:type>
+    <s:vendor>Vapour Organic Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/Palo_Santo_Blood_Orange.jpg?v=1512585956" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Vapour Organic Beauty<br>
+        <strong>Type: </strong>Deoderant<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Revolutionary gel-to-powder formula</p>
+<div aria-hidden="false" aria-expanded="true" role="tabpanel" aria-labelledby="ui-accordion-1-header-0" style="display: block;" class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom ui-accordion-content-active" id="details" name="details" itemprop="description">
+<p>Let go of convention. Vapour’s innovative formula transforms from gel to powder on your skin and delivers lasting results. Silky and lightweight, AER’s potent plant + mineral complex effectively combats odor and bacteria at the source.</p>
+<p><strong>AER Performance</strong></p>
+<p>AER’s perfected base of active powders and essential oils in suspension is the result of a five-year process to elevate the performance and integrity of the deodorant category. Like other Vapour products, AER is highly concentrated—a little goes a long way.</p>
+<p><strong>AER Experience</strong></p>
+<p>The optimal combination of form and functionality, AER glides on easily, transforming from gel to powder on your skin. The effect is a light-as-air barrier, allowing skin to breathe while confronting odor-causing bacteria in a lasting way. AER contains no talc, synthetic or toxic ingredients, which are the primary building blocks of conventional deodorants and antiperspirants.</p>
+<p><strong>AER Plant + Mineral Complex</strong></p>
+<p>A potent blend of specific plant + mineral ingredients, featuring Organic Arrowroot, Baking Soda, Organic Tulsi, Wildcrafted Myrrh and Organic Oregano. These powerful natural ingredients work throughout the day and target bacteria at the source.</p>
+<p><strong>AER Essence</strong></p>
+<p>AER’s universal essential oil blends elevate the senses and counteract odor, delivering worry-free comfort. The three options are Ginger Grapefruit, Lavender Myrrh and Palo Santo Blood Orange.</p>
+<p>TEST DRIVE THEIR 12 DAY TRIAL HERE<br><a href="http://www.vapourbeauty.com/trial-set/vapour-organic-beauty-aer-trial-set.htm"></a></p>
+<p><strong><em>OUR BEAUTY NOTES</em>: This novel formula is creating waves inside the beauty industry for its safe approach to highly effective order control. The options were perfectly created to delivery worry-free comfort to everyday deodorant. A little goes a long way and the formula applies smoothly with a desirable texture. </strong></p>
+<p> </p>
+<em>Ingredients</em>
+<p> </p>
+<div aria-hidden="false" aria-expanded="true" role="tabpanel" aria-labelledby="ui-accordion-1-header-1" style="display: block;" class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom ui-accordion-content-active" id="ingredients" name="ingredients" itemprop="description">
+<p>Organic Maranta Arundinacea (Arrowroot) Root</p>
+<p>Organic Helianthus Annuus (Sunflower) Oil</p>
+<p>Sodium Bicarbonate (Baking Soda)</p>
+<p>OrganicVirgin Cocos Nucifera (Coconut) Oil</p>
+<p>Silica</p>
+<p>Glyceryl Undecylenate (Castor and Canola Oils)*</p>
+<p>Organic Cera Alba (Beeswax)</p>
+<p>Vapour's Proprietary Blend of Essential Oils</p>
+<p>Tocopherol (Non GMO Vitamin E – Soy)</p>
+<p>Organic Ocimum Sanctum (Tulsi) Leaf Extract</p>
+<p>Wildcrafted Commiphora Myrrha (Myrrh) Gum Extract</p>
+<p>Organic Oreganum Vulgare (Oregano) Leaf Extract</p>
+<p>*Eco–Cert</p>
+<p> </p>
+<p>Nt Wt 1.8oz /51g</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deodorant</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>ORANGE</s:tag>
+    <s:tag>Sensitivity</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/424183988263</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/424181006375</id>
+    <published>2017-12-06T10:31:55-08:00</published>
+    <updated>2017-12-06T10:31:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/aer-next-level-deodorant"/>
+    <title>AER Next-Level Deodorant (Lavender Myrrh)</title>
+    <s:type>Deoderant</s:type>
+    <s:vendor>Vapour Organic Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/Lavender_Myrrh.jpg?v=1512585616" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Vapour Organic Beauty<br>
+        <strong>Type: </strong>Deoderant<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Revolutionary gel-to-powder formula</p>
+<div aria-hidden="false" aria-expanded="true" role="tabpanel" aria-labelledby="ui-accordion-1-header-0" style="display: block;" class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom ui-accordion-content-active" id="details" name="details" itemprop="description">
+<p>Let go of convention. Vapour’s innovative formula transforms from gel to powder on your skin and delivers lasting results. Silky and lightweight, AER’s potent plant + mineral complex effectively combats odor and bacteria at the source.</p>
+<p><strong>AER Performance</strong></p>
+<p>AER’s perfected base of active powders and essential oils in suspension is the result of a five-year process to elevate the performance and integrity of the deodorant category. Like other Vapour products, AER is highly concentrated—a little goes a long way.</p>
+<p><strong>AER Experience</strong></p>
+<p>The optimal combination of form and functionality, AER glides on easily, transforming from gel to powder on your skin. The effect is a light-as-air barrier, allowing skin to breathe while confronting odor-causing bacteria in a lasting way. AER contains no talc, synthetic or toxic ingredients, which are the primary building blocks of conventional deodorants and antiperspirants.</p>
+<p><strong>AER Plant + Mineral Complex</strong></p>
+<p>A potent blend of specific plant + mineral ingredients, featuring Organic Arrowroot, Baking Soda, Organic Tulsi, Wildcrafted Myrrh and Organic Oregano. These powerful natural ingredients work throughout the day and target bacteria at the source.</p>
+<p><strong>AER Essence</strong></p>
+<p>AER’s universal essential oil blends elevate the senses and counteract odor, delivering worry-free comfort. The three options are Ginger Grapefruit, Lavender Myrrh and Palo Santo Blood Orange.</p>
+<p>TEST DRIVE THEIR 12 DAY TRIAL HERE<br><a href="http://www.vapourbeauty.com/trial-set/vapour-organic-beauty-aer-trial-set.htm"></a></p>
+<p><strong><em>OUR BEAUTY NOTES</em>: This novel formula is creating waves inside the beauty industry for its safe approach to highly effective order control. The options were perfectly created to delivery worry-free comfort to everyday deodorant. A little goes a long way and the formula applies smoothly with a desirable texture. </strong></p>
+<p> </p>
+<em>Ingredients</em>
+<p> </p>
+<div aria-hidden="false" aria-expanded="true" role="tabpanel" aria-labelledby="ui-accordion-1-header-1" style="display: block;" class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom ui-accordion-content-active" id="ingredients" name="ingredients" itemprop="description">
+<p>Organic Maranta Arundinacea (Arrowroot) Root</p>
+<p>Organic Helianthus Annuus (Sunflower) Oil</p>
+<p>Sodium Bicarbonate (Baking Soda)</p>
+<p>OrganicVirgin Cocos Nucifera (Coconut) Oil</p>
+<p>Silica</p>
+<p>Glyceryl Undecylenate (Castor and Canola Oils)*</p>
+<p>Organic Cera Alba (Beeswax)</p>
+<p>Vapour's Proprietary Blend of Essential Oils</p>
+<p>Tocopherol (Non GMO Vitamin E – Soy)</p>
+<p>Organic Ocimum Sanctum (Tulsi) Leaf Extract</p>
+<p>Wildcrafted Commiphora Myrrha (Myrrh) Gum Extract</p>
+<p>Organic Oreganum Vulgare (Oregano) Leaf Extract</p>
+<p>*Eco–Cert</p>
+<p> </p>
+<p>Nt Wt 1.8oz /51g</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deodorant</s:tag>
+    <s:tag>lavendar</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Sensitivity</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/424181006375</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/367043379239</id>
+    <published>2017-11-29T10:58:01-08:00</published>
+    <updated>2017-11-29T10:58:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/revitalizing-soothing-natural-sheet-mask"/>
+    <title>Revitalizing &amp; Soothing Natural Sheet Mask</title>
+    <s:type>Mask</s:type>
+    <s:vendor>RE:FRESH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/ReFresh_Single_Front_1500x1500_dbc755d5-0827-401c-b9c8-bfd33fba27bb.jpg?v=1511982411" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>RE:FRESH<br>
+        <strong>Type: </strong>Mask<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><em>Description</em></h5>
+<p style="text-align: left;">This 100% cruelty-free, non-toxic &amp; EWG VERIFIED™ individually wrapped sheet mask is full of rich botanical extracts and effective ingredients. It features material that adheres well to the face, prevents quick evaporation, and delivers the serum deep into the skin for seriously refreshing and hydrating results.</p>
+<p>NO Alcohol</p>
+<p>NO Animal Testing</p>
+<p>NO Artificial Color</p>
+<p>NO Formaldehyde</p>
+<p>NO Fragrance</p>
+<p>NO Mineral Oil</p>
+<p>NO Parabens</p>
+<p>NO Phthalates</p>
+<p>NO Silicone Oil</p>
+<p>NO Sulfates</p>
+<p style="text-align: left;">STAR INGREDIENTS</p>
+<p style="text-align: left;">Betula Platyphylla Japonica Juice: Much more nutrient-rich than water, an ingredient commonly found in sheet masks. Full of amino acids and enzymes that intensely hydrate the skin and prevent oxidative stress such as UV rays and environmental pollution.</p>
+<p style="text-align: left;">Euterpe Oleracea Fruit Extract: Antioxidant that provides protection against free radical damage to the skin and promotes skin repair via moisture retention and regeneration.</p>
+<p style="text-align: left;">Limonia Acidissima Extract: Moisturizing agent that soothes the skin and evens out skin tones. Antioxidant that reduces wrinkles and fine lines by replenishing essential nutrients.</p>
+<p style="text-align: left;">Sodium Hyaluronate: Smart nutrient that penetrates the skin, holds onto large amounts of water, and adjusts moisture absorption rate based on humidity. More effective than hyaluronic acid due to its smaller size which allows it to move more freely into deeper layers of the skin.</p>
+<p style="text-align: left;">Lactobacillus Ferment: Natural microorganism that acidifies its surroundings, develops new antimicrobial peptides, and moisturizes the skin with a variety of proteins.</p>
+<p style="text-align: left;"><strong><em>Our Beauty Notes</em>: Finally a non-toxic sheet mask that doesn't leave a sticky residue. This slightly cooling sheet mask leaves your skin feeling refreshed, awake and hydrated. Ideal for all skin types and can be used weekly as part of regular skin routine. We are adding this to our regular beauty bags and at this price we highly suggest stocking up! </strong></p>
+<p><em>Use</em></p>
+<p style="text-align: left;">Cleanse and dry face. Take out and gently unfold the mask. Place and smooth the mask onto the face. Leave on for 20 minutes and relax. Remove and discard the mask. Apply any remaining serum.<br><br>Made in Korea</p>
+<p><strong><em>Ingredients</em> </strong></p>
+<p style="text-align: left;">Betula Platyphylla Japonica Juice, Euterpe Oleracea Fruit Extract, Limonia Acidissima Extract, Zanthoxylum Piperitum Fruit Extract, Pulsatilla Koreana Extract, Lonicera Japonica (Honeysuckle) Flower Extract, Ocimum Basilicum (Basil) Extract, Citrus Paradisi (Grapefruit) Fruit Extract, Usnea Barbata (Lichen) Extract, Morus Alba Bark Extract, Portulaca Oleracea Extract, Sodium Hyaluronate, Beta-Glucan, Carica Papaya (Papaya) Fruit Extract, Cocos Nucifera (Coconut) Water, Morinda Citrifolia Extract, Lactobacillus Ferment, Carbomer, Ascorbyl Glucoside (Vitamin C)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Face Masks</s:tag>
+    <s:tag>Hydration</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>Masks</s:tag>
+    <s:tag>Moisturizers</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Radiance</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/367043379239</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/8843807057</id>
+    <published>2017-02-22T12:14:00-08:00</published>
+    <updated>2017-02-22T12:14:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/skindew-coconut-water-cream-new"/>
+    <title>Skin Dew Coconut Water Cream (New!)</title>
+    <s:type>Skincare</s:type>
+    <s:vendor>One Love Organics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/One_love_organics_SkinDew_1_large_copy.jpg?v=1501271755" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>One Love Organics<br>
+        <strong>Type: </strong>Skincare<br>
+        <strong>Price: </strong>
+            58.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><em>Description </em></h5>
+<p><span>Skin Dew Coconut Water Cream helps to combat dehydration and promote balanced, moisture-rich, and healthy-looking skin. </span><span>This powerful, plant-based formula is crafted with: </span></p>
+<ul>
+<li>Over 50% pure, mineral rich <strong>Coconut Water</strong> to hydrate and nourish.</li>
+<li>
+<strong>Cupuacu Butter,</strong> a polyphenol-rich moisturizer sourced from the Amazon, to help neutralize free radicals that contribute to premature aging.</li>
+<li>A clinically proven complex of <strong>acacia, jojoba and sunflower</strong> to form a protective, breathable film to help lock-in hydration and defend skin against environmental aggressors.</li>
+</ul>
+<p><span>It benefits all skin types and is especially good for dull, dehydrated, and combination skin. Intensely moisturizing, yet surprisingly lightweight, this cream absorbs into the skin within a minute or two and layers well with other products.</span></p>
+<p><em><strong>Our Beauty Notes: </strong></em><strong>﻿This completely novel product feels incredible on skin creating the lightest application, that isn't necessarily a 'watery-y feeling' (as the coconut water ingredient implies), but rather feels like a thin cream. This penetrates the skin deeply for a lighter coverage of deep hydration and is an ideal everyday moisturizer for skin that may be thirsty, dry, sensitive or aging. </strong></p>
+<p> </p>
+<h5><em>Ingredients </em></h5>
+<p><span>Cocos Nucifera (Coconut) Fruit Juice*, Helianthus Annuus (Sunflower) Seed Oil*, Caprylic/Capric Triglyceride, Cetearyl Alcohol, Jojoba Esters, Theobroma Grandiflorum Seed Butter*, Propanediol, Helianthus Annuus (Sunflower) Seed Wax, Xylitylglucoside, Cetearyl Glucoside, Citrullus Vulgaris (Watermelon) Seed Oil, Cocos Nucifera (Coconut) Pulp Extract*, Lactic Acid, Alaria Esculenta Extract, Acacia Decurrens Flower Wax, Tocopherol, Sclerotium Gum, Xylitol, Polyglycerin-3, Glyceryl Undecylenate, Glyceryl Caprylate, Anhydroxylitol </span><span>May Contain: Maltodextrin</span></p>
+<p>*Ingredients from Organic Farming</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten-Free</s:tag>
+    <s:tag>Hydration</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>Moisturizers</s:tag>
+    <s:tag>Night Creams</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>one love organics</s:tag>
+    <s:tag>Radiance</s:tag>
+    <s:tag>Sensitivity</s:tag>
+    <s:tag>skincare</s:tag>
+    <s:tag>travel</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/8843807057</id>
+      <title>Default Title</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/8655832913</id>
+    <published>2017-02-22T12:14:00-08:00</published>
+    <updated>2017-02-22T12:14:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/3-2-1-fantastic-facial-kit"/>
+    <title>3-2-1 Fantastic Facial Kit</title>
+    <s:type>Skincare</s:type>
+    <s:vendor>One Love Organics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/321_Fantastic_Facial_Kit_One_Love_Organics_LeVert_Travellarge_copy.jpg?v=1487795017" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>One Love Organics<br>
+        <strong>Type: </strong>Skincare<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Description </p>
+<p>This limited edition facial kit by One Love Organics was designed to pamper and relieve stress for the busy beauty. The routine features 3 easy steps, requires only 2 products and gives 1 fantastic result. It is the perfect gift or travel companion. </p>
+<p>The Set <span><em>includes:</em></span></p>
+<div><span>Skin Savior Multi-Tasking Wonder Balm | .6 oz</span></div>
+<div><span>Brand New Day Microderma Scrub + Masque | .4 oz</span></div>
+<div><span>Custom designed cotton travel LOVE bag</span></div>
+<div><span>Facial Instruction card</span></div>
+<div><span>$35 ($49 Value)</span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brand new day</s:tag>
+    <s:tag>one love organics</s:tag>
+    <s:tag>skincare</s:tag>
+    <s:tag>travel</s:tag>
+    <s:tag>wonder balm</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/8655832913</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>LB-LOVE-321KIT</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/157892739099</id>
+    <published>2017-02-19T10:55:00-08:00</published>
+    <updated>2017-02-19T10:55:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/no-15-bright-classic-red"/>
+    <title>No.15 (Bright, Classic Red)</title>
+    <s:type>Nail Polish</s:type>
+    <s:vendor>sundays</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/sundays_no_15.jpg?v=1507150035" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>sundays<br>
+        <strong>Type: </strong>Nail Polish<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>
+<em>Description</em> </h5>
+<blockquote>
+<p><span><gs id="3cf87bca-0191-4046-83cf-695391377562" ginger_software_uiphraseguid="cca2040f-fce9-439b-8f1f-f785e8179b30" class="GINGER_SOFTWARE_mark">Brand Seen In: InStyle, Vogue, Well+Good, Into the Gloss, Refinery29 + more </gs></span></p>
+</blockquote>
+<p><span><gs id="3cf87bca-0191-4046-83cf-695391377562" ginger_software_uiphraseguid="cca2040f-fce9-439b-8f1f-f785e8179b30" class="GINGER_SOFTWARE_mark">This 10-Free polish was formulated</gs> with your well-being in mind. </span></p>
+<ul>
+<li>
+<p><span><gs id="b1dc4cac-59b4-4d55-90f0-954031ef4f8e" ginger_software_uiphraseguid="3bbcb8be-3257-4e7c-a88a-f04cf4268117" class="GINGER_SOFTWARE_mark">cruelty</gs>-free</span></p>
+</li>
+<li>
+<p><span><gs id="3fccfe13-4ea7-477c-a39b-8816ce8ec570" ginger_software_uiphraseguid="b8759e77-5cf9-4a3c-a328-7b482a58f61f" class="GINGER_SOFTWARE_mark">vegan</gs></span></p>
+</li>
+<li>
+<p><span>10-free</span></p>
+</li>
+<li>
+<p><span>non-toxic</span></p>
+</li>
+<li>
+<p><span><gs id="7910083b-0153-45df-bf66-2248c84befbd" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">bottle</gs> shape and brush is optimized for <gs id="fcd4f9aa-b1e3-46c0-a2dd-0580940b6afb" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">precise and quick application</gs></span></p>
+</li>
+</ul>
+<p><span><gs id="edd1ddd6-d26f-4e7c-923a-b1c85f81c52c" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">Does</gs> </span><em>not </em><span>include: </span><span>dibutyl phthalate, toluene, xylene, ethyl <gs id="f1956031-446a-4d8a-9909-49ec845a9690" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">tosylamide</gs>, camphor, formaldehyde, formaldehyde resin, <gs id="263cfdb1-0ea2-40d5-a909-6365a101f475" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">parabens</gs>, and tert-butyl hydroperoxide. <gs id="7079d743-2014-4fe3-a60e-96b65dfb47ee" ginger_software_uiphraseguid="88211c01-34f1-45a3-b38b-5cd8c7b13ed7" class="GINGER_SOFTWARE_mark">net</gs> wt. <gs id="b1ff45db-3e7b-4e83-a719-80e1265c81ee" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">.</gs>47 <gs id="9c39073c-14ee-4185-93c6-20ceb6f130ab" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">fl</gs> <gs id="4d90f9a7-2fc5-4a3c-a848-88f1efe4039a" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">oz</gs> | 14 ml. </span><span><gs id="b0112880-b9c7-49f8-bd70-ca4815d8f601" ginger_software_uiphraseguid="0a7021b8-46ec-460b-9e15-0cfa934af11b" class="GINGER_SOFTWARE_mark">made</gs> in NY</span></p>
+<p><strong><em>Our Beauty Notes</em>: A classic red with just enough cool tones to work on all skin tones beautifully. A year round classic. <br></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-free</s:tag>
+    <s:tag>Nails</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/157892739099</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/157885693979</id>
+    <published>2017-02-19T10:55:00-08:00</published>
+    <updated>2017-02-19T10:55:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/no-13-cherry-orange"/>
+    <title>No.13 (Cherry Orange)</title>
+    <s:type>Nail Polish</s:type>
+    <s:vendor>sundays</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/sundays_no.13.jpg?v=1507149736" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>sundays<br>
+        <strong>Type: </strong>Nail Polish<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>
+<em>Description</em> </h5>
+<blockquote>
+<p><span><gs id="3cf87bca-0191-4046-83cf-695391377562" ginger_software_uiphraseguid="cca2040f-fce9-439b-8f1f-f785e8179b30" class="GINGER_SOFTWARE_mark">Brand Seen In: InStyle, Vogue, Well+Good, Into the Gloss, Refinery29 + more </gs></span></p>
+</blockquote>
+<p><span><gs id="3cf87bca-0191-4046-83cf-695391377562" ginger_software_uiphraseguid="cca2040f-fce9-439b-8f1f-f785e8179b30" class="GINGER_SOFTWARE_mark">This 10-Free polish was formulated</gs> with your well-being in mind. </span></p>
+<ul>
+<li>
+<p><span><gs id="b1dc4cac-59b4-4d55-90f0-954031ef4f8e" ginger_software_uiphraseguid="3bbcb8be-3257-4e7c-a88a-f04cf4268117" class="GINGER_SOFTWARE_mark">cruelty</gs>-free</span></p>
+</li>
+<li>
+<p><span><gs id="3fccfe13-4ea7-477c-a39b-8816ce8ec570" ginger_software_uiphraseguid="b8759e77-5cf9-4a3c-a328-7b482a58f61f" class="GINGER_SOFTWARE_mark">vegan</gs></span></p>
+</li>
+<li>
+<p><span>10-free</span></p>
+</li>
+<li>
+<p><span>non-toxic</span></p>
+</li>
+<li>
+<p><span><gs id="7910083b-0153-45df-bf66-2248c84befbd" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">bottle</gs> shape and brush is optimized for <gs id="fcd4f9aa-b1e3-46c0-a2dd-0580940b6afb" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">precise and quick application</gs></span></p>
+</li>
+</ul>
+<p><span><gs id="edd1ddd6-d26f-4e7c-923a-b1c85f81c52c" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">Does</gs> </span><em>not </em><span>include: </span><span>dibutyl phthalate, toluene, xylene, ethyl <gs id="f1956031-446a-4d8a-9909-49ec845a9690" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">tosylamide</gs>, camphor, formaldehyde, formaldehyde resin, <gs id="263cfdb1-0ea2-40d5-a909-6365a101f475" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">parabens</gs>, and tert-butyl hydroperoxide. <gs id="7079d743-2014-4fe3-a60e-96b65dfb47ee" ginger_software_uiphraseguid="88211c01-34f1-45a3-b38b-5cd8c7b13ed7" class="GINGER_SOFTWARE_mark">net</gs> wt. <gs id="b1ff45db-3e7b-4e83-a719-80e1265c81ee" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">.</gs>47 <gs id="9c39073c-14ee-4185-93c6-20ceb6f130ab" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">fl</gs> <gs id="4d90f9a7-2fc5-4a3c-a848-88f1efe4039a" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">oz</gs> | 14 ml. </span><span><gs id="b0112880-b9c7-49f8-bd70-ca4815d8f601" ginger_software_uiphraseguid="0a7021b8-46ec-460b-9e15-0cfa934af11b" class="GINGER_SOFTWARE_mark">made</gs> in NY</span></p>
+<p><strong><em>Our Beauty Notes</em>: An ideal cherry red with bright orange undertones. <br></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-free</s:tag>
+    <s:tag>Nails</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/157885693979</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/157866393627</id>
+    <published>2017-02-19T10:55:00-08:00</published>
+    <updated>2017-02-19T10:55:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/no-32-suede-grey"/>
+    <title>No.32 (Suede Grey)</title>
+    <s:type>Nail Polish</s:type>
+    <s:vendor>sundays</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/sundays_no_32.jpg?v=1507149311" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>sundays<br>
+        <strong>Type: </strong>Nail Polish<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>
+<em>Description</em> </h5>
+<blockquote>
+<p><span><gs id="3cf87bca-0191-4046-83cf-695391377562" ginger_software_uiphraseguid="cca2040f-fce9-439b-8f1f-f785e8179b30" class="GINGER_SOFTWARE_mark">Brand Seen In: InStyle, Vogue, Well+Good, Into the Gloss, Refinery29 + more </gs></span></p>
+</blockquote>
+<p><span><gs id="3cf87bca-0191-4046-83cf-695391377562" ginger_software_uiphraseguid="cca2040f-fce9-439b-8f1f-f785e8179b30" class="GINGER_SOFTWARE_mark">This 10-Free polish was formulated</gs> with your well-being in mind. </span></p>
+<ul>
+<li>
+<p><span><gs id="b1dc4cac-59b4-4d55-90f0-954031ef4f8e" ginger_software_uiphraseguid="3bbcb8be-3257-4e7c-a88a-f04cf4268117" class="GINGER_SOFTWARE_mark">cruelty</gs>-free</span></p>
+</li>
+<li>
+<p><span><gs id="3fccfe13-4ea7-477c-a39b-8816ce8ec570" ginger_software_uiphraseguid="b8759e77-5cf9-4a3c-a328-7b482a58f61f" class="GINGER_SOFTWARE_mark">vegan</gs></span></p>
+</li>
+<li>
+<p><span>10-free</span></p>
+</li>
+<li>
+<p><span>non-toxic</span></p>
+</li>
+<li>
+<p><span><gs id="7910083b-0153-45df-bf66-2248c84befbd" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">bottle</gs> shape and brush is optimized for <gs id="fcd4f9aa-b1e3-46c0-a2dd-0580940b6afb" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">precise and quick application</gs></span></p>
+</li>
+</ul>
+<p><span><gs id="edd1ddd6-d26f-4e7c-923a-b1c85f81c52c" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">Does</gs> </span><em>not </em><span>include: </span><span>dibutyl phthalate, toluene, xylene, ethyl <gs id="f1956031-446a-4d8a-9909-49ec845a9690" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">tosylamide</gs>, camphor, formaldehyde, formaldehyde resin, <gs id="263cfdb1-0ea2-40d5-a909-6365a101f475" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">parabens</gs>, and tert-butyl hydroperoxide. <gs id="7079d743-2014-4fe3-a60e-96b65dfb47ee" ginger_software_uiphraseguid="88211c01-34f1-45a3-b38b-5cd8c7b13ed7" class="GINGER_SOFTWARE_mark">net</gs> wt. <gs id="b1ff45db-3e7b-4e83-a719-80e1265c81ee" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">.</gs>47 <gs id="9c39073c-14ee-4185-93c6-20ceb6f130ab" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">fl</gs> <gs id="4d90f9a7-2fc5-4a3c-a848-88f1efe4039a" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">oz</gs> | 14 ml. </span><span><gs id="b0112880-b9c7-49f8-bd70-ca4815d8f601" ginger_software_uiphraseguid="0a7021b8-46ec-460b-9e15-0cfa934af11b" class="GINGER_SOFTWARE_mark">made</gs> in NY</span></p>
+<p><strong><em>Our Beauty Notes</em>: A medium, slightly warm grey opaque at its finest. <br></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-free</s:tag>
+    <s:tag>Nails</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/157866393627</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/157671555099</id>
+    <published>2017-02-19T10:55:00-08:00</published>
+    <updated>2017-02-19T10:55:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/no-27-powder-rose"/>
+    <title>No.27 (Powder Rose)</title>
+    <s:type>Nail Polish</s:type>
+    <s:vendor>sundays</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/sundays_no.27.jpg?v=1507145714" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>sundays<br>
+        <strong>Type: </strong>Nail Polish<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>
+<em>Description</em> </h5>
+<blockquote>
+<p><span><gs id="3cf87bca-0191-4046-83cf-695391377562" ginger_software_uiphraseguid="cca2040f-fce9-439b-8f1f-f785e8179b30" class="GINGER_SOFTWARE_mark">Brand Seen In: InStyle, Vogue, Well+Good, Into the Gloss, Refinery29 + more </gs></span></p>
+</blockquote>
+<p><span><gs id="3cf87bca-0191-4046-83cf-695391377562" ginger_software_uiphraseguid="cca2040f-fce9-439b-8f1f-f785e8179b30" class="GINGER_SOFTWARE_mark">This 10-Free polish was formulated</gs> with your well-being in mind. </span></p>
+<ul>
+<li>
+<p><span><gs id="b1dc4cac-59b4-4d55-90f0-954031ef4f8e" ginger_software_uiphraseguid="3bbcb8be-3257-4e7c-a88a-f04cf4268117" class="GINGER_SOFTWARE_mark">cruelty</gs>-free</span></p>
+</li>
+<li>
+<p><span><gs id="3fccfe13-4ea7-477c-a39b-8816ce8ec570" ginger_software_uiphraseguid="b8759e77-5cf9-4a3c-a328-7b482a58f61f" class="GINGER_SOFTWARE_mark">vegan</gs></span></p>
+</li>
+<li>
+<p><span>10-free</span></p>
+</li>
+<li>
+<p><span>non-toxic</span></p>
+</li>
+<li>
+<p><span><gs id="7910083b-0153-45df-bf66-2248c84befbd" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">bottle</gs> shape and brush is optimized for <gs id="fcd4f9aa-b1e3-46c0-a2dd-0580940b6afb" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">precise and quick application</gs></span></p>
+</li>
+</ul>
+<p><span><gs id="edd1ddd6-d26f-4e7c-923a-b1c85f81c52c" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">Does</gs> </span><em>not </em><span>include: </span><span>dibutyl phthalate, toluene, xylene, ethyl <gs id="f1956031-446a-4d8a-9909-49ec845a9690" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">tosylamide</gs>, camphor, formaldehyde, formaldehyde resin, <gs id="263cfdb1-0ea2-40d5-a909-6365a101f475" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">parabens</gs>, and tert-butyl hydroperoxide. <gs id="7079d743-2014-4fe3-a60e-96b65dfb47ee" ginger_software_uiphraseguid="88211c01-34f1-45a3-b38b-5cd8c7b13ed7" class="GINGER_SOFTWARE_mark">net</gs> wt. <gs id="b1ff45db-3e7b-4e83-a719-80e1265c81ee" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">.</gs>47 <gs id="9c39073c-14ee-4185-93c6-20ceb6f130ab" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">fl</gs> <gs id="4d90f9a7-2fc5-4a3c-a848-88f1efe4039a" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">oz</gs> | 14 ml. </span><span><gs id="b0112880-b9c7-49f8-bd70-ca4815d8f601" ginger_software_uiphraseguid="0a7021b8-46ec-460b-9e15-0cfa934af11b" class="GINGER_SOFTWARE_mark">made</gs> in NY</span></p>
+<p><strong><em>Our Beauty Notes</em>: Soft, medium toned powdered rose offers a gorgeous segue into fall for any typical nude or light pink nail aficionado. <br></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-free</s:tag>
+    <s:tag>Nails</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/157671555099</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/157662511131</id>
+    <published>2017-02-19T10:55:00-08:00</published>
+    <updated>2017-02-19T10:55:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/no-26-mauve"/>
+    <title>No.26 (Mauve)</title>
+    <s:type>Nail Polish</s:type>
+    <s:vendor>sundays</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/sundays_no_26.jpg?v=1507145453" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>sundays<br>
+        <strong>Type: </strong>Nail Polish<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>
+<em>Description</em> </h5>
+<blockquote>
+<p><span><gs id="3cf87bca-0191-4046-83cf-695391377562" ginger_software_uiphraseguid="cca2040f-fce9-439b-8f1f-f785e8179b30" class="GINGER_SOFTWARE_mark">Brand Seen In: InStyle, Vogue, Well+Good, Into the Gloss, Refinery29 + more </gs></span></p>
+</blockquote>
+<p><span><gs id="3cf87bca-0191-4046-83cf-695391377562" ginger_software_uiphraseguid="cca2040f-fce9-439b-8f1f-f785e8179b30" class="GINGER_SOFTWARE_mark">This 10-Free polish was formulated</gs> with your well-being in mind. </span></p>
+<ul>
+<li>
+<p><span><gs id="b1dc4cac-59b4-4d55-90f0-954031ef4f8e" ginger_software_uiphraseguid="3bbcb8be-3257-4e7c-a88a-f04cf4268117" class="GINGER_SOFTWARE_mark">cruelty</gs>-free</span></p>
+</li>
+<li>
+<p><span><gs id="3fccfe13-4ea7-477c-a39b-8816ce8ec570" ginger_software_uiphraseguid="b8759e77-5cf9-4a3c-a328-7b482a58f61f" class="GINGER_SOFTWARE_mark">vegan</gs></span></p>
+</li>
+<li>
+<p><span>10-free</span></p>
+</li>
+<li>
+<p><span>non-toxic</span></p>
+</li>
+<li>
+<p><span><gs id="7910083b-0153-45df-bf66-2248c84befbd" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">bottle</gs> shape and brush is optimized for <gs id="fcd4f9aa-b1e3-46c0-a2dd-0580940b6afb" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">precise and quick application</gs></span></p>
+</li>
+</ul>
+<p><span><gs id="edd1ddd6-d26f-4e7c-923a-b1c85f81c52c" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">Does</gs> </span><em>not </em><span>include: </span><span>dibutyl phthalate, toluene, xylene, ethyl <gs id="f1956031-446a-4d8a-9909-49ec845a9690" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">tosylamide</gs>, camphor, formaldehyde, formaldehyde resin, <gs id="263cfdb1-0ea2-40d5-a909-6365a101f475" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">parabens</gs>, and tert-butyl hydroperoxide. <gs id="7079d743-2014-4fe3-a60e-96b65dfb47ee" ginger_software_uiphraseguid="88211c01-34f1-45a3-b38b-5cd8c7b13ed7" class="GINGER_SOFTWARE_mark">net</gs> wt. <gs id="b1ff45db-3e7b-4e83-a719-80e1265c81ee" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">.</gs>47 <gs id="9c39073c-14ee-4185-93c6-20ceb6f130ab" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">fl</gs> <gs id="4d90f9a7-2fc5-4a3c-a848-88f1efe4039a" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">oz</gs> | 14 ml. </span><span><gs id="b0112880-b9c7-49f8-bd70-ca4815d8f601" ginger_software_uiphraseguid="0a7021b8-46ec-460b-9e15-0cfa934af11b" class="GINGER_SOFTWARE_mark">made</gs> in NY</span></p>
+<p><strong><em>Our Beauty Notes</em>: An ideal fall shade with just the perfect amount of coverage and purple undertones. <br></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-free</s:tag>
+    <s:tag>Nails</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/157662511131</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/9928548689</id>
+    <published>2017-02-19T10:55:00-08:00</published>
+    <updated>2017-02-19T10:55:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/no-12-fuchsia"/>
+    <title>No.12 (Fuchsia)</title>
+    <s:type>Nail Polish</s:type>
+    <s:vendor>sundays</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/sundays_no.12.jpg?v=1502407390" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>sundays<br>
+        <strong>Type: </strong>Nail Polish<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>
+<em>Description</em> </h5>
+<blockquote>
+<p><span><gs id="3cf87bca-0191-4046-83cf-695391377562" ginger_software_uiphraseguid="cca2040f-fce9-439b-8f1f-f785e8179b30" class="GINGER_SOFTWARE_mark">Brand Seen In: InStyle, Vogue, Well+Good, Into the Gloss, Refinery29 + more </gs></span></p>
+</blockquote>
+<p><span><gs id="3cf87bca-0191-4046-83cf-695391377562" ginger_software_uiphraseguid="cca2040f-fce9-439b-8f1f-f785e8179b30" class="GINGER_SOFTWARE_mark">This 10-Free polish was formulated</gs> with your well-being in mind. </span></p>
+<ul>
+<li>
+<p><span><gs id="b1dc4cac-59b4-4d55-90f0-954031ef4f8e" ginger_software_uiphraseguid="3bbcb8be-3257-4e7c-a88a-f04cf4268117" class="GINGER_SOFTWARE_mark">cruelty</gs>-free</span></p>
+</li>
+<li>
+<p><span><gs id="3fccfe13-4ea7-477c-a39b-8816ce8ec570" ginger_software_uiphraseguid="b8759e77-5cf9-4a3c-a328-7b482a58f61f" class="GINGER_SOFTWARE_mark">vegan</gs></span></p>
+</li>
+<li>
+<p><span>10-free</span></p>
+</li>
+<li>
+<p><span>non-toxic</span></p>
+</li>
+<li>
+<p><span><gs id="7910083b-0153-45df-bf66-2248c84befbd" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">bottle</gs> shape and brush is optimized for <gs id="fcd4f9aa-b1e3-46c0-a2dd-0580940b6afb" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">precise and quick application</gs></span></p>
+</li>
+</ul>
+<p><span><gs id="edd1ddd6-d26f-4e7c-923a-b1c85f81c52c" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">Does</gs> </span><em>not </em><span>include: </span><span>dibutyl phthalate, toluene, xylene, ethyl <gs id="f1956031-446a-4d8a-9909-49ec845a9690" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">tosylamide</gs>, camphor, formaldehyde, formaldehyde resin, <gs id="263cfdb1-0ea2-40d5-a909-6365a101f475" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">parabens</gs>, and tert-butyl hydroperoxide. <gs id="7079d743-2014-4fe3-a60e-96b65dfb47ee" ginger_software_uiphraseguid="88211c01-34f1-45a3-b38b-5cd8c7b13ed7" class="GINGER_SOFTWARE_mark">net</gs> wt. <gs id="b1ff45db-3e7b-4e83-a719-80e1265c81ee" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">.</gs>47 <gs id="9c39073c-14ee-4185-93c6-20ceb6f130ab" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">fl</gs> <gs id="4d90f9a7-2fc5-4a3c-a848-88f1efe4039a" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">oz</gs> | 14 ml. </span><span><gs id="b0112880-b9c7-49f8-bd70-ca4815d8f601" ginger_software_uiphraseguid="0a7021b8-46ec-460b-9e15-0cfa934af11b" class="GINGER_SOFTWARE_mark">made</gs> in NY</span></p>
+<p><strong><em>Our Beauty Notes</em>: This fun, deep pink perfectly flirts the line with sophistication.  <br></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-free</s:tag>
+    <s:tag>Nails</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/9928548689</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/9834527889</id>
+    <published>2017-02-19T10:55:00-08:00</published>
+    <updated>2017-02-19T10:55:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/no-49-sheer-salmon-pink"/>
+    <title>No.49 (Sheer Salmon Pink)</title>
+    <s:type>Nail Polish</s:type>
+    <s:vendor>sundays</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/sundaysno.49.jpg?v=1500505691" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>sundays<br>
+        <strong>Type: </strong>Nail Polish<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>
+<em>Description</em> </h5>
+<blockquote>
+<p><span><gs id="3cf87bca-0191-4046-83cf-695391377562" ginger_software_uiphraseguid="cca2040f-fce9-439b-8f1f-f785e8179b30" class="GINGER_SOFTWARE_mark">Brand Seen In: InStyle, Vogue, Well+Good, Into the Gloss, Refinery29 + more </gs></span></p>
+</blockquote>
+<p><span><gs id="3cf87bca-0191-4046-83cf-695391377562" ginger_software_uiphraseguid="cca2040f-fce9-439b-8f1f-f785e8179b30" class="GINGER_SOFTWARE_mark">This 10-Free polish was formulated</gs> with your well-being in mind. </span></p>
+<ul>
+<li>
+<p><span><gs id="b1dc4cac-59b4-4d55-90f0-954031ef4f8e" ginger_software_uiphraseguid="3bbcb8be-3257-4e7c-a88a-f04cf4268117" class="GINGER_SOFTWARE_mark">cruelty</gs>-free</span></p>
+</li>
+<li>
+<p><span><gs id="3fccfe13-4ea7-477c-a39b-8816ce8ec570" ginger_software_uiphraseguid="b8759e77-5cf9-4a3c-a328-7b482a58f61f" class="GINGER_SOFTWARE_mark">vegan</gs></span></p>
+</li>
+<li>
+<p><span>10-free</span></p>
+</li>
+<li>
+<p><span>non-toxic</span></p>
+</li>
+<li>
+<p><span><gs id="7910083b-0153-45df-bf66-2248c84befbd" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">bottle</gs> shape and brush is optimized for <gs id="fcd4f9aa-b1e3-46c0-a2dd-0580940b6afb" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">precise and quick application</gs></span></p>
+</li>
+</ul>
+<p><span><gs id="edd1ddd6-d26f-4e7c-923a-b1c85f81c52c" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">Does</gs> </span><em>not </em><span>include: </span><span>dibutyl phthalate, toluene, xylene, ethyl <gs id="f1956031-446a-4d8a-9909-49ec845a9690" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">tosylamide</gs>, camphor, formaldehyde, formaldehyde resin, <gs id="263cfdb1-0ea2-40d5-a909-6365a101f475" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">parabens</gs>, and tert-butyl hydroperoxide. <gs id="7079d743-2014-4fe3-a60e-96b65dfb47ee" ginger_software_uiphraseguid="88211c01-34f1-45a3-b38b-5cd8c7b13ed7" class="GINGER_SOFTWARE_mark">net</gs> wt. <gs id="b1ff45db-3e7b-4e83-a719-80e1265c81ee" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">.</gs>47 <gs id="9c39073c-14ee-4185-93c6-20ceb6f130ab" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">fl</gs> <gs id="4d90f9a7-2fc5-4a3c-a848-88f1efe4039a" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">oz</gs> | 14 ml. </span><span><gs id="b0112880-b9c7-49f8-bd70-ca4815d8f601" ginger_software_uiphraseguid="0a7021b8-46ec-460b-9e15-0cfa934af11b" class="GINGER_SOFTWARE_mark">made</gs> in NY</span></p>
+<p><strong><em>Our Beauty Notes</em>: The most perfectly sheer pink yet, bridal worthy. For all skin tones. We cannot get enough and highly recommend this brand as a staple for your clean beauty bag. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-free</s:tag>
+    <s:tag>Nails</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/9834527889</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/9834512849</id>
+    <published>2017-02-19T10:55:00-08:00</published>
+    <updated>2017-02-19T10:55:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/no-48-sheer-soft-eggshell"/>
+    <title>No.48 (Sheer Soft Eggshell)</title>
+    <s:type>Nail Polish</s:type>
+    <s:vendor>sundays</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/sundaysno48.jpg?v=1500505339" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>sundays<br>
+        <strong>Type: </strong>Nail Polish<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>
+<em>Description</em> </h5>
+<blockquote>
+<p><span>Brand Seen In: InStyle, Vogue, Well+Good, Into the Gloss, Refinery29 + more </span></p>
+</blockquote>
+<p><span><gs id="3cf87bca-0191-4046-83cf-695391377562" ginger_software_uiphraseguid="cca2040f-fce9-439b-8f1f-f785e8179b30" class="GINGER_SOFTWARE_mark">This 10-Free polish was formulated</gs> with your well-being in mind. </span></p>
+<ul>
+<li>
+<p><span><gs id="b1dc4cac-59b4-4d55-90f0-954031ef4f8e" ginger_software_uiphraseguid="3bbcb8be-3257-4e7c-a88a-f04cf4268117" class="GINGER_SOFTWARE_mark">cruelty</gs>-free</span></p>
+</li>
+<li>
+<p><span><gs id="3fccfe13-4ea7-477c-a39b-8816ce8ec570" ginger_software_uiphraseguid="b8759e77-5cf9-4a3c-a328-7b482a58f61f" class="GINGER_SOFTWARE_mark">vegan</gs></span></p>
+</li>
+<li>
+<p><span>10-free</span></p>
+</li>
+<li>
+<p><span>non-toxic</span></p>
+</li>
+<li>
+<p><span><gs id="7910083b-0153-45df-bf66-2248c84befbd" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">bottle</gs> shape and brush is optimized for <gs id="fcd4f9aa-b1e3-46c0-a2dd-0580940b6afb" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">precise and quick application</gs></span></p>
+</li>
+</ul>
+<p><span><gs id="edd1ddd6-d26f-4e7c-923a-b1c85f81c52c" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">Does</gs> </span><em>not </em><span>include: </span><span>dibutyl phthalate, toluene, xylene, ethyl <gs id="f1956031-446a-4d8a-9909-49ec845a9690" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">tosylamide</gs>, camphor, formaldehyde, formaldehyde resin, <gs id="263cfdb1-0ea2-40d5-a909-6365a101f475" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">parabens</gs>, and tert-butyl hydroperoxide. <gs id="7079d743-2014-4fe3-a60e-96b65dfb47ee" ginger_software_uiphraseguid="88211c01-34f1-45a3-b38b-5cd8c7b13ed7" class="GINGER_SOFTWARE_mark">net</gs> wt. <gs id="b1ff45db-3e7b-4e83-a719-80e1265c81ee" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">.</gs>47 <gs id="9c39073c-14ee-4185-93c6-20ceb6f130ab" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">fl</gs> <gs id="4d90f9a7-2fc5-4a3c-a848-88f1efe4039a" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">oz</gs> | 14 ml. </span><span><gs id="b0112880-b9c7-49f8-bd70-ca4815d8f601" ginger_software_uiphraseguid="0a7021b8-46ec-460b-9e15-0cfa934af11b" class="GINGER_SOFTWARE_mark">made</gs> in NY</span></p>
+<p><strong><em>Our Beauty Notes</em>: This flawless, sheer 10-Free eggshell shade is considerably perfect for everyday giving off the classic, never-boring, perfection shade for all skin tones that's especially beautiful come summer. <br></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-free</s:tag>
+    <s:tag>Nails</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/9834512849</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/8639962897</id>
+    <published>2017-02-19T10:55:00-08:00</published>
+    <updated>2017-02-19T10:55:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/t-1-top-coat"/>
+    <title>T.1 (Top Coat)</title>
+    <s:type>Nail Polish</s:type>
+    <s:vendor>sundays</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/T.1sundays.jpg?v=1501272078" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>sundays<br>
+        <strong>Type: </strong>Nail Polish<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><blockquote>
+<h5>
+<em>Description</em> </h5>
+<p><span><gs id="3cf87bca-0191-4046-83cf-695391377562" ginger_software_uiphraseguid="cca2040f-fce9-439b-8f1f-f785e8179b30" class="GINGER_SOFTWARE_mark">Brand Seen In: InStyle, Vogue, Well+Good, Into the Gloss, Refinery29 + more  </gs></span></p>
+</blockquote>
+<p><span><gs id="3cf87bca-0191-4046-83cf-695391377562" ginger_software_uiphraseguid="cca2040f-fce9-439b-8f1f-f785e8179b30" class="GINGER_SOFTWARE_mark">This 10-Free polish was formulated</gs> with your well-being in mind. </span></p>
+<ul>
+<li>
+<p><span><gs id="b1dc4cac-59b4-4d55-90f0-954031ef4f8e" ginger_software_uiphraseguid="3bbcb8be-3257-4e7c-a88a-f04cf4268117" class="GINGER_SOFTWARE_mark">cruelty</gs>-free</span></p>
+</li>
+<li>
+<p><span><gs id="3fccfe13-4ea7-477c-a39b-8816ce8ec570" ginger_software_uiphraseguid="b8759e77-5cf9-4a3c-a328-7b482a58f61f" class="GINGER_SOFTWARE_mark">vegan</gs></span></p>
+</li>
+<li>
+<p><span>10-free</span></p>
+</li>
+<li>
+<p><span>non-toxic</span></p>
+</li>
+<li>
+<p><span><gs id="7910083b-0153-45df-bf66-2248c84befbd" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">bottle</gs> shape and brush is optimized for <gs id="fcd4f9aa-b1e3-46c0-a2dd-0580940b6afb" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">precise and quick application</gs></span></p>
+</li>
+</ul>
+<p><span><gs id="edd1ddd6-d26f-4e7c-923a-b1c85f81c52c" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">Does</gs> </span><em>not </em><span>include: </span><span>dibutyl phthalate, toluene, xylene, ethyl <gs id="f1956031-446a-4d8a-9909-49ec845a9690" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">tosylamide</gs>, camphor, formaldehyde, formaldehyde resin, <gs id="263cfdb1-0ea2-40d5-a909-6365a101f475" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">parabens</gs>, and tert-butyl hydroperoxide. <gs id="7079d743-2014-4fe3-a60e-96b65dfb47ee" ginger_software_uiphraseguid="88211c01-34f1-45a3-b38b-5cd8c7b13ed7" class="GINGER_SOFTWARE_mark">net</gs> wt. <gs id="b1ff45db-3e7b-4e83-a719-80e1265c81ee" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">.</gs>47 <gs id="9c39073c-14ee-4185-93c6-20ceb6f130ab" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">fl</gs> <gs id="4d90f9a7-2fc5-4a3c-a848-88f1efe4039a" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">oz</gs> | 14 ml. </span><span><gs id="b0112880-b9c7-49f8-bd70-ca4815d8f601" ginger_software_uiphraseguid="0a7021b8-46ec-460b-9e15-0cfa934af11b" class="GINGER_SOFTWARE_mark">made</gs> in NY</span></p>
+<p><strong><em>Our Beauty Notes</em>: Black nails are no longer gothic: welcome this modern, chic, extremely cool onyx black that is particular gorgeous on short rounded nails. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-free</s:tag>
+    <s:tag>Nails</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/8639962897</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>LB-SUNDAYS-T.1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/8639961937</id>
+    <published>2017-02-19T10:55:00-08:00</published>
+    <updated>2017-02-19T10:55:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/b-1-base-coat"/>
+    <title>B.1 (Base Coat)</title>
+    <s:type>Nail Polish</s:type>
+    <s:vendor>sundays</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/sundaysbasecoat10free.jpg?v=1501272091" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>sundays<br>
+        <strong>Type: </strong>Nail Polish<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>
+<em>Description</em> </h5>
+<blockquote>
+<p><span>Brand Seen In: InStyle, Vogue, Well+Good, Into the Gloss, Refinery29 + more </span></p>
+</blockquote>
+<p><span><gs id="3cf87bca-0191-4046-83cf-695391377562" ginger_software_uiphraseguid="cca2040f-fce9-439b-8f1f-f785e8179b30" class="GINGER_SOFTWARE_mark">This 10-Free polish was formulated</gs> with your well-being in mind. </span></p>
+<ul>
+<li>
+<p><span><gs id="b1dc4cac-59b4-4d55-90f0-954031ef4f8e" ginger_software_uiphraseguid="3bbcb8be-3257-4e7c-a88a-f04cf4268117" class="GINGER_SOFTWARE_mark">cruelty</gs>-free</span></p>
+</li>
+<li>
+<p><span><gs id="3fccfe13-4ea7-477c-a39b-8816ce8ec570" ginger_software_uiphraseguid="b8759e77-5cf9-4a3c-a328-7b482a58f61f" class="GINGER_SOFTWARE_mark">vegan</gs></span></p>
+</li>
+<li>
+<p><span>10-free</span></p>
+</li>
+<li>
+<p><span>non-toxic</span></p>
+</li>
+<li>
+<p><span><gs id="7910083b-0153-45df-bf66-2248c84befbd" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">bottle</gs> shape and brush is optimized for <gs id="fcd4f9aa-b1e3-46c0-a2dd-0580940b6afb" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">precise and quick application</gs></span></p>
+</li>
+</ul>
+<p><span><gs id="edd1ddd6-d26f-4e7c-923a-b1c85f81c52c" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">Does</gs> </span><em>not </em><span>include: </span><span>dibutyl phthalate, toluene, xylene, ethyl <gs id="f1956031-446a-4d8a-9909-49ec845a9690" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">tosylamide</gs>, camphor, formaldehyde, formaldehyde resin, <gs id="263cfdb1-0ea2-40d5-a909-6365a101f475" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">parabens</gs>, and tert-butyl hydroperoxide. <gs id="7079d743-2014-4fe3-a60e-96b65dfb47ee" ginger_software_uiphraseguid="88211c01-34f1-45a3-b38b-5cd8c7b13ed7" class="GINGER_SOFTWARE_mark">net</gs> wt. <gs id="b1ff45db-3e7b-4e83-a719-80e1265c81ee" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">.</gs>47 <gs id="9c39073c-14ee-4185-93c6-20ceb6f130ab" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">fl</gs> <gs id="4d90f9a7-2fc5-4a3c-a848-88f1efe4039a" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">oz</gs> | 14 ml. </span><span><gs id="b0112880-b9c7-49f8-bd70-ca4815d8f601" ginger_software_uiphraseguid="0a7021b8-46ec-460b-9e15-0cfa934af11b" class="GINGER_SOFTWARE_mark">made</gs> in NY</span></p>
+<p><strong><em>Our Beauty Notes</em>: Base coat allows the perfect prime to any substantial manicure or pedicure allowing the color to hold. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-free</s:tag>
+    <s:tag>Nails</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/8639961937</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>LB-SUNDAY-B1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/8639950097</id>
+    <published>2017-02-19T10:55:00-08:00</published>
+    <updated>2017-02-19T10:55:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/no-42-onyx-black"/>
+    <title>No.42 (Onyx Black)</title>
+    <s:type>Nail Polish</s:type>
+    <s:vendor>sundays</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/sundays10freeno.42.jpg?v=1487544151" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>sundays<br>
+        <strong>Type: </strong>Nail Polish<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>
+<em>Description</em> </h5>
+<blockquote>
+<p><span><gs id="3cf87bca-0191-4046-83cf-695391377562" ginger_software_uiphraseguid="cca2040f-fce9-439b-8f1f-f785e8179b30" class="GINGER_SOFTWARE_mark">Brand Seen In: InStyle, Vogue, Well+Good, Into the Gloss, Refinery29 + more  </gs></span></p>
+</blockquote>
+<p><span><gs id="3cf87bca-0191-4046-83cf-695391377562" ginger_software_uiphraseguid="cca2040f-fce9-439b-8f1f-f785e8179b30" class="GINGER_SOFTWARE_mark">This 10-Free polish was formulated</gs> with your well-being in mind. </span></p>
+<ul>
+<li>
+<p><span><gs id="b1dc4cac-59b4-4d55-90f0-954031ef4f8e" ginger_software_uiphraseguid="3bbcb8be-3257-4e7c-a88a-f04cf4268117" class="GINGER_SOFTWARE_mark">cruelty</gs>-free</span></p>
+</li>
+<li>
+<p><span><gs id="3fccfe13-4ea7-477c-a39b-8816ce8ec570" ginger_software_uiphraseguid="b8759e77-5cf9-4a3c-a328-7b482a58f61f" class="GINGER_SOFTWARE_mark">vegan</gs></span></p>
+</li>
+<li>
+<p><span>10-free</span></p>
+</li>
+<li>
+<p><span>non-toxic</span></p>
+</li>
+<li>
+<p><span><gs id="7910083b-0153-45df-bf66-2248c84befbd" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">bottle</gs> shape and brush is optimized for <gs id="fcd4f9aa-b1e3-46c0-a2dd-0580940b6afb" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">precise and quick application</gs></span></p>
+</li>
+</ul>
+<p><span><gs id="edd1ddd6-d26f-4e7c-923a-b1c85f81c52c" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">Does</gs> </span><em>not </em><span>include: </span><span>dibutyl phthalate, toluene, xylene, ethyl <gs id="f1956031-446a-4d8a-9909-49ec845a9690" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">tosylamide</gs>, camphor, formaldehyde, formaldehyde resin, <gs id="263cfdb1-0ea2-40d5-a909-6365a101f475" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">parabens</gs>, and tert-butyl hydroperoxide. <gs id="7079d743-2014-4fe3-a60e-96b65dfb47ee" ginger_software_uiphraseguid="88211c01-34f1-45a3-b38b-5cd8c7b13ed7" class="GINGER_SOFTWARE_mark">net</gs> wt. <gs id="b1ff45db-3e7b-4e83-a719-80e1265c81ee" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">.</gs>47 <gs id="9c39073c-14ee-4185-93c6-20ceb6f130ab" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">fl</gs> <gs id="4d90f9a7-2fc5-4a3c-a848-88f1efe4039a" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">oz</gs> | 14 ml. </span><span><gs id="b0112880-b9c7-49f8-bd70-ca4815d8f601" ginger_software_uiphraseguid="0a7021b8-46ec-460b-9e15-0cfa934af11b" class="GINGER_SOFTWARE_mark">made</gs> in NY</span></p>
+<p><strong><em>Our Beauty Notes</em>: Black nails are no longer gothic: welcome this modern, chic, extremely cool onyx black that is particular gorgeous on short rounded nails. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-free</s:tag>
+    <s:tag>Nails</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/8639950097</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/8639929233</id>
+    <published>2017-02-19T10:55:00-08:00</published>
+    <updated>2017-02-19T10:55:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/no-24-pink-berry"/>
+    <title>No.24 (Pink Berry)</title>
+    <s:type>Nail Polish</s:type>
+    <s:vendor>sundays</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/sundays10freeno.24.jpg?v=1499968999" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>sundays<br>
+        <strong>Type: </strong>Nail Polish<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>
+<em>Description</em> </h5>
+<blockquote>
+<p><span><gs id="3cf87bca-0191-4046-83cf-695391377562" ginger_software_uiphraseguid="cca2040f-fce9-439b-8f1f-f785e8179b30" class="GINGER_SOFTWARE_mark">Brand Seen In: InStyle, Vogue, Well+Good, Into the Gloss, Refinery29 + more  </gs></span></p>
+</blockquote>
+<p><span><gs id="3cf87bca-0191-4046-83cf-695391377562" ginger_software_uiphraseguid="cca2040f-fce9-439b-8f1f-f785e8179b30" class="GINGER_SOFTWARE_mark">This 10-Free polish was formulated</gs> with your well-being in mind. </span></p>
+<ul>
+<li>
+<p><span><gs id="b1dc4cac-59b4-4d55-90f0-954031ef4f8e" ginger_software_uiphraseguid="3bbcb8be-3257-4e7c-a88a-f04cf4268117" class="GINGER_SOFTWARE_mark">cruelty</gs>-free</span></p>
+</li>
+<li>
+<p><span><gs id="3fccfe13-4ea7-477c-a39b-8816ce8ec570" ginger_software_uiphraseguid="b8759e77-5cf9-4a3c-a328-7b482a58f61f" class="GINGER_SOFTWARE_mark">vegan</gs></span></p>
+</li>
+<li>
+<p><span>10-free</span></p>
+</li>
+<li>
+<p><span>non-toxic</span></p>
+</li>
+<li>
+<p><span><gs id="7910083b-0153-45df-bf66-2248c84befbd" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">bottle</gs> shape and brush is optimized for <gs id="fcd4f9aa-b1e3-46c0-a2dd-0580940b6afb" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">precise and quick application</gs></span></p>
+</li>
+</ul>
+<p><span><gs id="edd1ddd6-d26f-4e7c-923a-b1c85f81c52c" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">Does</gs> </span><em>not </em><span>include: </span><span>dibutyl phthalate, toluene, xylene, ethyl <gs id="f1956031-446a-4d8a-9909-49ec845a9690" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">tosylamide</gs>, camphor, formaldehyde, formaldehyde resin, <gs id="263cfdb1-0ea2-40d5-a909-6365a101f475" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">parabens</gs>, and tert-butyl hydroperoxide. <gs id="7079d743-2014-4fe3-a60e-96b65dfb47ee" ginger_software_uiphraseguid="88211c01-34f1-45a3-b38b-5cd8c7b13ed7" class="GINGER_SOFTWARE_mark">net</gs> wt. <gs id="b1ff45db-3e7b-4e83-a719-80e1265c81ee" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">.</gs>47 <gs id="9c39073c-14ee-4185-93c6-20ceb6f130ab" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">fl</gs> <gs id="4d90f9a7-2fc5-4a3c-a848-88f1efe4039a" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">oz</gs> | 14 ml. </span><span><gs id="b0112880-b9c7-49f8-bd70-ca4815d8f601" ginger_software_uiphraseguid="0a7021b8-46ec-460b-9e15-0cfa934af11b" class="GINGER_SOFTWARE_mark">made</gs> in NY</span></p>
+<p><strong><em>Our Beauty Notes</em>: Can we all agree that when berry and pink shades get together - magic happens? Yes, we knew it. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-free</s:tag>
+    <s:tag>Nails</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/8639929233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/8639922897</id>
+    <published>2017-02-19T10:55:00-08:00</published>
+    <updated>2017-02-19T10:55:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/no-22-mulberry"/>
+    <title>No.22 (Mulberry)</title>
+    <s:type>Nail Polish</s:type>
+    <s:vendor>sundays</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/sundays10freeno.22.jpg?v=1501272008" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>sundays<br>
+        <strong>Type: </strong>Nail Polish<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>
+<em>Description</em> </h5>
+<blockquote>
+<p><span><gs id="3cf87bca-0191-4046-83cf-695391377562" ginger_software_uiphraseguid="cca2040f-fce9-439b-8f1f-f785e8179b30" class="GINGER_SOFTWARE_mark">Brand Seen In: InStyle, Vogue, Well+Good, Into the Gloss, Refinery29 + more  </gs></span></p>
+</blockquote>
+<p><span><gs id="3cf87bca-0191-4046-83cf-695391377562" ginger_software_uiphraseguid="cca2040f-fce9-439b-8f1f-f785e8179b30" class="GINGER_SOFTWARE_mark">This 10-Free polish was formulated</gs> with your well-being in mind. </span></p>
+<ul>
+<li>
+<p><span><gs id="b1dc4cac-59b4-4d55-90f0-954031ef4f8e" ginger_software_uiphraseguid="3bbcb8be-3257-4e7c-a88a-f04cf4268117" class="GINGER_SOFTWARE_mark">cruelty</gs>-free</span></p>
+</li>
+<li>
+<p><span><gs id="3fccfe13-4ea7-477c-a39b-8816ce8ec570" ginger_software_uiphraseguid="b8759e77-5cf9-4a3c-a328-7b482a58f61f" class="GINGER_SOFTWARE_mark">vegan</gs></span></p>
+</li>
+<li>
+<p><span>10-free</span></p>
+</li>
+<li>
+<p><span>non-toxic</span></p>
+</li>
+<li>
+<p><span><gs id="7910083b-0153-45df-bf66-2248c84befbd" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">bottle</gs> shape and brush is optimized for <gs id="fcd4f9aa-b1e3-46c0-a2dd-0580940b6afb" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">precise and quick application</gs></span></p>
+</li>
+</ul>
+<p><span><gs id="edd1ddd6-d26f-4e7c-923a-b1c85f81c52c" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">Does</gs> </span><em>not </em><span>include: </span><span>dibutyl phthalate, toluene, xylene, ethyl <gs id="f1956031-446a-4d8a-9909-49ec845a9690" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">tosylamide</gs>, camphor, formaldehyde, formaldehyde resin, <gs id="263cfdb1-0ea2-40d5-a909-6365a101f475" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">parabens</gs>, and tert-butyl hydroperoxide. <gs id="7079d743-2014-4fe3-a60e-96b65dfb47ee" ginger_software_uiphraseguid="88211c01-34f1-45a3-b38b-5cd8c7b13ed7" class="GINGER_SOFTWARE_mark">net</gs> wt. <gs id="b1ff45db-3e7b-4e83-a719-80e1265c81ee" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">.</gs>47 <gs id="9c39073c-14ee-4185-93c6-20ceb6f130ab" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">fl</gs> <gs id="4d90f9a7-2fc5-4a3c-a848-88f1efe4039a" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">oz</gs> | 14 ml. </span><span><gs id="b0112880-b9c7-49f8-bd70-ca4815d8f601" ginger_software_uiphraseguid="0a7021b8-46ec-460b-9e15-0cfa934af11b" class="GINGER_SOFTWARE_mark">made</gs> in NY</span></p>
+<p><strong><em>Our Beauty Notes</em>: A vibrant, dark and absolutely stunning shade that's beautiful on all skin tones. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-free</s:tag>
+    <s:tag>Nails</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/8639922897</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>LB-SUNDAYS-No.22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/8639909777</id>
+    <published>2017-02-19T10:55:00-08:00</published>
+    <updated>2017-02-19T10:55:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/no-21-purple-gray"/>
+    <title>No.21 (Purple Gray)</title>
+    <s:type>Nail Polish</s:type>
+    <s:vendor>sundays</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/sundays10freeno.21.jpg?v=1501271481" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>sundays<br>
+        <strong>Type: </strong>Nail Polish<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>
+<em>Description</em> </h5>
+<p><span><gs id="3cf87bca-0191-4046-83cf-695391377562" ginger_software_uiphraseguid="cca2040f-fce9-439b-8f1f-f785e8179b30" class="GINGER_SOFTWARE_mark">This 10-Free polish was formulated</gs> with your well-being in mind. </span></p>
+<ul>
+<li>
+<p><span><gs id="b1dc4cac-59b4-4d55-90f0-954031ef4f8e" ginger_software_uiphraseguid="3bbcb8be-3257-4e7c-a88a-f04cf4268117" class="GINGER_SOFTWARE_mark">cruelty</gs>-free</span></p>
+</li>
+<li>
+<p><span><gs id="3fccfe13-4ea7-477c-a39b-8816ce8ec570" ginger_software_uiphraseguid="b8759e77-5cf9-4a3c-a328-7b482a58f61f" class="GINGER_SOFTWARE_mark">vegan</gs></span></p>
+</li>
+<li>
+<p><span>10-free</span></p>
+</li>
+<li>
+<p><span>non-toxic</span></p>
+</li>
+<li>
+<p><span><gs id="7910083b-0153-45df-bf66-2248c84befbd" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">bottle</gs> shape and brush is optimized for <gs id="fcd4f9aa-b1e3-46c0-a2dd-0580940b6afb" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">precise and quick application</gs></span></p>
+</li>
+</ul>
+<p><span><gs id="edd1ddd6-d26f-4e7c-923a-b1c85f81c52c" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">Does</gs> </span><em>not </em><span>include: </span><span>dibutyl phthalate, toluene, xylene, ethyl <gs id="f1956031-446a-4d8a-9909-49ec845a9690" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">tosylamide</gs>, camphor, formaldehyde, formaldehyde resin, <gs id="263cfdb1-0ea2-40d5-a909-6365a101f475" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">parabens</gs>, and tert-butyl hydroperoxide. <gs id="7079d743-2014-4fe3-a60e-96b65dfb47ee" ginger_software_uiphraseguid="88211c01-34f1-45a3-b38b-5cd8c7b13ed7" class="GINGER_SOFTWARE_mark">net</gs> wt. <gs id="b1ff45db-3e7b-4e83-a719-80e1265c81ee" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">.</gs>47 <gs id="9c39073c-14ee-4185-93c6-20ceb6f130ab" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">fl</gs> <gs id="4d90f9a7-2fc5-4a3c-a848-88f1efe4039a" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">oz</gs> | 14 ml. </span><span><gs id="b0112880-b9c7-49f8-bd70-ca4815d8f601" ginger_software_uiphraseguid="0a7021b8-46ec-460b-9e15-0cfa934af11b" class="GINGER_SOFTWARE_mark">made</gs> in NY</span></p>
+<p><strong><em>Our Beauty Notes</em>: We love a good purple meets gray shade that toes the line with our cool-girl alter ego. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-free</s:tag>
+    <s:tag>Nails</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/8639909777</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>LB-SUNDAYS-No.21</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/8639903377</id>
+    <published>2017-02-19T10:55:00-08:00</published>
+    <updated>2017-02-19T10:55:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/no-20-deep-aborigine"/>
+    <title>No.20 (Deep Aborigine)</title>
+    <s:type>Nail Polish</s:type>
+    <s:vendor>sundays</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/sundays10freeno.20.jpg?v=1487540527" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>sundays<br>
+        <strong>Type: </strong>Nail Polish<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>
+<em>Description</em> </h5>
+<blockquote>
+<p><span><gs id="3cf87bca-0191-4046-83cf-695391377562" ginger_software_uiphraseguid="cca2040f-fce9-439b-8f1f-f785e8179b30" class="GINGER_SOFTWARE_mark">Brand Seen In: InStyle, Vogue, Well+Good, Into the Gloss, Refinery29 + more  </gs></span></p>
+</blockquote>
+<p><span><gs id="3cf87bca-0191-4046-83cf-695391377562" ginger_software_uiphraseguid="cca2040f-fce9-439b-8f1f-f785e8179b30" class="GINGER_SOFTWARE_mark">This 10-Free polish was formulated</gs> with your well-being in mind. </span></p>
+<ul>
+<li>
+<p><span><gs id="b1dc4cac-59b4-4d55-90f0-954031ef4f8e" ginger_software_uiphraseguid="3bbcb8be-3257-4e7c-a88a-f04cf4268117" class="GINGER_SOFTWARE_mark">cruelty</gs>-free</span></p>
+</li>
+<li>
+<p><span><gs id="3fccfe13-4ea7-477c-a39b-8816ce8ec570" ginger_software_uiphraseguid="b8759e77-5cf9-4a3c-a328-7b482a58f61f" class="GINGER_SOFTWARE_mark">vegan</gs></span></p>
+</li>
+<li>
+<p><span>10-free</span></p>
+</li>
+<li>
+<p><span>non-toxic</span></p>
+</li>
+<li>
+<p><span><gs id="7910083b-0153-45df-bf66-2248c84befbd" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">bottle</gs> shape and brush is optimized for <gs id="fcd4f9aa-b1e3-46c0-a2dd-0580940b6afb" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">precise and quick application</gs></span></p>
+</li>
+</ul>
+<p><span><gs id="edd1ddd6-d26f-4e7c-923a-b1c85f81c52c" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">Does</gs> </span><em>not </em><span>include: </span><span>dibutyl phthalate, toluene, xylene, ethyl <gs id="f1956031-446a-4d8a-9909-49ec845a9690" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">tosylamide</gs>, camphor, formaldehyde, formaldehyde resin, <gs id="263cfdb1-0ea2-40d5-a909-6365a101f475" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">parabens</gs>, and tert-butyl hydroperoxide. <gs id="7079d743-2014-4fe3-a60e-96b65dfb47ee" ginger_software_uiphraseguid="88211c01-34f1-45a3-b38b-5cd8c7b13ed7" class="GINGER_SOFTWARE_mark">net</gs> wt. <gs id="b1ff45db-3e7b-4e83-a719-80e1265c81ee" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">.</gs>47 <gs id="9c39073c-14ee-4185-93c6-20ceb6f130ab" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">fl</gs> <gs id="4d90f9a7-2fc5-4a3c-a848-88f1efe4039a" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">oz</gs> | 14 ml. </span><span><gs id="b0112880-b9c7-49f8-bd70-ca4815d8f601" ginger_software_uiphraseguid="0a7021b8-46ec-460b-9e15-0cfa934af11b" class="GINGER_SOFTWARE_mark">made</gs> in NY</span></p>
+<p><strong><em>Our Beauty Notes</em>: Sophistic meets cool. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-free</s:tag>
+    <s:tag>Nails</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/8639903377</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>LB-SUNDAYS-No.20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/8639897617</id>
+    <published>2017-02-19T10:55:00-08:00</published>
+    <updated>2017-02-19T10:55:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/no-18-deep-plum"/>
+    <title>No.18 (Deep Plum)</title>
+    <s:type>Nail Polish</s:type>
+    <s:vendor>sundays</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/sundays10freeno.18.jpg?v=1487539899" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>sundays<br>
+        <strong>Type: </strong>Nail Polish<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>
+<em>Description</em> </h5>
+<blockquote>
+<p><span><gs id="3cf87bca-0191-4046-83cf-695391377562" ginger_software_uiphraseguid="cca2040f-fce9-439b-8f1f-f785e8179b30" class="GINGER_SOFTWARE_mark">Brand Seen In: InStyle, Vogue, Well+Good, Into the Gloss, Refinery29 + more </gs></span></p>
+</blockquote>
+<p><span><gs id="3cf87bca-0191-4046-83cf-695391377562" ginger_software_uiphraseguid="cca2040f-fce9-439b-8f1f-f785e8179b30" class="GINGER_SOFTWARE_mark">This 10-Free polish was formulated</gs> with your well-being in mind. </span></p>
+<ul>
+<li>
+<p><span><gs id="b1dc4cac-59b4-4d55-90f0-954031ef4f8e" ginger_software_uiphraseguid="3bbcb8be-3257-4e7c-a88a-f04cf4268117" class="GINGER_SOFTWARE_mark">cruelty</gs>-free</span></p>
+</li>
+<li>
+<p><span><gs id="3fccfe13-4ea7-477c-a39b-8816ce8ec570" ginger_software_uiphraseguid="b8759e77-5cf9-4a3c-a328-7b482a58f61f" class="GINGER_SOFTWARE_mark">vegan</gs></span></p>
+</li>
+<li>
+<p><span>10-free</span></p>
+</li>
+<li>
+<p><span>non-toxic</span></p>
+</li>
+<li>
+<p><span><gs id="7910083b-0153-45df-bf66-2248c84befbd" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">bottle</gs> shape and brush is optimized for <gs id="fcd4f9aa-b1e3-46c0-a2dd-0580940b6afb" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">precise and quick application</gs></span></p>
+</li>
+</ul>
+<p><span><gs id="edd1ddd6-d26f-4e7c-923a-b1c85f81c52c" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">Does</gs> </span><em>not </em><span>include: </span><span>dibutyl phthalate, toluene, xylene, ethyl <gs id="f1956031-446a-4d8a-9909-49ec845a9690" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">tosylamide</gs>, camphor, formaldehyde, formaldehyde resin, <gs id="263cfdb1-0ea2-40d5-a909-6365a101f475" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">parabens</gs>, and tert-butyl hydroperoxide. <gs id="7079d743-2014-4fe3-a60e-96b65dfb47ee" ginger_software_uiphraseguid="88211c01-34f1-45a3-b38b-5cd8c7b13ed7" class="GINGER_SOFTWARE_mark">net</gs> wt. <gs id="b1ff45db-3e7b-4e83-a719-80e1265c81ee" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">.</gs>47 <gs id="9c39073c-14ee-4185-93c6-20ceb6f130ab" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">fl</gs> <gs id="4d90f9a7-2fc5-4a3c-a848-88f1efe4039a" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">oz</gs> | 14 ml. </span><span><gs id="b0112880-b9c7-49f8-bd70-ca4815d8f601" ginger_software_uiphraseguid="0a7021b8-46ec-460b-9e15-0cfa934af11b" class="GINGER_SOFTWARE_mark">made</gs> in NY</span></p>
+<p><strong><em>Our Beauty Notes</em>: A deep, dark plum that we can't put down. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-free</s:tag>
+    <s:tag>Nails</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/8639897617</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/8639881553</id>
+    <published>2017-02-19T10:55:00-08:00</published>
+    <updated>2017-02-19T10:55:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/no-14-deep-fuschia"/>
+    <title>No.14 (Deep Fuschia)</title>
+    <s:type>Nail Polish</s:type>
+    <s:vendor>sundays</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/sundays10freeno.14.jpg?v=1499968932" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>sundays<br>
+        <strong>Type: </strong>Nail Polish<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>
+<em>Description</em> </h5>
+<blockquote>
+<p><span><gs id="3cf87bca-0191-4046-83cf-695391377562" ginger_software_uiphraseguid="cca2040f-fce9-439b-8f1f-f785e8179b30" class="GINGER_SOFTWARE_mark">Brand Seen In: InStyle, Vogue, Well+Good, Into the Gloss, Refinery29 + more  </gs></span></p>
+</blockquote>
+<p><span><gs id="3cf87bca-0191-4046-83cf-695391377562" ginger_software_uiphraseguid="cca2040f-fce9-439b-8f1f-f785e8179b30" class="GINGER_SOFTWARE_mark">This 10-Free polish was formulated</gs> with your well-being in mind. </span></p>
+<ul>
+<li>
+<p><span><gs id="b1dc4cac-59b4-4d55-90f0-954031ef4f8e" ginger_software_uiphraseguid="3bbcb8be-3257-4e7c-a88a-f04cf4268117" class="GINGER_SOFTWARE_mark">cruelty</gs>-free</span></p>
+</li>
+<li>
+<p><span><gs id="3fccfe13-4ea7-477c-a39b-8816ce8ec570" ginger_software_uiphraseguid="b8759e77-5cf9-4a3c-a328-7b482a58f61f" class="GINGER_SOFTWARE_mark">vegan</gs></span></p>
+</li>
+<li>
+<p><span>10-free</span></p>
+</li>
+<li>
+<p><span>non-toxic</span></p>
+</li>
+<li>
+<p><span><gs id="7910083b-0153-45df-bf66-2248c84befbd" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">bottle</gs> shape and brush is optimized for <gs id="fcd4f9aa-b1e3-46c0-a2dd-0580940b6afb" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">precise and quick application</gs></span></p>
+</li>
+</ul>
+<p><span><gs id="edd1ddd6-d26f-4e7c-923a-b1c85f81c52c" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">Does</gs> </span><em>not </em><span>include: </span><span>dibutyl phthalate, toluene, xylene, ethyl <gs id="f1956031-446a-4d8a-9909-49ec845a9690" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">tosylamide</gs>, camphor, formaldehyde, formaldehyde resin, <gs id="263cfdb1-0ea2-40d5-a909-6365a101f475" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">parabens</gs>, and tert-butyl hydroperoxide. <gs id="7079d743-2014-4fe3-a60e-96b65dfb47ee" ginger_software_uiphraseguid="88211c01-34f1-45a3-b38b-5cd8c7b13ed7" class="GINGER_SOFTWARE_mark">net</gs> wt. <gs id="b1ff45db-3e7b-4e83-a719-80e1265c81ee" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">.</gs>47 <gs id="9c39073c-14ee-4185-93c6-20ceb6f130ab" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">fl</gs> <gs id="4d90f9a7-2fc5-4a3c-a848-88f1efe4039a" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">oz</gs> | 14 ml. </span><span><gs id="b0112880-b9c7-49f8-bd70-ca4815d8f601" ginger_software_uiphraseguid="0a7021b8-46ec-460b-9e15-0cfa934af11b" class="GINGER_SOFTWARE_mark">made</gs> in NY</span></p>
+<p><strong><em>Our Beauty Notes</em>: A romantic shade that works year round. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-free</s:tag>
+    <s:tag>Nails</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/8639881553</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/8639863697</id>
+    <published>2017-02-19T10:55:00-08:00</published>
+    <updated>2017-02-19T10:55:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/no-11-hot-pink"/>
+    <title>No.11 (Hot Pink)</title>
+    <s:type>Nail Polish</s:type>
+    <s:vendor>sundays</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/sundays10freeno.11.jpg?v=1501271982" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>sundays<br>
+        <strong>Type: </strong>Nail Polish<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>
+<em>Description</em> </h5>
+<blockquote>
+<p><span><gs id="3cf87bca-0191-4046-83cf-695391377562" ginger_software_uiphraseguid="cca2040f-fce9-439b-8f1f-f785e8179b30" class="GINGER_SOFTWARE_mark">Brand Seen In: InStyle, Vogue, Well+Good, Into the Gloss, Refinery29 + more  </gs></span></p>
+</blockquote>
+<p><span><gs id="3cf87bca-0191-4046-83cf-695391377562" ginger_software_uiphraseguid="cca2040f-fce9-439b-8f1f-f785e8179b30" class="GINGER_SOFTWARE_mark">This 10-Free polish was formulated</gs> with your well-being in mind. </span></p>
+<ul>
+<li>
+<p><span><gs id="b1dc4cac-59b4-4d55-90f0-954031ef4f8e" ginger_software_uiphraseguid="3bbcb8be-3257-4e7c-a88a-f04cf4268117" class="GINGER_SOFTWARE_mark">cruelty</gs>-free</span></p>
+</li>
+<li>
+<p><span><gs id="3fccfe13-4ea7-477c-a39b-8816ce8ec570" ginger_software_uiphraseguid="b8759e77-5cf9-4a3c-a328-7b482a58f61f" class="GINGER_SOFTWARE_mark">vegan</gs></span></p>
+</li>
+<li>
+<p><span>10-free</span></p>
+</li>
+<li>
+<p><span>non-toxic</span></p>
+</li>
+<li>
+<p><span><gs id="7910083b-0153-45df-bf66-2248c84befbd" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">bottle</gs> shape and brush is optimized for <gs id="fcd4f9aa-b1e3-46c0-a2dd-0580940b6afb" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">precise and quick application</gs></span></p>
+</li>
+</ul>
+<p><span><gs id="edd1ddd6-d26f-4e7c-923a-b1c85f81c52c" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">Does</gs> </span><em>not </em><span>include: </span><span>dibutyl phthalate, toluene, xylene, ethyl <gs id="f1956031-446a-4d8a-9909-49ec845a9690" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">tosylamide</gs>, camphor, formaldehyde, formaldehyde resin, <gs id="263cfdb1-0ea2-40d5-a909-6365a101f475" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">parabens</gs>, and tert-butyl hydroperoxide. <gs id="7079d743-2014-4fe3-a60e-96b65dfb47ee" ginger_software_uiphraseguid="88211c01-34f1-45a3-b38b-5cd8c7b13ed7" class="GINGER_SOFTWARE_mark">net</gs> wt. <gs id="b1ff45db-3e7b-4e83-a719-80e1265c81ee" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">.</gs>47 <gs id="9c39073c-14ee-4185-93c6-20ceb6f130ab" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">fl</gs> <gs id="4d90f9a7-2fc5-4a3c-a848-88f1efe4039a" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">oz</gs> | 14 ml. </span><span><gs id="b0112880-b9c7-49f8-bd70-ca4815d8f601" ginger_software_uiphraseguid="0a7021b8-46ec-460b-9e15-0cfa934af11b" class="GINGER_SOFTWARE_mark">made</gs> in NY</span></p>
+<p><strong><em>Our Beauty Notes</em>: Hot pink with a touch of class, this shade wears well on every single skin tone. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-free</s:tag>
+    <s:tag>Nails</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/8639863697</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/8639833297</id>
+    <published>2017-02-19T10:55:00-08:00</published>
+    <updated>2017-02-19T10:55:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/no-10-bubblegum-pink"/>
+    <title>No.10 (Bubblegum Pink)</title>
+    <s:type>Nail Polish</s:type>
+    <s:vendor>sundays</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/sundays10freeno.10.jpg?v=1487538589" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>sundays<br>
+        <strong>Type: </strong>Nail Polish<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>
+<em>Description</em> </h5>
+<p><span><gs id="3cf87bca-0191-4046-83cf-695391377562" ginger_software_uiphraseguid="cca2040f-fce9-439b-8f1f-f785e8179b30" class="GINGER_SOFTWARE_mark">This 10-Free polish was formulated</gs> with your well-being in mind. </span></p>
+<ul>
+<li>
+<p><span><gs id="b1dc4cac-59b4-4d55-90f0-954031ef4f8e" ginger_software_uiphraseguid="3bbcb8be-3257-4e7c-a88a-f04cf4268117" class="GINGER_SOFTWARE_mark">cruelty</gs>-free</span></p>
+</li>
+<li>
+<p><span><gs id="3fccfe13-4ea7-477c-a39b-8816ce8ec570" ginger_software_uiphraseguid="b8759e77-5cf9-4a3c-a328-7b482a58f61f" class="GINGER_SOFTWARE_mark">vegan</gs></span></p>
+</li>
+<li>
+<p><span>10-free</span></p>
+</li>
+<li>
+<p><span>non-toxic</span></p>
+</li>
+<li>
+<p><span><gs id="7910083b-0153-45df-bf66-2248c84befbd" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">bottle</gs> shape and brush is optimized for <gs id="fcd4f9aa-b1e3-46c0-a2dd-0580940b6afb" ginger_software_uiphraseguid="3c8f484c-0ccf-4864-ba03-bcfbb86b91c0" class="GINGER_SOFTWARE_mark">precise and quick application</gs></span></p>
+</li>
+</ul>
+<p><span><gs id="edd1ddd6-d26f-4e7c-923a-b1c85f81c52c" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">Does</gs> </span><em>not </em><span>include: </span><span>dibutyl phthalate, toluene, xylene, ethyl <gs id="f1956031-446a-4d8a-9909-49ec845a9690" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">tosylamide</gs>, camphor, formaldehyde, formaldehyde resin, <gs id="263cfdb1-0ea2-40d5-a909-6365a101f475" ginger_software_uiphraseguid="6b979593-e72c-4655-9bb2-a1678123ef80" class="GINGER_SOFTWARE_mark">parabens</gs>, and tert-butyl hydroperoxide. <gs id="7079d743-2014-4fe3-a60e-96b65dfb47ee" ginger_software_uiphraseguid="88211c01-34f1-45a3-b38b-5cd8c7b13ed7" class="GINGER_SOFTWARE_mark">net</gs> wt. <gs id="b1ff45db-3e7b-4e83-a719-80e1265c81ee" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">.</gs>47 <gs id="9c39073c-14ee-4185-93c6-20ceb6f130ab" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">fl</gs> <gs id="4d90f9a7-2fc5-4a3c-a848-88f1efe4039a" ginger_software_uiphraseguid="d4ab7137-af4a-421f-ad3d-c6440dd7ef1b" class="GINGER_SOFTWARE_mark">oz</gs> | 14 ml. </span><span><gs id="b0112880-b9c7-49f8-bd70-ca4815d8f601" ginger_software_uiphraseguid="0a7021b8-46ec-460b-9e15-0cfa934af11b" class="GINGER_SOFTWARE_mark">made</gs> in NY</span></p>
+<p><strong><em>Our Beauty Notes</em>: A bubble gum pink true-and-true: flirtatious and fun. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10-free</s:tag>
+    <s:tag>Nails</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/8639833297</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+</feed>

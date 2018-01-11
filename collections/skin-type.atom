@@ -1,0 +1,1587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://levertbeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://levertbeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://levertbeauty.com/collections/skin-type.atom"/>
+  <title>LeVert Beauty</title>
+  <updated>2017-12-06T10:31:55-08:00</updated>
+  <author>
+    <name>LeVert Beauty</name>
+  </author>
+  <entry>
+    <id>https://levertbeauty.com/products/424181006375</id>
+    <published>2017-12-06T10:31:55-08:00</published>
+    <updated>2017-12-06T10:31:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/aer-next-level-deodorant"/>
+    <title>AER Next-Level Deodorant (Lavender Myrrh)</title>
+    <s:type>Deoderant</s:type>
+    <s:vendor>Vapour Organic Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/Lavender_Myrrh.jpg?v=1512585616" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Vapour Organic Beauty<br>
+        <strong>Type: </strong>Deoderant<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Revolutionary gel-to-powder formula</p>
+<div aria-hidden="false" aria-expanded="true" role="tabpanel" aria-labelledby="ui-accordion-1-header-0" style="display: block;" class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom ui-accordion-content-active" id="details" name="details" itemprop="description">
+<p>Let go of convention. Vapour’s innovative formula transforms from gel to powder on your skin and delivers lasting results. Silky and lightweight, AER’s potent plant + mineral complex effectively combats odor and bacteria at the source.</p>
+<p><strong>AER Performance</strong></p>
+<p>AER’s perfected base of active powders and essential oils in suspension is the result of a five-year process to elevate the performance and integrity of the deodorant category. Like other Vapour products, AER is highly concentrated—a little goes a long way.</p>
+<p><strong>AER Experience</strong></p>
+<p>The optimal combination of form and functionality, AER glides on easily, transforming from gel to powder on your skin. The effect is a light-as-air barrier, allowing skin to breathe while confronting odor-causing bacteria in a lasting way. AER contains no talc, synthetic or toxic ingredients, which are the primary building blocks of conventional deodorants and antiperspirants.</p>
+<p><strong>AER Plant + Mineral Complex</strong></p>
+<p>A potent blend of specific plant + mineral ingredients, featuring Organic Arrowroot, Baking Soda, Organic Tulsi, Wildcrafted Myrrh and Organic Oregano. These powerful natural ingredients work throughout the day and target bacteria at the source.</p>
+<p><strong>AER Essence</strong></p>
+<p>AER’s universal essential oil blends elevate the senses and counteract odor, delivering worry-free comfort. The three options are Ginger Grapefruit, Lavender Myrrh and Palo Santo Blood Orange.</p>
+<p>TEST DRIVE THEIR 12 DAY TRIAL HERE<br><a href="http://www.vapourbeauty.com/trial-set/vapour-organic-beauty-aer-trial-set.htm"></a></p>
+<p><strong><em>OUR BEAUTY NOTES</em>: This novel formula is creating waves inside the beauty industry for its safe approach to highly effective order control. The options were perfectly created to delivery worry-free comfort to everyday deodorant. A little goes a long way and the formula applies smoothly with a desirable texture. </strong></p>
+<p> </p>
+<em>Ingredients</em>
+<p> </p>
+<div aria-hidden="false" aria-expanded="true" role="tabpanel" aria-labelledby="ui-accordion-1-header-1" style="display: block;" class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom ui-accordion-content-active" id="ingredients" name="ingredients" itemprop="description">
+<p>Organic Maranta Arundinacea (Arrowroot) Root</p>
+<p>Organic Helianthus Annuus (Sunflower) Oil</p>
+<p>Sodium Bicarbonate (Baking Soda)</p>
+<p>OrganicVirgin Cocos Nucifera (Coconut) Oil</p>
+<p>Silica</p>
+<p>Glyceryl Undecylenate (Castor and Canola Oils)*</p>
+<p>Organic Cera Alba (Beeswax)</p>
+<p>Vapour's Proprietary Blend of Essential Oils</p>
+<p>Tocopherol (Non GMO Vitamin E – Soy)</p>
+<p>Organic Ocimum Sanctum (Tulsi) Leaf Extract</p>
+<p>Wildcrafted Commiphora Myrrha (Myrrh) Gum Extract</p>
+<p>Organic Oreganum Vulgare (Oregano) Leaf Extract</p>
+<p>*Eco–Cert</p>
+<p> </p>
+<p>Nt Wt 1.8oz /51g</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deodorant</s:tag>
+    <s:tag>lavendar</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Sensitivity</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/424181006375</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/424183988263</id>
+    <published>2017-12-06T10:31:55-08:00</published>
+    <updated>2017-12-06T10:31:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/aer-next-level-deodorant-palo-santo-blood-orange"/>
+    <title>AER Next-Level Deodorant (Palo Santo Blood Orange)</title>
+    <s:type>Deoderant</s:type>
+    <s:vendor>Vapour Organic Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/Palo_Santo_Blood_Orange.jpg?v=1512585956" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Vapour Organic Beauty<br>
+        <strong>Type: </strong>Deoderant<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Revolutionary gel-to-powder formula</p>
+<div aria-hidden="false" aria-expanded="true" role="tabpanel" aria-labelledby="ui-accordion-1-header-0" style="display: block;" class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom ui-accordion-content-active" id="details" name="details" itemprop="description">
+<p>Let go of convention. Vapour’s innovative formula transforms from gel to powder on your skin and delivers lasting results. Silky and lightweight, AER’s potent plant + mineral complex effectively combats odor and bacteria at the source.</p>
+<p><strong>AER Performance</strong></p>
+<p>AER’s perfected base of active powders and essential oils in suspension is the result of a five-year process to elevate the performance and integrity of the deodorant category. Like other Vapour products, AER is highly concentrated—a little goes a long way.</p>
+<p><strong>AER Experience</strong></p>
+<p>The optimal combination of form and functionality, AER glides on easily, transforming from gel to powder on your skin. The effect is a light-as-air barrier, allowing skin to breathe while confronting odor-causing bacteria in a lasting way. AER contains no talc, synthetic or toxic ingredients, which are the primary building blocks of conventional deodorants and antiperspirants.</p>
+<p><strong>AER Plant + Mineral Complex</strong></p>
+<p>A potent blend of specific plant + mineral ingredients, featuring Organic Arrowroot, Baking Soda, Organic Tulsi, Wildcrafted Myrrh and Organic Oregano. These powerful natural ingredients work throughout the day and target bacteria at the source.</p>
+<p><strong>AER Essence</strong></p>
+<p>AER’s universal essential oil blends elevate the senses and counteract odor, delivering worry-free comfort. The three options are Ginger Grapefruit, Lavender Myrrh and Palo Santo Blood Orange.</p>
+<p>TEST DRIVE THEIR 12 DAY TRIAL HERE<br><a href="http://www.vapourbeauty.com/trial-set/vapour-organic-beauty-aer-trial-set.htm"></a></p>
+<p><strong><em>OUR BEAUTY NOTES</em>: This novel formula is creating waves inside the beauty industry for its safe approach to highly effective order control. The options were perfectly created to delivery worry-free comfort to everyday deodorant. A little goes a long way and the formula applies smoothly with a desirable texture. </strong></p>
+<p> </p>
+<em>Ingredients</em>
+<p> </p>
+<div aria-hidden="false" aria-expanded="true" role="tabpanel" aria-labelledby="ui-accordion-1-header-1" style="display: block;" class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom ui-accordion-content-active" id="ingredients" name="ingredients" itemprop="description">
+<p>Organic Maranta Arundinacea (Arrowroot) Root</p>
+<p>Organic Helianthus Annuus (Sunflower) Oil</p>
+<p>Sodium Bicarbonate (Baking Soda)</p>
+<p>OrganicVirgin Cocos Nucifera (Coconut) Oil</p>
+<p>Silica</p>
+<p>Glyceryl Undecylenate (Castor and Canola Oils)*</p>
+<p>Organic Cera Alba (Beeswax)</p>
+<p>Vapour's Proprietary Blend of Essential Oils</p>
+<p>Tocopherol (Non GMO Vitamin E – Soy)</p>
+<p>Organic Ocimum Sanctum (Tulsi) Leaf Extract</p>
+<p>Wildcrafted Commiphora Myrrha (Myrrh) Gum Extract</p>
+<p>Organic Oreganum Vulgare (Oregano) Leaf Extract</p>
+<p>*Eco–Cert</p>
+<p> </p>
+<p>Nt Wt 1.8oz /51g</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deodorant</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>ORANGE</s:tag>
+    <s:tag>Sensitivity</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/424183988263</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/424186773543</id>
+    <published>2017-12-06T10:31:55-08:00</published>
+    <updated>2017-12-06T10:31:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/aer-next-level-deodorant-ginger-grapefruit"/>
+    <title>AER Next-Level Deodorant (Ginger Grapefruit)</title>
+    <s:type>Deoderant</s:type>
+    <s:vendor>Vapour Organic Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/Ginger_Grapefruit.jpg?v=1512586182" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Vapour Organic Beauty<br>
+        <strong>Type: </strong>Deoderant<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Revolutionary gel-to-powder formula</p>
+<div aria-hidden="false" aria-expanded="true" role="tabpanel" aria-labelledby="ui-accordion-1-header-0" style="display: block;" class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom ui-accordion-content-active" id="details" name="details" itemprop="description">
+<p>Let go of convention. Vapour’s innovative formula transforms from gel to powder on your skin and delivers lasting results. Silky and lightweight, AER’s potent plant + mineral complex effectively combats odor and bacteria at the source.</p>
+<p><strong>AER Performance</strong></p>
+<p>AER’s perfected base of active powders and essential oils in suspension is the result of a five-year process to elevate the performance and integrity of the deodorant category. Like other Vapour products, AER is highly concentrated—a little goes a long way.</p>
+<p><strong>AER Experience</strong></p>
+<p>The optimal combination of form and functionality, AER glides on easily, transforming from gel to powder on your skin. The effect is a light-as-air barrier, allowing skin to breathe while confronting odor-causing bacteria in a lasting way. AER contains no talc, synthetic or toxic ingredients, which are the primary building blocks of conventional deodorants and antiperspirants.</p>
+<p><strong>AER Plant + Mineral Complex</strong></p>
+<p>A potent blend of specific plant + mineral ingredients, featuring Organic Arrowroot, Baking Soda, Organic Tulsi, Wildcrafted Myrrh and Organic Oregano. These powerful natural ingredients work throughout the day and target bacteria at the source.</p>
+<p><strong>AER Essence</strong></p>
+<p>AER’s universal essential oil blends elevate the senses and counteract odor, delivering worry-free comfort. The three options are Ginger Grapefruit, Lavender Myrrh and Palo Santo Blood Orange.</p>
+<p>TEST DRIVE THEIR 12 DAY TRIAL HERE<br><a href="http://www.vapourbeauty.com/trial-set/vapour-organic-beauty-aer-trial-set.htm"></a></p>
+<p><strong><em>OUR BEAUTY NOTES</em>: This novel formula is creating waves inside the beauty industry for its safe approach to highly effective order control. The options were perfectly created to delivery worry-free comfort to everyday deodorant. A little goes a long way and the formula applies smoothly with a desirable texture. </strong></p>
+<p> </p>
+<em>Ingredients</em>
+<p> </p>
+<div aria-hidden="false" aria-expanded="true" role="tabpanel" aria-labelledby="ui-accordion-1-header-1" style="display: block;" class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom ui-accordion-content-active" id="ingredients" name="ingredients" itemprop="description">
+<p>Organic Maranta Arundinacea (Arrowroot) Root</p>
+<p>Organic Helianthus Annuus (Sunflower) Oil</p>
+<p>Sodium Bicarbonate (Baking Soda)</p>
+<p>OrganicVirgin Cocos Nucifera (Coconut) Oil</p>
+<p>Silica</p>
+<p>Glyceryl Undecylenate (Castor and Canola Oils)*</p>
+<p>Organic Cera Alba (Beeswax)</p>
+<p>Vapour's Proprietary Blend of Essential Oils</p>
+<p>Tocopherol (Non GMO Vitamin E – Soy)</p>
+<p>Organic Ocimum Sanctum (Tulsi) Leaf Extract</p>
+<p>Wildcrafted Commiphora Myrrha (Myrrh) Gum Extract</p>
+<p>Organic Oreganum Vulgare (Oregano) Leaf Extract</p>
+<p>*Eco–Cert</p>
+<p> </p>
+<p>Nt Wt 1.8oz /51g</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deodorant</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>ORANGE</s:tag>
+    <s:tag>Sensitivity</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/424186773543</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/367043379239</id>
+    <published>2017-11-29T10:58:01-08:00</published>
+    <updated>2017-11-29T10:58:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/revitalizing-soothing-natural-sheet-mask"/>
+    <title>Revitalizing &amp; Soothing Natural Sheet Mask</title>
+    <s:type>Mask</s:type>
+    <s:vendor>RE:FRESH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/ReFresh_Single_Front_1500x1500_dbc755d5-0827-401c-b9c8-bfd33fba27bb.jpg?v=1511982411" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>RE:FRESH<br>
+        <strong>Type: </strong>Mask<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><em>Description</em></h5>
+<p style="text-align: left;">This 100% cruelty-free, non-toxic &amp; EWG VERIFIED™ individually wrapped sheet mask is full of rich botanical extracts and effective ingredients. It features material that adheres well to the face, prevents quick evaporation, and delivers the serum deep into the skin for seriously refreshing and hydrating results.</p>
+<p>NO Alcohol</p>
+<p>NO Animal Testing</p>
+<p>NO Artificial Color</p>
+<p>NO Formaldehyde</p>
+<p>NO Fragrance</p>
+<p>NO Mineral Oil</p>
+<p>NO Parabens</p>
+<p>NO Phthalates</p>
+<p>NO Silicone Oil</p>
+<p>NO Sulfates</p>
+<p style="text-align: left;">STAR INGREDIENTS</p>
+<p style="text-align: left;">Betula Platyphylla Japonica Juice: Much more nutrient-rich than water, an ingredient commonly found in sheet masks. Full of amino acids and enzymes that intensely hydrate the skin and prevent oxidative stress such as UV rays and environmental pollution.</p>
+<p style="text-align: left;">Euterpe Oleracea Fruit Extract: Antioxidant that provides protection against free radical damage to the skin and promotes skin repair via moisture retention and regeneration.</p>
+<p style="text-align: left;">Limonia Acidissima Extract: Moisturizing agent that soothes the skin and evens out skin tones. Antioxidant that reduces wrinkles and fine lines by replenishing essential nutrients.</p>
+<p style="text-align: left;">Sodium Hyaluronate: Smart nutrient that penetrates the skin, holds onto large amounts of water, and adjusts moisture absorption rate based on humidity. More effective than hyaluronic acid due to its smaller size which allows it to move more freely into deeper layers of the skin.</p>
+<p style="text-align: left;">Lactobacillus Ferment: Natural microorganism that acidifies its surroundings, develops new antimicrobial peptides, and moisturizes the skin with a variety of proteins.</p>
+<p style="text-align: left;"><strong><em>Our Beauty Notes</em>: Finally a non-toxic sheet mask that doesn't leave a sticky residue. This slightly cooling sheet mask leaves your skin feeling refreshed, awake and hydrated. Ideal for all skin types and can be used weekly as part of regular skin routine. We are adding this to our regular beauty bags and at this price we highly suggest stocking up! </strong></p>
+<p><em>Use</em></p>
+<p style="text-align: left;">Cleanse and dry face. Take out and gently unfold the mask. Place and smooth the mask onto the face. Leave on for 20 minutes and relax. Remove and discard the mask. Apply any remaining serum.<br><br>Made in Korea</p>
+<p><strong><em>Ingredients</em> </strong></p>
+<p style="text-align: left;">Betula Platyphylla Japonica Juice, Euterpe Oleracea Fruit Extract, Limonia Acidissima Extract, Zanthoxylum Piperitum Fruit Extract, Pulsatilla Koreana Extract, Lonicera Japonica (Honeysuckle) Flower Extract, Ocimum Basilicum (Basil) Extract, Citrus Paradisi (Grapefruit) Fruit Extract, Usnea Barbata (Lichen) Extract, Morus Alba Bark Extract, Portulaca Oleracea Extract, Sodium Hyaluronate, Beta-Glucan, Carica Papaya (Papaya) Fruit Extract, Cocos Nucifera (Coconut) Water, Morinda Citrifolia Extract, Lactobacillus Ferment, Carbomer, Ascorbyl Glucoside (Vitamin C)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Face Masks</s:tag>
+    <s:tag>Hydration</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>Masks</s:tag>
+    <s:tag>Moisturizers</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Radiance</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/367043379239</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/8843807057</id>
+    <published>2017-02-22T12:14:00-08:00</published>
+    <updated>2017-02-22T12:14:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/skindew-coconut-water-cream-new"/>
+    <title>Skin Dew Coconut Water Cream (New!)</title>
+    <s:type>Skincare</s:type>
+    <s:vendor>One Love Organics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/One_love_organics_SkinDew_1_large_copy.jpg?v=1501271755" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>One Love Organics<br>
+        <strong>Type: </strong>Skincare<br>
+        <strong>Price: </strong>
+            58.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><em>Description </em></h5>
+<p><span>Skin Dew Coconut Water Cream helps to combat dehydration and promote balanced, moisture-rich, and healthy-looking skin. </span><span>This powerful, plant-based formula is crafted with: </span></p>
+<ul>
+<li>Over 50% pure, mineral rich <strong>Coconut Water</strong> to hydrate and nourish.</li>
+<li>
+<strong>Cupuacu Butter,</strong> a polyphenol-rich moisturizer sourced from the Amazon, to help neutralize free radicals that contribute to premature aging.</li>
+<li>A clinically proven complex of <strong>acacia, jojoba and sunflower</strong> to form a protective, breathable film to help lock-in hydration and defend skin against environmental aggressors.</li>
+</ul>
+<p><span>It benefits all skin types and is especially good for dull, dehydrated, and combination skin. Intensely moisturizing, yet surprisingly lightweight, this cream absorbs into the skin within a minute or two and layers well with other products.</span></p>
+<p><em><strong>Our Beauty Notes: </strong></em><strong>﻿This completely novel product feels incredible on skin creating the lightest application, that isn't necessarily a 'watery-y feeling' (as the coconut water ingredient implies), but rather feels like a thin cream. This penetrates the skin deeply for a lighter coverage of deep hydration and is an ideal everyday moisturizer for skin that may be thirsty, dry, sensitive or aging. </strong></p>
+<p> </p>
+<h5><em>Ingredients </em></h5>
+<p><span>Cocos Nucifera (Coconut) Fruit Juice*, Helianthus Annuus (Sunflower) Seed Oil*, Caprylic/Capric Triglyceride, Cetearyl Alcohol, Jojoba Esters, Theobroma Grandiflorum Seed Butter*, Propanediol, Helianthus Annuus (Sunflower) Seed Wax, Xylitylglucoside, Cetearyl Glucoside, Citrullus Vulgaris (Watermelon) Seed Oil, Cocos Nucifera (Coconut) Pulp Extract*, Lactic Acid, Alaria Esculenta Extract, Acacia Decurrens Flower Wax, Tocopherol, Sclerotium Gum, Xylitol, Polyglycerin-3, Glyceryl Undecylenate, Glyceryl Caprylate, Anhydroxylitol </span><span>May Contain: Maltodextrin</span></p>
+<p>*Ingredients from Organic Farming</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten-Free</s:tag>
+    <s:tag>Hydration</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>Moisturizers</s:tag>
+    <s:tag>Night Creams</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>one love organics</s:tag>
+    <s:tag>Radiance</s:tag>
+    <s:tag>Sensitivity</s:tag>
+    <s:tag>skincare</s:tag>
+    <s:tag>travel</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/8843807057</id>
+      <title>Default Title</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/4755529604</id>
+    <published>2016-10-31T19:58:00-07:00</published>
+    <updated>2016-10-31T19:58:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/luxury-organic-rose-diamond-lip-exfoliator"/>
+    <title>LUXURY ORGANIC ROSE DIAMOND LIP EXFOLIATOR</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>HENNÉ</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/RoseDiamonds2_copy.jpg?v=1473218289" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>HENNÉ<br>
+        <strong>Type: </strong>Makeup<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><em>Description </em></h5>
+<p>A complete 5-star experience to luxury lip care is complete with the Rose Diamond Lip Exfoliator. Henné has maintained it's high level of certified organic and luxurious standards with this step one in a two step at-home spa treatment, complete with the <a href="https://levertbeauty.com/collections/loves/products/luxury-organic-lip-balm" target="_blank" rel="noopener noreferrer">LUXURY ORGANIC LIP BALM</a> for the most exquisite, soft, vibrant and lip plumping results. </p>
+<p>USDA CERTIFIED ORGANIC<br>For external use only. <br>Store in a cool, dry place<br>Not tested on animals<br>Made in the USA<br>10ml | 0.35 fl oz</p>
+<p><strong><em>Our Beauty Notes</em>: All we can is YES, YES! Part one to a complete lip luxury power duo is here. It's incredibly luxurious, gritty yet soft and deeply moisturizing lip exfoliator preps your lips without stripping them and prepping them for complete gorgeousness. </strong></p>
+<h5><em>Directions</em></h5>
+<p>Apply liberally on damp lips, exfoliating the area for one to two minutes and gently rinse. End with Henné Luxury Lip Balm for (the most) incredible results. </p>
+<h5 class="ingredients"><em>Ingredients</em></h5>
+<p class="ingredients">Organic Cane Sugar, Organic Coconut Oil, Organic Beeswax, Organic Shea Butter, Organic Vanilla Flavoring, Organic Jojoba Oil, Organic Vitamin E Oil (Non-GMO), Organic Aronia Powder and Organic Rose Essential Oil.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>family</s:tag>
+    <s:tag>Gluten-Free</s:tag>
+    <s:tag>henne</s:tag>
+    <s:tag>Hydration</s:tag>
+    <s:tag>Lips</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Sensitivity</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/4755529604</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>LB-HENNE-LIPEX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/8115284488</id>
+    <published>2016-10-28T10:35:00-07:00</published>
+    <updated>2016-10-28T10:35:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/jasmin-ylang-ylang-bath-soak"/>
+    <title>Jasmin Ylang-Ylang Bath Soak</title>
+    <s:type>Bath + Body</s:type>
+    <s:vendor>Indie Lee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/Indie_Lee_Jasmin_Ylang_Ylang_Bath_Soak.jpg?v=1477677101" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Indie Lee<br>
+        <strong>Type: </strong>Bath + Body<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><em>Description</em></h5>
+<p>This blend of Pink Himalayan, Dead Sea, Atlantic and Pacific Seas Salts is paired with calming floral essential oils designed to detoxify skin, improve circulation, relieve aching muscles and deliver softer, more supple skin. </p>
+<p><strong><em>Our Beauty Notes</em>: We find this ideal after workouts to revive overworked muscles, when anxious or stressed to relieve overactive minds and simply for pulling out daily environmental toxins from everyday exposures. Bath soaks are simple to use and incredibly beneficial to your weekly well-being. </strong></p>
+<h5><em>Ingredients </em></h5>
+<p>Sodium Chloride (Atlantic Sea Salt), Sodium Chloride (Pacific Sea Salt), Sodium Chloride (Himalayan Sea Salt), Sodium Chloride (Dead Sea Salt), Jasminum Grandiflorum Flower Oil, Canaga Odorata Flower Oil</p>
+<p>It is ideal for all skin types, ask a physician before using if pregnant and/or nursing. </p>
+<h5><em>Directions </em></h5>
+<p>Draw Warm Bath. Add 2-3 TBSP of salt mixture directly into water stream. Agitate and allow salts to dissolve. Enter bath, soak and recenter.</p>
+<div class="related">
+<div class="block block-related">
+<div class="block-title"></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Detox</s:tag>
+    <s:tag>Hydration</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/8115284488</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/8115298632</id>
+    <published>2016-10-28T10:35:00-07:00</published>
+    <updated>2016-10-28T10:35:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/grapefruit-citrus-bath-soak"/>
+    <title>Grapefruit Citrus Bath Soak</title>
+    <s:type>Bath + Body</s:type>
+    <s:vendor>Indie Lee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/Indie_Lee_Grapefruit_Citrus_Bath_Soak.jpg?v=1479266437" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Indie Lee<br>
+        <strong>Type: </strong>Bath + Body<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><em>Description</em></h5>
+<p>PLEASE NOTE: BACK-ORDERED WITH BRAND. ALL PRE-ORDERS TO SHIP IMMEDIATELY ONCE BACK IN STOCK (TBD). THANK YOU FOR YOUR PATIENCE AS THEY CREATE MORE!</p>
+<p>This blend of Pink Himalayan, Dead Sea, Atlantic and Pacific Sea Salts is paired with refreshing citrus essential oils designed to detoxify skin, improve circulation, relieve aching muscles and deliver softer, more supple skin</p>
+<p><strong><em>Our Beauty Notes</em>: We find this ideal after workouts to revive overworked muscles, when anxious or stressed to relieve overactive minds and simply for pulling out daily environmental toxins from everyday exposures. Bath soaks are simple to use and incredibly beneficial to your weekly well-being. </strong></p>
+<h5><em>Ingredients </em></h5>
+<p>Sodium Chloride (Atlantic Sea Salt), Sodium Chloride (Pacific Sea Salt), Sodium Chloride (Himalayan Sea Salt), Sodium Chloride (Dead Sea Salt), Citrus Grandis (Grapefruit) Peel Oil, Citrus Aurantium Dulcis (Orange) Peel Oil</p>
+<p>It is ideal for all skin types, ask a physician before using if pregnant and/or nursing. </p>
+<h5><em>Directions </em></h5>
+<p>Draw Warm Bath. Add 2-3 TBSP of salt mixture directly into water stream. Agitate and allow salts to dissolve. Enter bath, soak and recenter.</p>
+<div class="related">
+<div class="block block-related">
+<div class="block-title"></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Detox</s:tag>
+    <s:tag>Hydration</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/8115298632</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>LB-INDIE-GCBS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/4334573572</id>
+    <published>2016-10-20T21:32:00-07:00</published>
+    <updated>2016-10-20T21:32:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/luxury-organic-lip-balm"/>
+    <title>LUXURY ORGANIC LIP BALM</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>HENNÉ</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/HenneBoxJarStack_copy_copy.jpg?v=1499293905" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>HENNÉ<br>
+        <strong>Type: </strong>Makeup<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><em>Description </em></h5>
+<p>Experience luxury every day with this 100% natural and moisturizing organic lip balm. Carefully chosen with the most nourishing and luxurious ingredients to ensure you get everything your lips need and not a thing more. </p>
+<p>USDA CERTIFIED ORGANIC<br>For external use only. <br>Store in a cool, dry place<br>Not tested on animals<br>Made in the USA<br>10ml | 0.35 fl oz</p>
+<p><strong><em>Our Beauty Notes</em>: Can a lip balm really be that game-changing? YUP. Hennè created the most luxurious lip balm that your lips won't crave - but <em>you</em> will. You'll never have healthier, more properly moisturized or better looking lips then after experiencing this everyday lip balm. </strong></p>
+<h5><em>Directions</em></h5>
+<p>Apply liberally on the lips for maximum benefits. Also suitable for use on dry areas such as hands, elbows, nose, heels and anywhere else that requires additional moisture. </p>
+<h5 class="ingredients"><em>Ingredients</em></h5>
+<p class="ingredients">Organic Cocos Nucifera (Coconut) Oil, Organic Cera Alba (Beeswax), Organic Persea Americana (Avocado) Oil, Organic Butyrospermum Parkii (Shea Butter) Fruit, Organic Theobroma Cacao (Cocoa) Seed Butter, Organic Simmondsia Chinensis (Jojoba) Seed Oil, Tocopherol (Vitamin E).</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>family</s:tag>
+    <s:tag>Gluten-Free</s:tag>
+    <s:tag>henne</s:tag>
+    <s:tag>Hydration</s:tag>
+    <s:tag>Lips</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Sensitivity</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/4334573572</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>LB-HENNE-BALM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/8276111240</id>
+    <published>2016-10-20T21:32:00-07:00</published>
+    <updated>2016-10-20T21:32:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/lip-collection"/>
+    <title>LIP COLLECTION</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>HENNÉ</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/Henne_Lip_Collection.jpg?v=1499293835" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>HENNÉ<br>
+        <strong>Type: </strong>Makeup<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><em>Description </em></h5>
+<p>This luxury lip trio comes in a beautiful matte white rigid box, a caliber of packaging normally reserved only for upscale perfumes <em>(read: gorgeous)</em>. One of the most perfect ecoluxe holiday gift for anyone - including yourself. </p>
+<div id="whats_inside">
+<p><strong>WHAT’S INSIDE:</strong></p>
+<p>LUXURY LIP BALM V2<br>LUXURY LIP BALM<br>ROSE DIAMONDS LIP EXFOLIATOR</p>
+</div>
+<p>For external use only. Store in a cool, dry place.<br>Not tested on animals.<br>Made in the USA.</p>
+<p><strong><em>Our Beauty Notes</em>: Done and done. This stunning</strong><b> collection just took our Henné obsession up a notch. Perfect for friends, family, in-laws, co-workers and that <em>tricky one</em> on your list as this simple, high-end gift works for nearly everyone.  </b></p>
+<h5><em>Directions</em></h5>
+<p>Apply liberally on the lips for maximum benefits. Also suitable for use on dry areas such as hands, elbows, nose, heels and anywhere else that requires additional moisture. </p>
+<h5 class="ingredients"><em>Ingredients</em></h5>
+<p class="ingredients"><strong>Luxury Lip Balm</strong> 10ml / 0.35 fl oz<br> Organic Cocos Nucifera (Coconut) Oil, Organic Cera Alba (Beeswax), Organic Persea Americana (Avocado) Oil, Organic Butyrospermum Parkii (Shea Butter) Fruit, Organic Theobroma Cacao (Cocoa) Seed Butter, Organic Simmondsia Chinensis (Jojoba) Seed Oil, Tocopherol (Vitamin E).</p>
+<p class="ingredients"><strong>Luxury Lip Balm V2</strong> 5ml / 0.17 fl oz<br> Organic Cocos Nucifera (Coconut) Oil, Organic Cera Alba (Beeswax), Organic Persea Americana (Avocado) Oil, Organic Butyrospermum Parkii (Shea Butter) Fruit, Organic Theobroma Cacao (Cocoa) Seed Butter, Organic Simmondsia Chinensis (Jojoba) Seed Oil, Tocopherol (Vitamin E).</p>
+<p class="ingredients"><strong>Rose Diamonds Lip Exfoliator</strong> 10ml / 0.35 fl oz<br> Organic Sucrose (Sugar), Organic Cocos Nucifera (Coconut) Oil, Organic Cera Alba (Beeswax), Organic Butyrospermum Parkii (Shea Butter) Fruit, Organic Vanilla Flavor, Organic Simmondsia Chinensis (Jojoba) Seed Oil, Tocopherol (Vitamin E), Organic Aronia Arbutifolia (Red Chokeberry), Organic Rosa Damascena (Rose) Oil.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>family</s:tag>
+    <s:tag>Gluten-Free</s:tag>
+    <s:tag>henne</s:tag>
+    <s:tag>Hydration</s:tag>
+    <s:tag>Lips</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Sensitivity</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/8276111240</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>LB-HENNE-LIPCO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/8276265416</id>
+    <published>2016-10-20T21:32:00-07:00</published>
+    <updated>2016-10-20T21:32:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/luxury-lip-balm-v2"/>
+    <title>LUXURY LIP BALM V2</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>HENNÉ</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/Henne_Lip_V2.jpg?v=1481599990" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>HENNÉ<br>
+        <strong>Type: </strong>Makeup<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><em>Description </em></h5>
+<p>After countless requests this cult favorite luxury lip balm is <em>finally</em> available in a tube form. The same delectable formula is incased in a sleek black minimalist tube and comes with a beautiful cosmetic box. A convenient and must-have everyday balm.</p>
+<p>For external use only. Store in a cool, dry place.<br>Not tested on animals.<br>Made in the USA.</p>
+<p>5ml / 0.17 fl oz</p>
+<p><strong><em>Our Beauty Notes</em>: Can a lip balm really be that game-changing? YUP. Hennè created the most luxurious lip balm that your lips won't crave - but <em>you</em> will. NOW in tube form. You'll never have healthier, more properly moisturized or better looking lips then after experiencing this everyday lip balm. </strong></p>
+<h5><em>Directions</em></h5>
+<p>Apply liberally on the lips for maximum benefits. Also suitable for use on dry areas such as hands, elbows, nose, heels and anywhere else that requires additional moisture. </p>
+<h5 class="ingredients"><em>Ingredients</em></h5>
+<p class="ingredients">Organic Cocos Nucifera (Coconut) Oil, Organic Cera Alba (Beeswax), Organic Persea Americana (Avocado) Oil, Organic Butyrospermum Parkii (Shea Butter) Fruit, Organic Theobroma Cacao (Cocoa) Seed Butter, Organic Simmondsia Chinensis (Jojoba) Seed Oil, Tocopherol (Vitamin E).</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>family</s:tag>
+    <s:tag>Gluten-Free</s:tag>
+    <s:tag>henne</s:tag>
+    <s:tag>Hydration</s:tag>
+    <s:tag>Lips</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Sensitivity</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/8276265416</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>LB-HENNE-V2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/424155873319</id>
+    <published>2016-10-20T21:32:00-07:00</published>
+    <updated>2016-10-20T21:32:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/luxury-lip-tint-bare"/>
+    <title>LUXURY LIP TINT (BARE)</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>HENNÉ</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/Bare1.jpg?v=1512583994" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>HENNÉ<br>
+        <strong>Type: </strong>Makeup<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Description</p>
+A delicate nude that provides the perfect barely-there flush of color on the lips. Apply one layer for a sheer hint of color or add additional layers for a more opaque look.<br> <br> For external use only. Store in a cool, dry place. <br> Not tested on animals.<br> Made in USA.<br> <br> 5ml / 0.17 fl oz<br>
+<p><strong><em>Our Beauty Notes</em>: A hybrid where our favorite lip balm meets subtle everyday color? Call it perfection for all skintones. <br></strong></p>
+<h5><em>Directions</em></h5>
+<p>Apply one layer for a sheer hint of color or add more layers for a stronger tint. Reapply when needed.<br> <br> <em>Tip: Use Henné's Lip Exfoliator prior to applying the Luxury Lip Tint to ensure the lips are flake-free and that the color goes on smoothly.</em></p>
+<h5 class="ingredients"><em>Ingredients</em></h5>
+<p class="ingredients">ORGANIC COCOS NUCIFERA (COCONUT) OIL, ORGANIC RICINUS COMMUNIS (CASTOR) SEED OIL, ORGANIC SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL, ORGANIC CERA ALBA (BEESWAX), ORGANIC PERSEA AMERICANA (AVOCADO) OIL, EUPHORBIA CERIFERA (CANDELILLA) WAX, TITANIUM DIOXIDE, IRON OXIDE, TOCOPHEROL (VITAMIN E). <br> <em>88% ORGANIC</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>family</s:tag>
+    <s:tag>Gluten-Free</s:tag>
+    <s:tag>henne</s:tag>
+    <s:tag>Hydration</s:tag>
+    <s:tag>Lips</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Sensitivity</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/424155873319</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>LB-HENNE-V2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/424165769255</id>
+    <published>2016-10-20T21:32:00-07:00</published>
+    <updated>2016-10-20T21:32:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/luxury-lip-tint-azalea"/>
+    <title>LUXURY LIP TINT (AZALEA)</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>HENNÉ</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/Azalea1.jpg?v=1512584197" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>HENNÉ<br>
+        <strong>Type: </strong>Makeup<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><em>Description </em></h5>
+<p>This vibrant pink lip tint immediately brightens up the face and gives a splash of playfulness to your makeup routine. Apply one layer for a sheer hint of color or add additional layers for a more opaque look.<br> <br> For external use only. Store in a cool, dry place. <br> Not tested on animals.<br> Made in USA.<br> <br> 5ml / 0.17 fl oz</p>
+<p><strong><em>Our Beauty Notes</em>: A hybrid where our favorite lip balm meets a pop of fun that applies sheer and packs a serious punch when layered.  <br></strong></p>
+<h5><em>Directions</em></h5>
+<p>Apply one layer for a sheer hint of color or add more layers for a stronger tint. Reapply when needed.<br> <br> <em>Tip: Use Henné's Lip Exfoliator prior to applying the Luxury Lip Tint to ensure the lips are flake-free and that the color goes on smoothly.</em></p>
+<h5 class="ingredients"><em>Ingredients</em></h5>
+<p class="ingredients">ORGANIC COCOS NUCIFERA (COCONUT) OIL, ORGANIC RICINUS COMMUNIS (CASTOR) SEED OIL, ORGANIC SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL, ORGANIC CERA ALBA (BEESWAX), ORGANIC PERSEA AMERICANA (AVOCADO) OIL, EUPHORBIA CERIFERA (CANDELILLA) WAX, TITANIUM DIOXIDE, IRON OXIDE, TOCOPHEROL (VITAMIN E). <br> <em>88% ORGANIC</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>family</s:tag>
+    <s:tag>Gluten-Free</s:tag>
+    <s:tag>henne</s:tag>
+    <s:tag>Hydration</s:tag>
+    <s:tag>Lips</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Sensitivity</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/424165769255</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>LB-HENNE-V2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/424170061863</id>
+    <published>2016-10-20T21:32:00-07:00</published>
+    <updated>2016-10-20T21:32:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/luxury-lip-tint-coral"/>
+    <title>LUXURY LIP TINT (CORAL)</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>HENNÉ</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/Coral1.jpg?v=1512584564" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>HENNÉ<br>
+        <strong>Type: </strong>Makeup<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><em>Description </em></h5>
+<p>A true coral shade, this stunning lip tint brings a soft warmth and glow to the face. Apply one layer for a sheer hint of color or add additional layers for a more opaque look.<br> <br> For external use only. Store in a cool, dry place. <br> Not tested on animals.<br> Made in USA.<br> <br> 5ml / 0.17 fl oz</p>
+<p><strong><em>Our Beauty Notes</em>: A hybrid where cult favorite lip balm creates the most desirable coral shade for flattering year round.  <br></strong></p>
+<h5><em>Directions</em></h5>
+<p>Apply one layer for a sheer hint of color or add more layers for a stronger tint. Reapply when needed.<br> <br> <em>Tip: Use Henné's Lip Exfoliator prior to applying the Luxury Lip Tint to ensure the lips are flake-free and that the color goes on smoothly.</em></p>
+<h5 class="ingredients"><em>Ingredients</em></h5>
+<p class="ingredients">ORGANIC COCOS NUCIFERA (COCONUT) OIL, ORGANIC RICINUS COMMUNIS (CASTOR) SEED OIL, ORGANIC SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL, ORGANIC CERA ALBA (BEESWAX), ORGANIC PERSEA AMERICANA (AVOCADO) OIL, EUPHORBIA CERIFERA (CANDELILLA) WAX, TITANIUM DIOXIDE, IRON OXIDE, TOCOPHEROL (VITAMIN E). <br> <em>88% ORGANIC</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>family</s:tag>
+    <s:tag>Gluten-Free</s:tag>
+    <s:tag>henne</s:tag>
+    <s:tag>Hydration</s:tag>
+    <s:tag>Lips</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Sensitivity</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/424170061863</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>LB-HENNE-V2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/424171405351</id>
+    <published>2016-10-20T21:32:00-07:00</published>
+    <updated>2016-10-20T21:32:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/luxury-lip-tint-intrigue"/>
+    <title>LUXURY LIP TINT (INTRIGUE)</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>HENNÉ</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/Intrigue1.jpg?v=1512584745" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>HENNÉ<br>
+        <strong>Type: </strong>Makeup<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><em>Description </em></h5>
+<p>Intrigue is a dark red that looks flattering on all skin tones. Apply one layer for a sheer hint of color or add additional layers for a more opaque look.<br> <br> For external use only. Store in a cool, dry place. <br> Not tested on animals.<br> Made in USA.<br> <br> 5ml / 0.17 fl oz</p>
+<p><strong><em>Our Beauty Notes</em>: A hybrid where cult favorite lip balm sets out to create a dark red that compliments throughout the seasons from sheer splash of color to a statement. <br></strong></p>
+<h5><em>Directions</em></h5>
+<p>Apply one layer for a sheer hint of color or add more layers for a stronger tint. Reapply when needed.<br> <br> <em>Tip: Use Henné's Lip Exfoliator prior to applying the Luxury Lip Tint to ensure the lips are flake-free and that the color goes on smoothly.</em></p>
+<h5 class="ingredients"><em>Ingredients</em></h5>
+<p class="ingredients">ORGANIC COCOS NUCIFERA (COCONUT) OIL, ORGANIC RICINUS COMMUNIS (CASTOR) SEED OIL, ORGANIC SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL, ORGANIC CERA ALBA (BEESWAX), ORGANIC PERSEA AMERICANA (AVOCADO) OIL, EUPHORBIA CERIFERA (CANDELILLA) WAX, TITANIUM DIOXIDE, IRON OXIDE, TOCOPHEROL (VITAMIN E). <br> <em>88% ORGANIC</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>family</s:tag>
+    <s:tag>Gluten-Free</s:tag>
+    <s:tag>henne</s:tag>
+    <s:tag>Hydration</s:tag>
+    <s:tag>Lips</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Sensitivity</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/424171405351</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>LB-HENNE-V2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/3582076612</id>
+    <published>2016-10-13T15:27:00-07:00</published>
+    <updated>2016-10-13T15:27:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/all-natural-eyelash-enhancing-serum"/>
+    <title>All-Natural Eyelash Enhancing Serum</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>PLUME</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/Plume_NewTube2016__copy.jpg?v=1466445013" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>PLUME<br>
+        <strong>Type: </strong>Makeup<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>
+<em>Description </em> </h5>
+<p class="font_8">This clinically tested eyelash and brow enhancer just won us over.</p>
+<p class="font_8">This proprietary formula is designed to have a duel effect on the appearance of your lashes and brows: 1st by supporting the health and hydration of each hair follicle &amp; 2nd by supporting the longevity of those hair follicles allowing your lashes to grow longer and last longer before naturally falling out. </p>
+<p class="font_8">When it comes to the health, hydration and longevity of all living organisms (like the hair cells in your lashes) nothing compares to the effectiveness and purity of plant-derived ingredients. Similar to juicing fresh fruits and vegetables, <span class="color_18">think of Plume as a botanical super-juice for the hair follicles of your lashes and brows. </span></p>
+<p class="font_8"><em><span class="color_18">95% reported increased length and/or density <br></span></em></p>
+<p class="font_8"><span class="color_18">View Before &amp; After Tab from customers (more to come). <br></span></p>
+<p class="font_8">This delivers longer lashes in just weeks and is FREE FROM...</p>
+<ul class="font_8">
+<li>
+<p class="font_8">Parabens</p>
+</li>
+<li>
+<p class="font_8">Sulfates</p>
+</li>
+<li>
+<p class="font_8">Phthalates</p>
+</li>
+<li>
+<p class="font_8">Hormones and Prostaglandins</p>
+</li>
+<li>
+<p class="font_8">Artificial fragrances</p>
+</li>
+<li>
+<p class="font_8">Artificial dyes</p>
+</li>
+<li>
+<p class="font_8">Gluten</p>
+</li>
+<li>
+<p class="font_8">Synthetic ingredients of any kind </p>
+</li>
+</ul>
+<h3 style="text-align: center;"><span>Safe and Gentle on Sensitive Eyes</span></h3>
+<p class="font_6"><span class="color_33">Two Ingredients with 'chemical-sounding' names explained:</span></p>
+<p class="font_7">Sucrose Laurate: Emulsifier, naturally obtained from hydrogenation and esterification of sugar cane and vegetable oil.</p>
+<p class="font_7">Sodium Stearoyl Lactylate: A natural, food grade, emulsifier derived from stearic acid (plant-derived) and the sodium salt of lactic acid.</p>
+<p class="font_7">In addition to their plant-derived active ingredients, they use only plant-derived emulsifiers and stabilizers as well; meaning their product stays <span class="color_32">100% natural across its entire formulation.</span> The type and quality of non-active ingredients used in a cosmetic product (emulsifiers, thickeners, surfactants) are often overlooked, however, they can have a significant impact on how well the overall formula performs!</p>
+<p style="text-align: center;">THINK DIRTY APP SCORE = 0 </p>
+<p class="font_7" style="text-align: center;"><span>Think Dirty App Score Is = 0 as (</span><span>0-3) are products that do not contain any ingredients which have a documented potential negative health impact. </span></p>
+<p class="font_7" style="text-align: center;"><strong><em>Our Beauty Notes</em>: We are constantly on the hunt for clean innovation, we were humbly surprised by the ingredients and the effective nature of this lash enhancing product. We admire Lauren, the founder's vision for the merriment of clean, effective beauty and health. This is a staple in our Beauty Bag. </strong></p>
+<div class="s2" id="i9u5nvgy" data-reactid=".0.$SITE_ROOT.$desktop_siteRoot.$PAGES_CONTAINER.1.1.$SITE_PAGES.$c1x9v.1.$i9u5nvgy">
+<p class="font_7"><span><span class="color_11">Size: .17 fl oz/5 ml</span></span></p>
+<p style="text-align: center;"> </p>
+</div>
+<h5 class="font_8"><em>Ingredients </em></h5>
+<p class="font_8">Organic Aloe Barbadensis Leaf Juice, Organic Ricinus Communis (Castor) Seed Oil, Tussilago Farfara (Coltsfoot) Flower Extract, Achillea Millefolium (Yarrow) Extract, Cinchona Succirubra Bark Extract, Water, Tocopheryl Acetate (Vitamin E), Glycerin, Honey Extract, Prunus Amygdalus (Sweet Almond) Oil, Sucrose Laurate, Sodium Stearoyl Lactylate, Nasturtium Officinale (Watercress) Extract, Tropaeolium Majus (Indian Cress) Extract, Xanthan Gum, Coleus Forskohlii Root Oil, Carya Ovata (Hickory) Bark Extract.</p>
+<p class="font_8"><span class="color_18"><span><span>Organic Aloe Vera:</span></span></span> Rich in vitamins and minerals, aloe vera has long been recognized for its moisturizing, healing, anti-bacterial and anti-fungal properties.</p>
+<p class="font_6"><span><span><span class="color_18">Organic Castor Oil:</span></span></span> Nourishes hair follicles with omega fatty acids, vitamin E and proteins. Castor oil is known to have anti-bacterial and anti-fungal properties thus protecting the area around your eyes from harmful micro-organisms and potential infection.</p>
+<p class="font_8"><span class="color_18"><span><span>Vitamin E: </span></span></span>A potent anti-oxidant and effective moisturizer.Honey Extract: Exhibits natural moisturizing properties, fortifies hair and skin with vitamins and minerals, and increases blood circulation for optimal health around the eye region.</p>
+<p class="font_8"><span class="color_18"><span><span>Honey Extract:  </span></span></span>A powerful humectant, hair follicles treated with honey extract retain more moisture. Also known for its anti-irritant and anti-microbial characteristics.</p>
+<p class="font_8"><span class="color_18"><span><span>Watercress </span></span></span>(<span>Nasturtium officinale</span>) and<span class="color_18"><span> <span>Indian cress</span> </span></span>(<span>Tropaeolum majus)</span> have been rigorously studied to show that these extracts can help hair produce keratin, a <span><span class="color_18">key factor in the strength, and ultimately length, of your hair</span></span>.</p>
+<p class="font_8"><span class="color_18"><span><span>Coltsfoot flower</span></span></span> (<span>Tussilago farfara</span>), <span class="color_18"><span><span>yarrow flower</span></span></span> (<span>Achillea millefolium</span>), and <span><span><span class="color_18">Peruvian quina</span></span></span> bark (<span>Cinchona succirubra</span>) combine to help stimulate cell renewal, feeding the proteic metabolism of hair and working against oxidative stress. The result: a powerful way to promote the longevity of your lash and brow follicles.</p>
+<p class="font_8">Hair, including eyelashes and eyebrows, is made up of <span><span class="color_32">90% keratin</span></span>. The minerals that are abundant within our proprietary blend, such as <span><span class="color_18">zinc</span></span> and <span class="color_32"><span>magnesium</span></span>, have been shown in clinical studies to help hair produce a higher quality of keratin. This translates into stronger follicles in your lashes and brows.</p>
+<p class="font_8">And eyelashes that have a longer life have more time to grow longer!</p>
+<h5 class="font_8"><em>Use</em></h5>
+<p class="font_8">Shake well and apply nightly to clean upper and lower eyelash line, brows if desired.  </p>
+<h5 class="font_8"><em>Before &amp; After</em></h5>
+<p><img src="//cdn.shopify.com/s/files/1/0731/0835/files/Screen_Shot_2015-11-11_at_11.30.46_AM_large.png?15623944310760066461" alt=""></p>
+<p><img src="//cdn.shopify.com/s/files/1/0731/0835/files/Screen_Shot_2015-11-11_at_11.47.28_AM_large.png?15623944310760066461" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten-Free</s:tag>
+    <s:tag>Hydration</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Sensitivity</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/3582076612</id>
+      <title>Default Title</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>LB-PLUME-EYE</s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/7742493448</id>
+    <published>2016-08-29T09:00:00-07:00</published>
+    <updated>2016-08-29T09:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/lhuile"/>
+    <title>L&apos;Huile</title>
+    <s:type>Bath + Body</s:type>
+    <s:vendor>Jordan Seban Hair</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/JordanSebanHair.jpg?v=1472178085" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Jordan Seban Hair<br>
+        <strong>Type: </strong>Bath + Body<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><em>Description </em></h5>
+<p style="text-align: center;"><em>Brand Seen in StyleCaster</em></p>
+<h3 style="text-align: left;">
+<span class="process_title_skin">L'Huile for </span><span class="larger_text">HAIR &amp; SKIN <br></span>
+</h3>
+<p>L'Huile (French for 'The Oil') is a unique blend of seven organic oils, combined at the perfect ratio to create the ultimate, multi-purpose nourishing treatment for the hair and skin. Selected for their moisturizing and varying penetrating properties, they work synergistically with one another to promote the optimal benefits to your hair and skin.</p>
+<p>L'Huile oils are extracted without the use of any chemicals or solvents and most of them are cold-pressed. This delicate process preserves the oils' essential fatty acids, minerals and nutritional-rich properties, such as Vitamin A, B, &amp; E, infusing the hair and skin with powerful antioxidant. L'Huile helps restor the natural hydro-lipid layer of the hair that has been damaged from years of styling, color treating and over processing. It deeply nourishes, softens and protects the driest hair. And because of its pure and concentrated formulation, <em>a little goes a very long way.</em></p>
+<p>Sourced from the most exclusive organic purveyors from around the world, including Morocco, Kenya, India, Israel and Mexico, their amazing natural aroma are brought out with a soupçon of Jordan's signature fragrance, creating the one-of-a-kind smell.</p>
+<p>Designed Paris, Made in the USA.</p>
+<p><strong><em>OUR BEAUTY NOTES</em>:</strong> <strong>Our promise is to align you with the best in luxury, non-toxic beauty - it's what we are <em>all about</em>. We couldn't wait to get our hands on this (now) favorite. This unique, luxurious hair &amp; skin oil can be used as a pre-shampoo treatment to help manage dry, over processed hair, as an after cleansing routine, as a pre-pool or ocean treatment to protect hair from chlorine or sea salt and also on the skin as a deeply hydrating body oil moisturizer. The creator, Jordan Seban is a mastermind and we can't get enough! Use a small amount as this is one of the most powerfully hydrating oils we've come across - a little goes a long way. OUR TIP: Add to the bottom two inches of dry hair 'ends' or 'tips' before bed, sleep in it, and wash well in the morning to reveal incredibly hydrated and healthy hair. <br></strong></p>
+<p><span style="text-decoration: underline;">Mult-Tasking Specifics:<strong> </strong></span></p>
+<p><span style="text-decoration: underline;"><span class="larger_text">Use L'Huile as a pre-shampoo treatment:</span></span><span class="larger_text"> </span>For very dry or thicker hair, pour a small amount (dime size or smaller) into your hands. Apply on lengths and ends, brush it through. For a lighter pre-shampoo treatment, mix a small amount with your favorite hair mask. The longer you let it sit, the deeper the restorative effect. Follow with your regular shampoo and conditioner.</p>
+<p><span style="text-decoration: underline;"><span class="larger_text">Use L'Huile as a hair protection:</span></span><span class="larger_text"> </span>L'Huile is the perfect natural hair protector. To protect your hair against the harsh effects of chlorinated pool water and sea salt, apply a small amount on hair before swimming. Acting as the hair natural protecting layer, apply a few drops of L'Huile on lengths and ends before coloring or highlighting your hair to lessen damage and breakage.</p>
+<p style="direction: rtl; text-align: left;"><span style="text-decoration: underline;"><span class="larger_text">Use L'Huile on the skin:</span></span><span class="larger_text"> </span>On skin, this restores moisture and radiance to the driest skin. In just a few minutes, L'Huile is naturally absorbed in to the skin, leaving behind a satin-soft finish. Massage a few drops directly on skin for maximum nourishing power. Combine L'Huile to your body cream, moisturizer to enhance and deepen the nourishing effect or as a cuticle treatment </p>
+<p style="direction: rtl; text-align: left;"> </p>
+<p style="direction: rtl; text-align: left;"> </p>
+<h5 style="direction: rtl; text-align: left;"><em>Ingredients</em></h5>
+<p><span class="large_number">1 </span><span class="larger_text">Sweet Almond Oil * Prunus dulcis</span><br> Extracted exclusively from edible almonds, this luxuriously nutty oil is ultra-rich in Vitamin E and attributed to promoting overall hair and skin health.</p>
+<p><span class="large_number">2 </span><span class="larger_text">Avocado Oil * Persea americana</span><br> Rich in saturated and mono-saturated fats, avocado oil easily penetrates the hair cuticle, providing support to and strengthening the hair fiber. Avocado oil is the perfect oil to help your hair retain moisture, as well as revive dry damaged hair from over styling and environmental wear and tear.</p>
+<p><span class="large_number">3 </span><span class="larger_text">Jojoba Oil * Simmondsia chinensis</span><br> The properties of jojoba oil mimic that of sebum, the naturally occurring oil your skin and scalp produces. Jojoba oil acts as a hair protector, scalp moisturizer, and oil regulator.</p>
+<p><span class="large_number">4 </span><span class="larger_text">Argan Oil * Argania spinosa</span><br> Also known as the Moroccan oil because of its origin, Argan oil is our multi-tasking miracle moisturizer that has been used for centuries for its unique benefits for the skin.</p>
+<p><span class="large_number">5 </span><span class="larger_text">Macadamia Oil * Macadamia intergrifolia</span><br> Macadamia oil features one of the highest amount of omega-7 fatty acids compared to other nut oil, providing exceptional nourishment for the skin.</p>
+<p><span class="large_number">6 </span><span class="larger_text">Shea Nut Oil * Vittellaria paradoxa</span><br> Light in texture and carefully extracted from Shea butter, Shea nut oil is more rare and features lighter, highly concentrated moisturizing properties than its well-known butter counterpart.</p>
+<p><span class="large_number">7 </span><span class="larger_text">Safflower Oil * Carthamus tinctorius</span><br> Safflower oil features high amounts of oleic acid, making it light and easy to penetrate hair and skin.</p>
+<p>Fragrance is derived from a blend of organic essential oils Neroli and Orange Blossom.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bath</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>conditioner</s:tag>
+    <s:tag>Gluten-Free</s:tag>
+    <s:tag>Haircare</s:tag>
+    <s:tag>Hydration</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>oils</s:tag>
+    <s:tag>shampoo</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/7742493448</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>LB-JS-LHULE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/413681549351</id>
+    <published>2016-08-29T09:00:00-07:00</published>
+    <updated>2016-08-29T09:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/le-baume"/>
+    <title>Le Baume</title>
+    <s:type>Bath + Body</s:type>
+    <s:vendor>Jordan Seban Hair</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/Le_Baume_Jordan_Seban.jpg?v=1511983690" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Jordan Seban Hair<br>
+        <strong>Type: </strong>Bath + Body<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><em>Description </em></h5>
+<p style="text-align: center;"><em>Brand Seen in StyleCaster</em></p>
+<p>Le Baume ( French for The Balm ) is a lightweight conditioning leave-in treatment. The luxurious and rich velvet-cream texture melt in hands and once on the hair, it moisturizes, protects and repairs. The hair is soft, shiny and healthier. <br><br> The silicon-free and weightless formula is infused with <strong>L’Huile Signature oil blend</strong>, as well as <strong>Silk Proteins</strong> to strengthen, soften and tame frizz, all while protecting hair from damage. <br><br> Le Baume features ingredients from around the world, as well as a precise<strong> blend of essential oils</strong>, promoting natural hair growth. <strong>Gotu Kola</strong> extract, a plant from India, rich in minerals, replenish healthy shine and gloss. <br> <strong>Horsetail extract</strong>, rich in silica, helps bind Le Baume’s <strong>protein blend</strong> to the hair. <br> <strong>Aloe Vera</strong>, a natural conditioner, smooth the hair without a sticky residue. <br><br> Le Baume is applied on towel-dried hair before styling as a<strong> pre-blow dry</strong> lotion, as well as on dry hair, for touch-up. <br><br> Apply a peanut size amount on towel-dried hair, or more depending on the lengths. Proceed with blow-dry and heat styling. The hair is silky, shiny and hydrated. The style is locked-in and protected from heat damage and humidity.</p>
+<p><strong><em>OUR BEAUTY NOTES</em>:</strong> <strong>Sister product to the original, and popular, L'Huile this offers a lightweight option for deeply effective conditioning, while being extremely lightweight on the hair. This includes the highly prized seven essentials, Jordan Seban signatures, leaving your hair nurtured and healthier than before. We appreciates its multi-use for damp or dry hair and even the skin. Jordan Seban never disappoints. <br></strong></p>
+<p>Size: 4.0oz</p>
+<h5><em>Ingredients</em></h5>
+<p>Aqua (Deionized Water), Carrageenan, Aloe Barbadensis Leaf Juice (Organic Aloe), Argania Spinosa Kernel Oil (Organic Argan Oil), Macadamia Ternifolia Seed Oil (Macadamia Nut Oil), Persea Gratissima Oil (Avocado Oil), Simmondsia Chinensis Seed Oil (Organic Jojoba Oil), Butyrospermum Parkii Butter (Shea Butter), Prunus Amygdalus Dulcis Oil (Sweet Almond Oil), Bursera Fagaroides Wood Oil (Linaloe), Citrus Aurantium Flower Oil (Neroli), Citrus Aurantium Leaf Oil (Neroli), Citrus Reticulata Peel Oil (Petitgrain), Amyris Balsamifera Bark Oil, Copaifera Species Resin Oils, Dipterocarpus Turbinatus Balsam Oil, Santalum Album Oil (Sandalwood), Santalum Spicata Wood Oil, Silk Protein Amino Acid Blend of Sodium Pca, Sodium Lactate, Arginine, Aspartic Acid, Glycine, Alanine, Serine, Valine, Isoleucine, Proline, Threonine, Histidine, Phenylalanine, Foeniculum Vulgare Fruit Extract (Fennel), Centella Asiatica Extract (Organic Gotu Kola), Equisetum Arvense Extract (Horsetail), Geranium Maculatum Extract (Wild Geranium), Taraxacum Officinale Extract (Organic Dandelion), Hydroxyethyllcellulose*, Potassium Sorbate*, Sodium Benzoate*, Ethylhexylglycerin.*Plant Derived<br><br> On thinner hair, it gives body and hold the style. On thicker hair, it gives definition and eliminates frizz. <br><br> For a natural, effortless look, apply on wet hair and let the hair air dry. For curly hair, apply on tower-dried hair, and form curl with fingers. Dry with a diffuser or air dry. <br><br> Apply anytime on dry hair to refresh and nourish.Designed Paris, Made in the USA.</p>
+<p><span style="text-decoration: underline;">Mult-Tasking Specifics:<strong> </strong></span></p>
+<p><span style="text-decoration: underline;"><span class="larger_text">Use L'Huile as a pre-shampoo treatment:</span></span><span class="larger_text"> </span>For very dry or thicker hair, pour a small amount (dime size or smaller) into your hands. Apply on lengths and ends, brush it through. For a lighter pre-shampoo treatment, mix a small amount with your favorite hair mask. The longer you let it sit, the deeper the restorative effect. Follow with your regular shampoo and conditioner.</p>
+<p><span style="text-decoration: underline;"><span class="larger_text">Use L'Huile as a hair protection:</span></span><span class="larger_text"> </span>L'Huile is the perfect natural hair protector. To protect your hair against the harsh effects of chlorinated pool water and sea salt, apply a small amount on hair before swimming. Acting as the hair natural protecting layer, apply a few drops of L'Huile on lengths and ends before coloring or highlighting your hair to lessen damage and breakage.</p>
+<p style="direction: rtl; text-align: left;"><span style="text-decoration: underline;"><span class="larger_text">Use L'Huile on the skin:</span></span><span class="larger_text"> </span>On skin, this restores moisture and radiance to the driest skin. In just a few minutes, L'Huile is naturally absorbed in to the skin, leaving behind a satin-soft finish. Massage a few drops directly on skin for maximum nourishing power. Combine L'Huile to your body cream, moisturizer to enhance and deepen the nourishing effect or as a cuticle treatment </p>
+<p style="direction: rtl; text-align: left;"> </p>
+<p style="direction: rtl; text-align: left;"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bath</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>conditioner</s:tag>
+    <s:tag>Gluten-Free</s:tag>
+    <s:tag>Haircare</s:tag>
+    <s:tag>Hydration</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>oils</s:tag>
+    <s:tag>shampoo</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/413681549351</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>LB-JS-LB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/4987509252</id>
+    <published>2016-05-26T20:58:00-07:00</published>
+    <updated>2016-05-26T20:58:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/all-your-gold-spf-20"/>
+    <title>ALL YOUR GOLD (SPF 20)</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>ILIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/Radiant_Beauty_Balm.jpg?v=1464322896" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>ILIA<br>
+        <strong>Type: </strong>Makeup<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>
+<em>Description</em> </h5>
+<p>SEASONAL: BACK SPRING 2017</p>
+<p>Radiant Beauty Balm: An instant pick-me-up that revives skin for a brighter and more radiant looking complexion. Subtle pearl pigments of gold softly diffuse the light creating a fresh, smooth, youthful appearance. A high-grade, non-nano zinc oxide SPF 20 sunscreen offers natural UVA and UVB protection.</p>
+<p>This Radiant Beauty Balm helps to minimize pores and brings luminosity to the skin. Allow the product to set for 5 minutes to take full affect. <span style="text-decoration: underline;"><em>All Your Gold</em> is perfect when used as a base with ILIA Vivid Foundation or blended with ILIA Vivid Concealer.</span></p>
+<p>The moisturizing properties of Aloe Vera and Coconut soothe the skin and aid in long-lasting hydration. These organic botanicals are infused with Rose Hip Oil to help combat free radicals, as well as a combination of Rose Petals and Lavender Flowers for their anti-inflammotory properties.</p>
+<p>1.7oz/ 50 ml</p>
+<p><strong><em>Our Beauty Notes</em>: This primer and SPF is everything! Shake this beauty up and once applied this thicker textured pick-me-up will become the premise for a flawless, sun-protected (and wrinkle prevention) day. Your skin will look luminous, healthy and truly </strong><b>glowing! </b></p>
+<p> </p>
+<p> </p>
+<h5><em>Ingredients </em></h5>
+<p><br> <strong>Active:</strong> Non-nano Zinc Oxide 14%<br> <strong>Purpose: </strong>Sunscreen</p>
+<p>Inactive<strong>: </strong>Glycerin*, Water (Aqua), Coco-caprylate, Aloe Barbadensis (Aloe Vera) Leaf Juice*, Polyglyceryl-2 Oleate, Polyhydroxystearic Acid, Polyglyceryl-2 Stearate, Dimethicone, Polyglyceryl-10 Oleate, Stearic Acid, Mica, Citrus Aurantium Dulcis (Orange) Peel Wax, Iron Oxide (Ci77492), Rosa Canina (Rosehip) Seed Oil*, Olea Europaea (Olive) Fruit Oil*, Rosa Centifolia (Rose) Petals*, Lavandula Angustifolia (Lavender) Flowers*, Silica, Phenethyl Alcohol, Ethylhexylglycerin. *certified Organic Ingredients. Ingrédients Certifiés Biologiques.<br><br>This ingredient list is subject to change, it is the most up-to-date ingredient list and may differ from product packaging. 42% Organic, Vegan</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>concealers</s:tag>
+    <s:tag>foundation</s:tag>
+    <s:tag>moisturizer</s:tag>
+    <s:tag>Moisturizers</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Pores</s:tag>
+    <s:tag>Radiance</s:tag>
+    <s:tag>Sun</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/4987509252</id>
+      <title>Default Title</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/4987528964</id>
+    <published>2016-05-26T20:58:00-07:00</published>
+    <updated>2016-05-26T20:58:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/moondance-spf-20"/>
+    <title>Moondance (SPF 20)</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>ILIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/Moondance.jpg?v=1464324135" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>ILIA<br>
+        <strong>Type: </strong>Makeup<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>
+<em>Description</em> </h5>
+<p>LIMITED TIME ONLY</p>
+<p>A follow up to <em>Fade Into You</em>, <em>Moondance</em> offers all the same benefits and adds natural SPF 20 protection with a hint of luminosity.</p>
+<p>With an updated (and innovative) design, the brush has an ‘Open’ and ‘Close’ option as well as a ‘Buff’ feature for more control. Great for on-the-go, this refillable travel companion makes it easy to reset your look during the day.</p>
+<p>ILIA Radiant Translucent Powder is an organic blend of powders including Aloe Vera with light essential oils of Rosemary and Thyme. Hibiscus Flower extract acts as an anti-oxidant to the skin while non-nano zinc oxide provides SPF 20 protection. The fine pearl pigment offers light reflecting properties that brings a luminosity to the skin. </p>
+<p>0.07oz / 2.3g</p>
+<p><strong><em>Our Beauty Notes</em>: Yes, yes, yes to Translucent Powder with SPF and hints of luminosity! This clear setting powder acts as a finishing powder to complete your look, close in pore size and keep makeup lasting throughout the day - with the most chic amount of luminosity. </strong></p>
+<p> </p>
+<p> </p>
+<h5><em>Ingredients </em></h5>
+<p> </p>
+<strong>Active:</strong> Non-nano Zinc Oxide 14%<br>
+<ul>
+<li>
+<strong>Purpose:</strong> Sunscreen</li>
+<li>
+<li>
+<strong>Inactive: </strong>Mica, Zea Mays (Corn) Starch*, Zinc Stearate, Kaolin, Sunflower Oil*, Rosmarinus Officinalis (Rosemary) Leaf, Thymus Vulgaris (Thyme) Leaf, Aloe Barbadensis (Aloe Vera) Leaf*, Hibiscus Sabdariffa Flower Extract, Leuconostoc/radish Root Ferment Filtrate. *certified Organic Ingredients. Ingrédients Certifiés Biologiques.</li>
+<li>
+<li>This ingredient list is subject to change, it is the most up-to-date ingredient list and may differ from product packaging.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>concealers</s:tag>
+    <s:tag>foundation</s:tag>
+    <s:tag>moisturizer</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Pores</s:tag>
+    <s:tag>Radiance</s:tag>
+    <s:tag>Sun</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/4987528964</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>LB-ILIA-MOON</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/4408465476</id>
+    <published>2016-02-16T20:05:00-08:00</published>
+    <updated>2016-02-16T20:05:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/squalane-facial-oil"/>
+    <title>Squalane Facial Oil</title>
+    <s:type>Skincare</s:type>
+    <s:vendor>Indie Lee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/IndieLeeSqualaneFacialOil_copy.jpg?v=1455597716" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Indie Lee<br>
+        <strong>Type: </strong>Skincare<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><i>Description</i></h5>
+<div style="text-align: center;">
+<em>Brand</em><i> Seen In: Cosmopolitan, Vogue, Refinery29, Zoe Report, Today Show, Lucky, Marie Claire, Allure, Style, Glamour, ELLE, Bazaar &amp; More </i>
+</div>
+<div style="text-align: center;">
+<br><i></i>
+</div>
+<p style="text-align: center;"><i>"Certified Chic" - Vogue </i></p>
+<p style="text-align: center;">"<em>The Most Inspiring Beauty Brand Ever</em>" - Cosmopolitan Magazine </p>
+<p style="text-align: left;">100% pure, olive-derived squalane oil promotes skin elasticity, diminishes age spots and hyper pigmentation, and boosts cell regeneration and oxygenation. Improves texture and tone. Leaves the complexion feeling soft and nourished - never greasy and non-pore clogging. Ideal for all skin types including dry, sensitive, oily and acne prone. 1 oz. </p>
+<div style="text-align: left;"></div>
+<p class="product-desc fl fw"><strong><em>Our Beauty Notes</em>: This non-comedogenic (non pore clogging) oil is perfect for all skin types and we appreciate it for its virtually no smell, never-greasy application and it's ability to tackle skin discoloration and dullness. OUR TIP: Start small and work your way up to finding the right amount of drops for your ideal look and feel.  </strong></p>
+<p class="product-desc fl fw"><strong>Indie Lee tugged at our heart strings initially with her story of overcoming a brain tumor to discover the link between conventional beauty and its potential health harm. After learning about her story, she then struck us with a genius product line that conquers disbelieve in clean beauty. Since regaining her health, she has taken the clean beauty world by storm creating the chic, effective and modern (right up our alley!): Indie Lee.</strong> </p>
+<h5 style="text-align: left;"><em>Ingredients </em></h5>
+<p><span>100% Squalane Oil (Olive derived).</span></p>
+<h5><em>Use </em></h5>
+<p><span>Apply 2 or 3 drops of oil to freshly cleansed skin, both day and night. Ideal for all skin types: dry, oily, combination, acne prone, and sensitive. For external use only.</span></p>
+<style><!--
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Anti-aging</s:tag>
+    <s:tag>Breakouts</s:tag>
+    <s:tag>Discoloration</s:tag>
+    <s:tag>face serums</s:tag>
+    <s:tag>Hydration</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>oils</s:tag>
+    <s:tag>Radiance</s:tag>
+    <s:tag>Sensitivity</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/4408465476</id>
+      <title>Facial Oil</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>LB-INDIE-OIL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/4412572356</id>
+    <published>2016-02-16T20:05:00-08:00</published>
+    <updated>2016-02-16T20:05:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/squalane-facial-cream"/>
+    <title>Squalane Facial Cream</title>
+    <s:type>Skincare</s:type>
+    <s:vendor>Indie Lee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/IndieLeeSqualaneFacialCream_copy.jpg?v=1455665980" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Indie Lee<br>
+        <strong>Type: </strong>Skincare<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><i>Description</i></h5>
+<div style="text-align: center;">
+<em>Brand</em><i> Seen In: Cosmopolitan, Vogue, Refinery29, Zoe Report, Today Show, Lucky, Marie Claire, Allure, Style, Glamour, ELLE, Bazaar &amp; More </i>
+</div>
+<div style="text-align: center;">
+<br><i></i>
+</div>
+<p style="text-align: center;"><i>"Certified Chic" - Vogue </i></p>
+<p style="text-align: center;">"<em>The Most Inspiring Beauty Brand Ever</em>" - Cosmopolitan Magazine </p>
+<div class="short-description fl fw">
+<div class="fl fw">
+<p class="p1"><span class="s1">BACKORDERED WITH BRAND: ALL PRE-ORDERS TO SHIP IMMEDIATELY ONCE IN. THANK YOU! </span></p>
+<p class="p1"><span class="s1">An anti-aging asset that soothes, nurtures, and moisturizes skin thanks to olive-derived squalane oil and hyaluronic acid - which have been known to improve cellular function, </span>skin texture (minimizes pores), tone (evens out complexion), and color (revives natural glow). The result? Younger, healthier, and more radiant skin. </p>
+</div>
+</div>
+<div class="product-desc fl fw">
+<ul>
+<li>Ingredients Offer Antioxidant and Detoxifier Properties </li>
+<li>Fast Absorption Rate: A Serious Advantage for Oil-Prone Skin Types</li>
+<li>Vegan</li>
+<li>Paraben Free</li>
+<li>Phthalate Free</li>
+<li>Sulfate Free</li>
+<li>No Artificial Fragrances </li>
+<li>Never Tested on Animals</li>
+<li>1oz. </li>
+</ul>
+</div>
+<div style="text-align: left;"></div>
+<p class="product-desc fl fw"><strong><em>Our Beauty Notes</em>: A beautifully effective moisturizer that tackles dry spots, tightens aging skin, and works to successfully even out skin tone. This active ingredient of squalane is a natural <span>antioxidant, preventing UV damage, age spots, promoting cell growth and is an antibacterial.</span> </strong></p>
+<p class="product-desc fl fw"><strong>Indie Lee tugged at our heart strings initially with her story of overcoming a brain tumor to discover the link between conventional beauty and its potential health harm. After learning about her story, she then struck us with a genius product line that conquers disbelieve in clean beauty. Since regaining her health, she has taken the clean beauty world by storm creating the chic, effective and modern (right up our alley!): Indie Lee.</strong> </p>
+<h5 style="text-align: left;"><em>Ingredients </em></h5>
+<p><span>Aqua, Simmondsia Chinensis, Persea Gratissima, Aloe Barbadensis, Emulsifying Wax, Vegetable Glycerin, Elaeis Guineensis, Palm Stearic Acid, Squalane (olive derived), Hyaluronic Acid, Tocopheryl Acetate, Rosa Rubiginosa Seed Oil, Ascorbyl Palmitate, Dl-Panthenol, Allantoin, Xanthan Gum, Triticum Vulgare, Daucus Carota Oil, Rosmarinus Officinalis Leaf Extract, Phenoxyethanol</span></p>
+<h5><em>Use </em></h5>
+<p><span>Apply a small amount to face and neck. Massage gently in upward motions. Use daily after cleansing. For external use only.</span></p>
+<style><!--
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Anti-aging</s:tag>
+    <s:tag>Breakouts</s:tag>
+    <s:tag>Discoloration</s:tag>
+    <s:tag>face serums</s:tag>
+    <s:tag>Hydration</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>Moisturizers</s:tag>
+    <s:tag>night creams</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>oils</s:tag>
+    <s:tag>Pores</s:tag>
+    <s:tag>Radiance</s:tag>
+    <s:tag>Redness</s:tag>
+    <s:tag>Sensitivity</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/4412572356</id>
+      <title>Facial Cream</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/4412480324</id>
+    <published>2016-02-16T20:04:00-08:00</published>
+    <updated>2016-02-16T20:04:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/swiss-apple-facial-serum"/>
+    <title>Swiss Apple Facial Serum</title>
+    <s:type>Skincare</s:type>
+    <s:vendor>Indie Lee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/IndieLeeSwissAppleFacialSerum_copy.jpg?v=1472529108" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Indie Lee<br>
+        <strong>Type: </strong>Skincare<br>
+        <strong>Price: </strong>
+            130.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><i>Description</i></h5>
+<div style="text-align: center;">
+<em>Brand</em><i> Seen In: Cosmopolitan, Vogue, Refinery29, Zoe Report, Today Show, Lucky, Marie Claire, Allure, Style, Glamour, ELLE, Bazaar &amp; More </i>
+</div>
+<div style="text-align: center;">
+<br><i></i>
+</div>
+<p style="text-align: center;"><i>"Certified Chic" - Vogue </i></p>
+<p style="text-align: center;">"<em>The Most Inspiring Beauty Brand Ever</em>" - Cosmopolitan Magazine </p>
+<p style="text-align: left;"><span>A revolutionary anti-aging serum designed to even the skin tone, reduce wrinkles, and preserve a youthful appearance. Formulated with the stem cells of a rare Swiss apple, this combination of rich proteins, phytonutrients, and metabolites boosts cell production and protects your skin from environmental stress.</span></p>
+<div style="text-align: left;"></div>
+<p class="product-desc fl fw"><strong><em>Our Beauty Notes</em>: An aggressive merriment of skin preserving ingredients created to address signs of dullness, environmental stressers fine lines and wrinkles. This facial serum with it's gel-like consistency tightens skin as it dries offering a unique list of powerful ingredients that help to turnover skin into a brighter, younger and healthier looking version. Especially important during the PM regimen. <br></strong></p>
+<p class="product-desc fl fw"><strong>Indie Lee tugged at our heart strings initially with her story of overcoming a brain tumor to discover the link between conventional beauty and its potential health harm. After learning about her story, she then struck us with a genius product line that conquers disbelieve in clean beauty. Since regaining her health, she has taken the clean beauty world by storm creating the chic, effective and modern (right up our alley!): Indie Lee.</strong> </p>
+<h5 style="text-align: left;"><em>Ingredients </em></h5>
+<p><span>Seaweed Extract, Purified Water, Hyaluronic Acid, Malus Domestica Fruit Cell Culture, Xanthan Gum, Lecithin, Phenoxyethanol*, Ethylhexylglycerin* *Derived from natural sources.</span></p>
+<h5><em>Use </em></h5>
+<p><span>Apply 2 or 3 drops of serum to face and throat after cleansing day and night. Use on its own or apply underneath moisturizer; allow 5 minutes absorption time before applying makeup and 15 minutes absorption time before applying sunscreen. For external use only.</span></p>
+<style><!--
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Anti-aging</s:tag>
+    <s:tag>Breakouts</s:tag>
+    <s:tag>Discoloration</s:tag>
+    <s:tag>face serums</s:tag>
+    <s:tag>Gluten-Free</s:tag>
+    <s:tag>Hydration</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>oils</s:tag>
+    <s:tag>Radiance</s:tag>
+    <s:tag>Sensitivity</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/4412480324</id>
+      <title>Anti-Aging Serum</title>
+      <s:price currency="USD">130.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/4408347524</id>
+    <published>2016-02-16T20:03:00-08:00</published>
+    <updated>2016-02-16T20:03:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/rosehip-cleanser"/>
+    <title>Rosehip Cleanser</title>
+    <s:type>Skincare</s:type>
+    <s:vendor>Indie Lee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/IndieLeeRosehipCleanser_copy.jpg?v=1455596551" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Indie Lee<br>
+        <strong>Type: </strong>Skincare<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><i>Description</i></h5>
+<div style="text-align: center;">
+<em>Brand</em><i> Seen In: Cosmopolitan, Vogue, Refinery29, Zoe Report, Today Show, Lucky, Marie Claire, Allure, Style, Glamour, ELLE, Bazaar &amp; More </i>
+</div>
+<div style="text-align: center;">
+<br><i></i>
+</div>
+<p style="text-align: center;"><i>"Certified Chic" - Vogue </i></p>
+<p style="text-align: center;">"<em>The Most Inspiring Beauty Brand Ever</em>" - Cosmopolitan Magazine </p>
+<div style="text-align: center;"><em></em></div>
+<div class="short-description fl fw">
+<div class="fl fw">
+<p class="p1"><span>Harnessing the power of vitamin-rich rosehip oil, this gentle yet indulgent cleanser and eye makeup remover soothes skin to help slow the signs of aging, preserve moisture, and treat redness and rosacea.</span></p>
+<ul>
+<li>Gentle enough for sensitive skin</li>
+<li>High in antioxidants and Vitamins A, E, and K</li>
+<li>Helps improve the appearance of wrinkles and moisturizes skin</li>
+<li>Offers a fresh and light rose scent </li>
+<li>Gentle enough to clean makeup brushes (we recommend doing this weekly!)</li>
+<li>Can be used with a cleansing brush </li>
+<li>No synthetics, toxins or chemicals. </li>
+</ul>
+<p class="p1">  4 oz.  <em> </em></p>
+</div>
+</div>
+<p class="product-desc fl fw"><strong><em>Our Beauty Notes</em>: If you're looking for a very light, yet effective cleanser this is your girl. Beautifully simple and highly effective at cleansing the skin this is perfect for sensitive skin or those that prefer a light cleanser. The rose aroma smells beautiful, while we also use it to clean makeup </strong><b>brushes or use with a hand held cleansing sponge for added exfoliation.  </b></p>
+<p class="product-desc fl fw"><strong>Indie Lee tugged at our heart strings initially with her story of overcoming a brain tumor to discover the link between conventional beauty and its potential health harm. After learning about her story, she then struck us with a genius product line that conquers disbelieve in clean beauty. Since regaining her health, she has taken the clean beauty world by storm creating the chic, effective and modern (right up our alley!): Indie Lee.</strong> </p>
+<h5 style="text-align: left;"><em>Ingredients </em></h5>
+<p><span>Aqua, Sodium Olivate (Fatty Acid from Olive), Glycerin, Rosa Rubiginosa Seed Oil, Chondrus Crispus, Eriobotrya Japonica Extract</span></p>
+<h5><em>Use </em></h5>
+<p><span>Apply a small amount of cleanser to wet face. Use with a wet cotton pad to remove eye makeup. Rinse completely with water. Follow with toner and moisturizer. For external use only. </span></p>
+<style><!--
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Anti-aging</s:tag>
+    <s:tag>Breakouts</s:tag>
+    <s:tag>Cleansers</s:tag>
+    <s:tag>Discoloration</s:tag>
+    <s:tag>exfoliators</s:tag>
+    <s:tag>face serums</s:tag>
+    <s:tag>Hydration</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>oils</s:tag>
+    <s:tag>Radiance</s:tag>
+    <s:tag>Redness</s:tag>
+    <s:tag>Sensitivity</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/4408347524</id>
+      <title>Cleanser</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/4412233860</id>
+    <published>2016-02-16T20:01:00-08:00</published>
+    <updated>2016-02-16T20:01:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/coq-10-toner"/>
+    <title>CoQ-10 Toner</title>
+    <s:type>Skincare</s:type>
+    <s:vendor>Indie Lee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/IndieLeeCoQ10Toner_HighRes_copy.jpg?v=1455661663" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Indie Lee<br>
+        <strong>Type: </strong>Skincare<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><i>Description</i></h5>
+<div style="text-align: center;">
+<em>Brand</em><i> Seen In: Cosmopolitan, Vogue, Refinery29, Zoe Report, Today Show, Lucky, Marie Claire, Allure, Style, Glamour, ELLE, Bazaar &amp; More </i>
+</div>
+<div style="text-align: center;"><i></i></div>
+<div style="text-align: center;"><i></i></div>
+<p style="text-align: center;"><i>"Certified Chic" - Vogue </i></p>
+<p style="text-align: center;">"<em>The Most Inspiring Beauty Brand Ever</em>" - Cosmopolitan Magazine </p>
+<div style="text-align: center;"><em></em></div>
+<div class="short-description fl fw">
+<div class="fl fw">
+<p class="p1"><span>An alcohol free, skin-balancing toner formulated with the powerful antioxidant CoQ-10. The hydrating and refreshing mixture helps close pores and balance the skin's pH level using Aloe Vera and Hyaluronic Acid to enhance younger, more vibrant, and even-toned skin. </span></p>
+</div>
+</div>
+<p class="product-desc fl fw"><strong><em>Our Beauty Notes</em>: Toners are an essential part of your skincare regime for revived and balanced skin, this helps to restore your skins unique and personal pH without the burning of alcohol. Plus, this 4 ounce bottle can last up to 6 months deepening on daily use. </strong></p>
+<p class="product-desc fl fw"><strong>Indie Lee tugged at our heart strings initially with her story of overcoming a brain tumor to discover the link between conventional beauty and its potential health harm. After learning about her story, she then struck us with a genius product line that conquers disbelieve in clean beauty. Since regaining her health, she has taken the clean beauty world by storm creating the chic, effective and modern (right up our alley!): Indie Lee.</strong> </p>
+<h5 style="text-align: left;"><em>Ingredients </em></h5>
+<p><span class="s1">Purified Water, Decyl Glucoside (Veg. Oils &amp; Sugar), Disodium Coco-Glucoside Citrate, Coco Glucoside Oleaste (Coconut and Sunflower Oil), Hydrolyzed Wheat Protein*, Xanthan Gum, Fragaria Chiloensis Seed Oil (Strawberry), Lycopene, Phenoxyethanol and Ethylhexylglycerin (both derived from natural sources). </span> <em>*Note: contains gluten. </em></p>
+<h5><em>Use </em></h5>
+<p>Apply a small amount of cleanser to wet face. Use with a wet cotton pad to remove eye makeup. Rinse completely with water. Follow with toner and moisturizer. For external use only. </p>
+<style><!--
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Anti-aging</s:tag>
+    <s:tag>Breakouts</s:tag>
+    <s:tag>Gluten-Free</s:tag>
+    <s:tag>Hydration</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>Mists</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Radiance</s:tag>
+    <s:tag>Toners</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/4412233860</id>
+      <title>Toner</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>LB-INDIE-COQ10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

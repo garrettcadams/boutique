@@ -1,0 +1,1264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://levertbeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://levertbeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://levertbeauty.com/collections/new-arrivals.atom"/>
+  <title>LeVert Beauty</title>
+  <updated>2017-12-06T10:31:55-08:00</updated>
+  <author>
+    <name>LeVert Beauty</name>
+  </author>
+  <entry>
+    <id>https://levertbeauty.com/products/424181006375</id>
+    <published>2017-12-06T10:31:55-08:00</published>
+    <updated>2017-12-06T10:31:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/aer-next-level-deodorant"/>
+    <title>AER Next-Level Deodorant (Lavender Myrrh)</title>
+    <s:type>Deoderant</s:type>
+    <s:vendor>Vapour Organic Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/Lavender_Myrrh.jpg?v=1512585616" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Vapour Organic Beauty<br>
+        <strong>Type: </strong>Deoderant<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Revolutionary gel-to-powder formula</p>
+<div aria-hidden="false" aria-expanded="true" role="tabpanel" aria-labelledby="ui-accordion-1-header-0" style="display: block;" class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom ui-accordion-content-active" id="details" name="details" itemprop="description">
+<p>Let go of convention. Vapour’s innovative formula transforms from gel to powder on your skin and delivers lasting results. Silky and lightweight, AER’s potent plant + mineral complex effectively combats odor and bacteria at the source.</p>
+<p><strong>AER Performance</strong></p>
+<p>AER’s perfected base of active powders and essential oils in suspension is the result of a five-year process to elevate the performance and integrity of the deodorant category. Like other Vapour products, AER is highly concentrated—a little goes a long way.</p>
+<p><strong>AER Experience</strong></p>
+<p>The optimal combination of form and functionality, AER glides on easily, transforming from gel to powder on your skin. The effect is a light-as-air barrier, allowing skin to breathe while confronting odor-causing bacteria in a lasting way. AER contains no talc, synthetic or toxic ingredients, which are the primary building blocks of conventional deodorants and antiperspirants.</p>
+<p><strong>AER Plant + Mineral Complex</strong></p>
+<p>A potent blend of specific plant + mineral ingredients, featuring Organic Arrowroot, Baking Soda, Organic Tulsi, Wildcrafted Myrrh and Organic Oregano. These powerful natural ingredients work throughout the day and target bacteria at the source.</p>
+<p><strong>AER Essence</strong></p>
+<p>AER’s universal essential oil blends elevate the senses and counteract odor, delivering worry-free comfort. The three options are Ginger Grapefruit, Lavender Myrrh and Palo Santo Blood Orange.</p>
+<p>TEST DRIVE THEIR 12 DAY TRIAL HERE<br><a href="http://www.vapourbeauty.com/trial-set/vapour-organic-beauty-aer-trial-set.htm"></a></p>
+<p><strong><em>OUR BEAUTY NOTES</em>: This novel formula is creating waves inside the beauty industry for its safe approach to highly effective order control. The options were perfectly created to delivery worry-free comfort to everyday deodorant. A little goes a long way and the formula applies smoothly with a desirable texture. </strong></p>
+<p> </p>
+<em>Ingredients</em>
+<p> </p>
+<div aria-hidden="false" aria-expanded="true" role="tabpanel" aria-labelledby="ui-accordion-1-header-1" style="display: block;" class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom ui-accordion-content-active" id="ingredients" name="ingredients" itemprop="description">
+<p>Organic Maranta Arundinacea (Arrowroot) Root</p>
+<p>Organic Helianthus Annuus (Sunflower) Oil</p>
+<p>Sodium Bicarbonate (Baking Soda)</p>
+<p>OrganicVirgin Cocos Nucifera (Coconut) Oil</p>
+<p>Silica</p>
+<p>Glyceryl Undecylenate (Castor and Canola Oils)*</p>
+<p>Organic Cera Alba (Beeswax)</p>
+<p>Vapour's Proprietary Blend of Essential Oils</p>
+<p>Tocopherol (Non GMO Vitamin E – Soy)</p>
+<p>Organic Ocimum Sanctum (Tulsi) Leaf Extract</p>
+<p>Wildcrafted Commiphora Myrrha (Myrrh) Gum Extract</p>
+<p>Organic Oreganum Vulgare (Oregano) Leaf Extract</p>
+<p>*Eco–Cert</p>
+<p> </p>
+<p>Nt Wt 1.8oz /51g</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deodorant</s:tag>
+    <s:tag>lavendar</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Sensitivity</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/424181006375</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/424183988263</id>
+    <published>2017-12-06T10:31:55-08:00</published>
+    <updated>2017-12-06T10:31:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/aer-next-level-deodorant-palo-santo-blood-orange"/>
+    <title>AER Next-Level Deodorant (Palo Santo Blood Orange)</title>
+    <s:type>Deoderant</s:type>
+    <s:vendor>Vapour Organic Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/Palo_Santo_Blood_Orange.jpg?v=1512585956" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Vapour Organic Beauty<br>
+        <strong>Type: </strong>Deoderant<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Revolutionary gel-to-powder formula</p>
+<div aria-hidden="false" aria-expanded="true" role="tabpanel" aria-labelledby="ui-accordion-1-header-0" style="display: block;" class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom ui-accordion-content-active" id="details" name="details" itemprop="description">
+<p>Let go of convention. Vapour’s innovative formula transforms from gel to powder on your skin and delivers lasting results. Silky and lightweight, AER’s potent plant + mineral complex effectively combats odor and bacteria at the source.</p>
+<p><strong>AER Performance</strong></p>
+<p>AER’s perfected base of active powders and essential oils in suspension is the result of a five-year process to elevate the performance and integrity of the deodorant category. Like other Vapour products, AER is highly concentrated—a little goes a long way.</p>
+<p><strong>AER Experience</strong></p>
+<p>The optimal combination of form and functionality, AER glides on easily, transforming from gel to powder on your skin. The effect is a light-as-air barrier, allowing skin to breathe while confronting odor-causing bacteria in a lasting way. AER contains no talc, synthetic or toxic ingredients, which are the primary building blocks of conventional deodorants and antiperspirants.</p>
+<p><strong>AER Plant + Mineral Complex</strong></p>
+<p>A potent blend of specific plant + mineral ingredients, featuring Organic Arrowroot, Baking Soda, Organic Tulsi, Wildcrafted Myrrh and Organic Oregano. These powerful natural ingredients work throughout the day and target bacteria at the source.</p>
+<p><strong>AER Essence</strong></p>
+<p>AER’s universal essential oil blends elevate the senses and counteract odor, delivering worry-free comfort. The three options are Ginger Grapefruit, Lavender Myrrh and Palo Santo Blood Orange.</p>
+<p>TEST DRIVE THEIR 12 DAY TRIAL HERE<br><a href="http://www.vapourbeauty.com/trial-set/vapour-organic-beauty-aer-trial-set.htm"></a></p>
+<p><strong><em>OUR BEAUTY NOTES</em>: This novel formula is creating waves inside the beauty industry for its safe approach to highly effective order control. The options were perfectly created to delivery worry-free comfort to everyday deodorant. A little goes a long way and the formula applies smoothly with a desirable texture. </strong></p>
+<p> </p>
+<em>Ingredients</em>
+<p> </p>
+<div aria-hidden="false" aria-expanded="true" role="tabpanel" aria-labelledby="ui-accordion-1-header-1" style="display: block;" class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom ui-accordion-content-active" id="ingredients" name="ingredients" itemprop="description">
+<p>Organic Maranta Arundinacea (Arrowroot) Root</p>
+<p>Organic Helianthus Annuus (Sunflower) Oil</p>
+<p>Sodium Bicarbonate (Baking Soda)</p>
+<p>OrganicVirgin Cocos Nucifera (Coconut) Oil</p>
+<p>Silica</p>
+<p>Glyceryl Undecylenate (Castor and Canola Oils)*</p>
+<p>Organic Cera Alba (Beeswax)</p>
+<p>Vapour's Proprietary Blend of Essential Oils</p>
+<p>Tocopherol (Non GMO Vitamin E – Soy)</p>
+<p>Organic Ocimum Sanctum (Tulsi) Leaf Extract</p>
+<p>Wildcrafted Commiphora Myrrha (Myrrh) Gum Extract</p>
+<p>Organic Oreganum Vulgare (Oregano) Leaf Extract</p>
+<p>*Eco–Cert</p>
+<p> </p>
+<p>Nt Wt 1.8oz /51g</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deodorant</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>ORANGE</s:tag>
+    <s:tag>Sensitivity</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/424183988263</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/424186773543</id>
+    <published>2017-12-06T10:31:55-08:00</published>
+    <updated>2017-12-06T10:31:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/aer-next-level-deodorant-ginger-grapefruit"/>
+    <title>AER Next-Level Deodorant (Ginger Grapefruit)</title>
+    <s:type>Deoderant</s:type>
+    <s:vendor>Vapour Organic Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/Ginger_Grapefruit.jpg?v=1512586182" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Vapour Organic Beauty<br>
+        <strong>Type: </strong>Deoderant<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Revolutionary gel-to-powder formula</p>
+<div aria-hidden="false" aria-expanded="true" role="tabpanel" aria-labelledby="ui-accordion-1-header-0" style="display: block;" class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom ui-accordion-content-active" id="details" name="details" itemprop="description">
+<p>Let go of convention. Vapour’s innovative formula transforms from gel to powder on your skin and delivers lasting results. Silky and lightweight, AER’s potent plant + mineral complex effectively combats odor and bacteria at the source.</p>
+<p><strong>AER Performance</strong></p>
+<p>AER’s perfected base of active powders and essential oils in suspension is the result of a five-year process to elevate the performance and integrity of the deodorant category. Like other Vapour products, AER is highly concentrated—a little goes a long way.</p>
+<p><strong>AER Experience</strong></p>
+<p>The optimal combination of form and functionality, AER glides on easily, transforming from gel to powder on your skin. The effect is a light-as-air barrier, allowing skin to breathe while confronting odor-causing bacteria in a lasting way. AER contains no talc, synthetic or toxic ingredients, which are the primary building blocks of conventional deodorants and antiperspirants.</p>
+<p><strong>AER Plant + Mineral Complex</strong></p>
+<p>A potent blend of specific plant + mineral ingredients, featuring Organic Arrowroot, Baking Soda, Organic Tulsi, Wildcrafted Myrrh and Organic Oregano. These powerful natural ingredients work throughout the day and target bacteria at the source.</p>
+<p><strong>AER Essence</strong></p>
+<p>AER’s universal essential oil blends elevate the senses and counteract odor, delivering worry-free comfort. The three options are Ginger Grapefruit, Lavender Myrrh and Palo Santo Blood Orange.</p>
+<p>TEST DRIVE THEIR 12 DAY TRIAL HERE<br><a href="http://www.vapourbeauty.com/trial-set/vapour-organic-beauty-aer-trial-set.htm"></a></p>
+<p><strong><em>OUR BEAUTY NOTES</em>: This novel formula is creating waves inside the beauty industry for its safe approach to highly effective order control. The options were perfectly created to delivery worry-free comfort to everyday deodorant. A little goes a long way and the formula applies smoothly with a desirable texture. </strong></p>
+<p> </p>
+<em>Ingredients</em>
+<p> </p>
+<div aria-hidden="false" aria-expanded="true" role="tabpanel" aria-labelledby="ui-accordion-1-header-1" style="display: block;" class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom ui-accordion-content-active" id="ingredients" name="ingredients" itemprop="description">
+<p>Organic Maranta Arundinacea (Arrowroot) Root</p>
+<p>Organic Helianthus Annuus (Sunflower) Oil</p>
+<p>Sodium Bicarbonate (Baking Soda)</p>
+<p>OrganicVirgin Cocos Nucifera (Coconut) Oil</p>
+<p>Silica</p>
+<p>Glyceryl Undecylenate (Castor and Canola Oils)*</p>
+<p>Organic Cera Alba (Beeswax)</p>
+<p>Vapour's Proprietary Blend of Essential Oils</p>
+<p>Tocopherol (Non GMO Vitamin E – Soy)</p>
+<p>Organic Ocimum Sanctum (Tulsi) Leaf Extract</p>
+<p>Wildcrafted Commiphora Myrrha (Myrrh) Gum Extract</p>
+<p>Organic Oreganum Vulgare (Oregano) Leaf Extract</p>
+<p>*Eco–Cert</p>
+<p> </p>
+<p>Nt Wt 1.8oz /51g</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deodorant</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>ORANGE</s:tag>
+    <s:tag>Sensitivity</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/424186773543</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/367043379239</id>
+    <published>2017-11-29T10:58:01-08:00</published>
+    <updated>2017-11-29T10:58:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/revitalizing-soothing-natural-sheet-mask"/>
+    <title>Revitalizing &amp; Soothing Natural Sheet Mask</title>
+    <s:type>Mask</s:type>
+    <s:vendor>RE:FRESH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/ReFresh_Single_Front_1500x1500_dbc755d5-0827-401c-b9c8-bfd33fba27bb.jpg?v=1511982411" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>RE:FRESH<br>
+        <strong>Type: </strong>Mask<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><em>Description</em></h5>
+<p style="text-align: left;">This 100% cruelty-free, non-toxic &amp; EWG VERIFIED™ individually wrapped sheet mask is full of rich botanical extracts and effective ingredients. It features material that adheres well to the face, prevents quick evaporation, and delivers the serum deep into the skin for seriously refreshing and hydrating results.</p>
+<p>NO Alcohol</p>
+<p>NO Animal Testing</p>
+<p>NO Artificial Color</p>
+<p>NO Formaldehyde</p>
+<p>NO Fragrance</p>
+<p>NO Mineral Oil</p>
+<p>NO Parabens</p>
+<p>NO Phthalates</p>
+<p>NO Silicone Oil</p>
+<p>NO Sulfates</p>
+<p style="text-align: left;">STAR INGREDIENTS</p>
+<p style="text-align: left;">Betula Platyphylla Japonica Juice: Much more nutrient-rich than water, an ingredient commonly found in sheet masks. Full of amino acids and enzymes that intensely hydrate the skin and prevent oxidative stress such as UV rays and environmental pollution.</p>
+<p style="text-align: left;">Euterpe Oleracea Fruit Extract: Antioxidant that provides protection against free radical damage to the skin and promotes skin repair via moisture retention and regeneration.</p>
+<p style="text-align: left;">Limonia Acidissima Extract: Moisturizing agent that soothes the skin and evens out skin tones. Antioxidant that reduces wrinkles and fine lines by replenishing essential nutrients.</p>
+<p style="text-align: left;">Sodium Hyaluronate: Smart nutrient that penetrates the skin, holds onto large amounts of water, and adjusts moisture absorption rate based on humidity. More effective than hyaluronic acid due to its smaller size which allows it to move more freely into deeper layers of the skin.</p>
+<p style="text-align: left;">Lactobacillus Ferment: Natural microorganism that acidifies its surroundings, develops new antimicrobial peptides, and moisturizes the skin with a variety of proteins.</p>
+<p style="text-align: left;"><strong><em>Our Beauty Notes</em>: Finally a non-toxic sheet mask that doesn't leave a sticky residue. This slightly cooling sheet mask leaves your skin feeling refreshed, awake and hydrated. Ideal for all skin types and can be used weekly as part of regular skin routine. We are adding this to our regular beauty bags and at this price we highly suggest stocking up! </strong></p>
+<p><em>Use</em></p>
+<p style="text-align: left;">Cleanse and dry face. Take out and gently unfold the mask. Place and smooth the mask onto the face. Leave on for 20 minutes and relax. Remove and discard the mask. Apply any remaining serum.<br><br>Made in Korea</p>
+<p><strong><em>Ingredients</em> </strong></p>
+<p style="text-align: left;">Betula Platyphylla Japonica Juice, Euterpe Oleracea Fruit Extract, Limonia Acidissima Extract, Zanthoxylum Piperitum Fruit Extract, Pulsatilla Koreana Extract, Lonicera Japonica (Honeysuckle) Flower Extract, Ocimum Basilicum (Basil) Extract, Citrus Paradisi (Grapefruit) Fruit Extract, Usnea Barbata (Lichen) Extract, Morus Alba Bark Extract, Portulaca Oleracea Extract, Sodium Hyaluronate, Beta-Glucan, Carica Papaya (Papaya) Fruit Extract, Cocos Nucifera (Coconut) Water, Morinda Citrifolia Extract, Lactobacillus Ferment, Carbomer, Ascorbyl Glucoside (Vitamin C)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Face Masks</s:tag>
+    <s:tag>Hydration</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>Masks</s:tag>
+    <s:tag>Moisturizers</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Radiance</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/367043379239</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/424155873319</id>
+    <published>2016-10-20T21:32:00-07:00</published>
+    <updated>2016-10-20T21:32:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/luxury-lip-tint-bare"/>
+    <title>LUXURY LIP TINT (BARE)</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>HENNÉ</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/Bare1.jpg?v=1512583994" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>HENNÉ<br>
+        <strong>Type: </strong>Makeup<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Description</p>
+A delicate nude that provides the perfect barely-there flush of color on the lips. Apply one layer for a sheer hint of color or add additional layers for a more opaque look.<br> <br> For external use only. Store in a cool, dry place. <br> Not tested on animals.<br> Made in USA.<br> <br> 5ml / 0.17 fl oz<br>
+<p><strong><em>Our Beauty Notes</em>: A hybrid where our favorite lip balm meets subtle everyday color? Call it perfection for all skintones. <br></strong></p>
+<h5><em>Directions</em></h5>
+<p>Apply one layer for a sheer hint of color or add more layers for a stronger tint. Reapply when needed.<br> <br> <em>Tip: Use Henné's Lip Exfoliator prior to applying the Luxury Lip Tint to ensure the lips are flake-free and that the color goes on smoothly.</em></p>
+<h5 class="ingredients"><em>Ingredients</em></h5>
+<p class="ingredients">ORGANIC COCOS NUCIFERA (COCONUT) OIL, ORGANIC RICINUS COMMUNIS (CASTOR) SEED OIL, ORGANIC SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL, ORGANIC CERA ALBA (BEESWAX), ORGANIC PERSEA AMERICANA (AVOCADO) OIL, EUPHORBIA CERIFERA (CANDELILLA) WAX, TITANIUM DIOXIDE, IRON OXIDE, TOCOPHEROL (VITAMIN E). <br> <em>88% ORGANIC</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>family</s:tag>
+    <s:tag>Gluten-Free</s:tag>
+    <s:tag>henne</s:tag>
+    <s:tag>Hydration</s:tag>
+    <s:tag>Lips</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Sensitivity</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/424155873319</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>LB-HENNE-V2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/424171405351</id>
+    <published>2016-10-20T21:32:00-07:00</published>
+    <updated>2016-10-20T21:32:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/luxury-lip-tint-intrigue"/>
+    <title>LUXURY LIP TINT (INTRIGUE)</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>HENNÉ</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/Intrigue1.jpg?v=1512584745" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>HENNÉ<br>
+        <strong>Type: </strong>Makeup<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><em>Description </em></h5>
+<p>Intrigue is a dark red that looks flattering on all skin tones. Apply one layer for a sheer hint of color or add additional layers for a more opaque look.<br> <br> For external use only. Store in a cool, dry place. <br> Not tested on animals.<br> Made in USA.<br> <br> 5ml / 0.17 fl oz</p>
+<p><strong><em>Our Beauty Notes</em>: A hybrid where cult favorite lip balm sets out to create a dark red that compliments throughout the seasons from sheer splash of color to a statement. <br></strong></p>
+<h5><em>Directions</em></h5>
+<p>Apply one layer for a sheer hint of color or add more layers for a stronger tint. Reapply when needed.<br> <br> <em>Tip: Use Henné's Lip Exfoliator prior to applying the Luxury Lip Tint to ensure the lips are flake-free and that the color goes on smoothly.</em></p>
+<h5 class="ingredients"><em>Ingredients</em></h5>
+<p class="ingredients">ORGANIC COCOS NUCIFERA (COCONUT) OIL, ORGANIC RICINUS COMMUNIS (CASTOR) SEED OIL, ORGANIC SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL, ORGANIC CERA ALBA (BEESWAX), ORGANIC PERSEA AMERICANA (AVOCADO) OIL, EUPHORBIA CERIFERA (CANDELILLA) WAX, TITANIUM DIOXIDE, IRON OXIDE, TOCOPHEROL (VITAMIN E). <br> <em>88% ORGANIC</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>family</s:tag>
+    <s:tag>Gluten-Free</s:tag>
+    <s:tag>henne</s:tag>
+    <s:tag>Hydration</s:tag>
+    <s:tag>Lips</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Sensitivity</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/424171405351</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>LB-HENNE-V2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/424165769255</id>
+    <published>2016-10-20T21:32:00-07:00</published>
+    <updated>2016-10-20T21:32:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/luxury-lip-tint-azalea"/>
+    <title>LUXURY LIP TINT (AZALEA)</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>HENNÉ</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/Azalea1.jpg?v=1512584197" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>HENNÉ<br>
+        <strong>Type: </strong>Makeup<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><em>Description </em></h5>
+<p>This vibrant pink lip tint immediately brightens up the face and gives a splash of playfulness to your makeup routine. Apply one layer for a sheer hint of color or add additional layers for a more opaque look.<br> <br> For external use only. Store in a cool, dry place. <br> Not tested on animals.<br> Made in USA.<br> <br> 5ml / 0.17 fl oz</p>
+<p><strong><em>Our Beauty Notes</em>: A hybrid where our favorite lip balm meets a pop of fun that applies sheer and packs a serious punch when layered.  <br></strong></p>
+<h5><em>Directions</em></h5>
+<p>Apply one layer for a sheer hint of color or add more layers for a stronger tint. Reapply when needed.<br> <br> <em>Tip: Use Henné's Lip Exfoliator prior to applying the Luxury Lip Tint to ensure the lips are flake-free and that the color goes on smoothly.</em></p>
+<h5 class="ingredients"><em>Ingredients</em></h5>
+<p class="ingredients">ORGANIC COCOS NUCIFERA (COCONUT) OIL, ORGANIC RICINUS COMMUNIS (CASTOR) SEED OIL, ORGANIC SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL, ORGANIC CERA ALBA (BEESWAX), ORGANIC PERSEA AMERICANA (AVOCADO) OIL, EUPHORBIA CERIFERA (CANDELILLA) WAX, TITANIUM DIOXIDE, IRON OXIDE, TOCOPHEROL (VITAMIN E). <br> <em>88% ORGANIC</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>family</s:tag>
+    <s:tag>Gluten-Free</s:tag>
+    <s:tag>henne</s:tag>
+    <s:tag>Hydration</s:tag>
+    <s:tag>Lips</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Sensitivity</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/424165769255</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>LB-HENNE-V2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/424170061863</id>
+    <published>2016-10-20T21:32:00-07:00</published>
+    <updated>2016-10-20T21:32:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/luxury-lip-tint-coral"/>
+    <title>LUXURY LIP TINT (CORAL)</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>HENNÉ</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/Coral1.jpg?v=1512584564" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>HENNÉ<br>
+        <strong>Type: </strong>Makeup<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><em>Description </em></h5>
+<p>A true coral shade, this stunning lip tint brings a soft warmth and glow to the face. Apply one layer for a sheer hint of color or add additional layers for a more opaque look.<br> <br> For external use only. Store in a cool, dry place. <br> Not tested on animals.<br> Made in USA.<br> <br> 5ml / 0.17 fl oz</p>
+<p><strong><em>Our Beauty Notes</em>: A hybrid where cult favorite lip balm creates the most desirable coral shade for flattering year round.  <br></strong></p>
+<h5><em>Directions</em></h5>
+<p>Apply one layer for a sheer hint of color or add more layers for a stronger tint. Reapply when needed.<br> <br> <em>Tip: Use Henné's Lip Exfoliator prior to applying the Luxury Lip Tint to ensure the lips are flake-free and that the color goes on smoothly.</em></p>
+<h5 class="ingredients"><em>Ingredients</em></h5>
+<p class="ingredients">ORGANIC COCOS NUCIFERA (COCONUT) OIL, ORGANIC RICINUS COMMUNIS (CASTOR) SEED OIL, ORGANIC SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL, ORGANIC CERA ALBA (BEESWAX), ORGANIC PERSEA AMERICANA (AVOCADO) OIL, EUPHORBIA CERIFERA (CANDELILLA) WAX, TITANIUM DIOXIDE, IRON OXIDE, TOCOPHEROL (VITAMIN E). <br> <em>88% ORGANIC</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>family</s:tag>
+    <s:tag>Gluten-Free</s:tag>
+    <s:tag>henne</s:tag>
+    <s:tag>Hydration</s:tag>
+    <s:tag>Lips</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Sensitivity</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/424170061863</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>LB-HENNE-V2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/413681549351</id>
+    <published>2016-08-29T09:00:00-07:00</published>
+    <updated>2016-08-29T09:00:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/le-baume"/>
+    <title>Le Baume</title>
+    <s:type>Bath + Body</s:type>
+    <s:vendor>Jordan Seban Hair</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/Le_Baume_Jordan_Seban.jpg?v=1511983690" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Jordan Seban Hair<br>
+        <strong>Type: </strong>Bath + Body<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><em>Description </em></h5>
+<p style="text-align: center;"><em>Brand Seen in StyleCaster</em></p>
+<p>Le Baume ( French for The Balm ) is a lightweight conditioning leave-in treatment. The luxurious and rich velvet-cream texture melt in hands and once on the hair, it moisturizes, protects and repairs. The hair is soft, shiny and healthier. <br><br> The silicon-free and weightless formula is infused with <strong>L’Huile Signature oil blend</strong>, as well as <strong>Silk Proteins</strong> to strengthen, soften and tame frizz, all while protecting hair from damage. <br><br> Le Baume features ingredients from around the world, as well as a precise<strong> blend of essential oils</strong>, promoting natural hair growth. <strong>Gotu Kola</strong> extract, a plant from India, rich in minerals, replenish healthy shine and gloss. <br> <strong>Horsetail extract</strong>, rich in silica, helps bind Le Baume’s <strong>protein blend</strong> to the hair. <br> <strong>Aloe Vera</strong>, a natural conditioner, smooth the hair without a sticky residue. <br><br> Le Baume is applied on towel-dried hair before styling as a<strong> pre-blow dry</strong> lotion, as well as on dry hair, for touch-up. <br><br> Apply a peanut size amount on towel-dried hair, or more depending on the lengths. Proceed with blow-dry and heat styling. The hair is silky, shiny and hydrated. The style is locked-in and protected from heat damage and humidity.</p>
+<p><strong><em>OUR BEAUTY NOTES</em>:</strong> <strong>Sister product to the original, and popular, L'Huile this offers a lightweight option for deeply effective conditioning, while being extremely lightweight on the hair. This includes the highly prized seven essentials, Jordan Seban signatures, leaving your hair nurtured and healthier than before. We appreciates its multi-use for damp or dry hair and even the skin. Jordan Seban never disappoints. <br></strong></p>
+<p>Size: 4.0oz</p>
+<h5><em>Ingredients</em></h5>
+<p>Aqua (Deionized Water), Carrageenan, Aloe Barbadensis Leaf Juice (Organic Aloe), Argania Spinosa Kernel Oil (Organic Argan Oil), Macadamia Ternifolia Seed Oil (Macadamia Nut Oil), Persea Gratissima Oil (Avocado Oil), Simmondsia Chinensis Seed Oil (Organic Jojoba Oil), Butyrospermum Parkii Butter (Shea Butter), Prunus Amygdalus Dulcis Oil (Sweet Almond Oil), Bursera Fagaroides Wood Oil (Linaloe), Citrus Aurantium Flower Oil (Neroli), Citrus Aurantium Leaf Oil (Neroli), Citrus Reticulata Peel Oil (Petitgrain), Amyris Balsamifera Bark Oil, Copaifera Species Resin Oils, Dipterocarpus Turbinatus Balsam Oil, Santalum Album Oil (Sandalwood), Santalum Spicata Wood Oil, Silk Protein Amino Acid Blend of Sodium Pca, Sodium Lactate, Arginine, Aspartic Acid, Glycine, Alanine, Serine, Valine, Isoleucine, Proline, Threonine, Histidine, Phenylalanine, Foeniculum Vulgare Fruit Extract (Fennel), Centella Asiatica Extract (Organic Gotu Kola), Equisetum Arvense Extract (Horsetail), Geranium Maculatum Extract (Wild Geranium), Taraxacum Officinale Extract (Organic Dandelion), Hydroxyethyllcellulose*, Potassium Sorbate*, Sodium Benzoate*, Ethylhexylglycerin.*Plant Derived<br><br> On thinner hair, it gives body and hold the style. On thicker hair, it gives definition and eliminates frizz. <br><br> For a natural, effortless look, apply on wet hair and let the hair air dry. For curly hair, apply on tower-dried hair, and form curl with fingers. Dry with a diffuser or air dry. <br><br> Apply anytime on dry hair to refresh and nourish.Designed Paris, Made in the USA.</p>
+<p><span style="text-decoration: underline;">Mult-Tasking Specifics:<strong> </strong></span></p>
+<p><span style="text-decoration: underline;"><span class="larger_text">Use L'Huile as a pre-shampoo treatment:</span></span><span class="larger_text"> </span>For very dry or thicker hair, pour a small amount (dime size or smaller) into your hands. Apply on lengths and ends, brush it through. For a lighter pre-shampoo treatment, mix a small amount with your favorite hair mask. The longer you let it sit, the deeper the restorative effect. Follow with your regular shampoo and conditioner.</p>
+<p><span style="text-decoration: underline;"><span class="larger_text">Use L'Huile as a hair protection:</span></span><span class="larger_text"> </span>L'Huile is the perfect natural hair protector. To protect your hair against the harsh effects of chlorinated pool water and sea salt, apply a small amount on hair before swimming. Acting as the hair natural protecting layer, apply a few drops of L'Huile on lengths and ends before coloring or highlighting your hair to lessen damage and breakage.</p>
+<p style="direction: rtl; text-align: left;"><span style="text-decoration: underline;"><span class="larger_text">Use L'Huile on the skin:</span></span><span class="larger_text"> </span>On skin, this restores moisture and radiance to the driest skin. In just a few minutes, L'Huile is naturally absorbed in to the skin, leaving behind a satin-soft finish. Massage a few drops directly on skin for maximum nourishing power. Combine L'Huile to your body cream, moisturizer to enhance and deepen the nourishing effect or as a cuticle treatment </p>
+<p style="direction: rtl; text-align: left;"> </p>
+<p style="direction: rtl; text-align: left;"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bath</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>conditioner</s:tag>
+    <s:tag>Gluten-Free</s:tag>
+    <s:tag>Haircare</s:tag>
+    <s:tag>Hydration</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>oils</s:tag>
+    <s:tag>shampoo</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/413681549351</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>LB-JS-LB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/426427875367</id>
+    <published>2015-11-25T19:33:00-08:00</published>
+    <updated>2015-11-25T19:33:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/love-me-do-gift-set"/>
+    <title>&apos;Love Me Do&apos; Set</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>ILIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/ILIA_Holiday_Gift_Set_c66af4d1-156e-4f45-91e5-dab81652742d.jpg?v=1512771710" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>ILIA<br>
+        <strong>Type: </strong>Makeup<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><em>Description </em></h5>
+<p style="text-align: center;"><span><strong>Brand Seen in: Vogue, Glamour, Cosmopolitan &amp; Many More</strong></span></p>
+<p><span style="font-weight: 400;">The gift that everyone will be asking for, enter the LOVE ME DO gift set. A $60.00 value. </span></p>
+<p><span style="font-weight: 400;">Made with hydrating organic ingredients and buildable color for versatility, this gift set includes our best-selling Tinted Lip Conditioner in Arabian Knights, the perfect berry in a universally flattering shade.  A new, exclusive Multi-Stick in Lady Bird compliments the set with a perfect neutral rose that wears beautifully on most skin tones.</span></p>
+<p>Lady Bird 0.176oz / 5g, Arabian Knights 0.14oz / 4g | Box measures 4.25" x 4.75"</p>
+<p><span style="font-weight: 400;">The swatches you see on the gorgeous keepsake box were created by hand. </span></p>
+<br>
+<p><strong><em>Our Beauty Notes</em><span><span style="font-style: inherit;">: Beautiful limited time gift set with custom box perfectly created to flatter all skin tones. <br></span></span></strong></p>
+<br>
+<ul class="tabs-content"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hydration</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Sensitivity</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/426427875367</id>
+      <title>Default Title</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/450014085159</id>
+    <published>2015-11-25T19:33:00-08:00</published>
+    <updated>2015-11-25T19:33:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/satin-cream-lip-crayon-in-push-it-new"/>
+    <title>Satin Cream Lip Crayon in Push It (NEW)</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>ILIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/Push_It.jpg?v=1514498267" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>ILIA<br>
+        <strong>Type: </strong>Makeup<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><em>Description </em></h5>
+<p style="text-align: center;"><span><strong>Brand Seen in: Vogue, Glamour, Cosmopolitan &amp; Many More</strong></span></p>
+<p>For the bold, this punchy-red coral is a statement look in the making. </p>
+<p><span>Drench your lips in creamy color that lasts. Packed with healing and organic botanicals, this nourishing formula builds in intensity with each swipe and dances between a satin and a semi-matte finish. Weightless in feel and soothing when applied, it's a lipstick that takes care of your lips.  A sharpener is included in the base of the product for a perfect application every time.</span></p>
+<br>
+<p><strong><em>Our Beauty Notes</em><span><span style="font-style: inherit;">: Creamier than ever this shade has us coming back for more and more. Paired with a simple eye this is our newest cool girl alter-ago to welcome the warmer months. <br></span></span></strong></p>
+<h5><em> Ingredients</em></h5>
+<p>Helianthus Annuus (Sunflower) Seed Oil*, Euphorbia Cerifera (Candelilla) Wax, Copernicia Cerifera (Carnauba) Wax*, Cocos Nucifera (Coconut) Oil*, Helianthus Annuus (Sunflower) Seed Wax, Shorea Robusta Resin, Rhus Verniciflua Peel Wax, Sesamum Indicum (Sesame) Seed Oil*, Theobroma Cacao (Cocoa) Seed Butter*, Zea Mays (Corn) Starch*, Simmondsia Chinensis (Jojoba) Seed Oil*, Rosa Canina (Rosehip) Seed Oil*, Rosmarinus Officinalis (Rosemary) Leaf*, Vaccinium Macrocarpon (Cranberry) Fruit, Salvia Officinalis (Sage) Leaf*, Vanilla Planifolia (Vanilla) Bean, Tocopherol, May Contain: Mica, Titanium Dioxide Ci77891, Aroma (Essential Oil Blend), [+/-: Black Oxide Ci 77499, Yellow Oxide Ci 77492, Red Oxide Ci 77491, Red 7 (Ci15850), Red 28 (Ci45410), Yellow 5 (Ci19140)]. *Certified Organic Ingredients. Ingrédients Organiques Certifiés.</p>
+<ul class="tabs-content"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hydration</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Sensitivity</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/450014085159</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/450012643367</id>
+    <published>2015-11-25T19:33:00-08:00</published>
+    <updated>2015-11-25T19:33:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/satin-cream-lip-crayon-in-tainted-love-new"/>
+    <title>Satin Cream Lip Crayon in Tainted Love (NEW)</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>ILIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/Tainted_Love.jpg?v=1514497700" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>ILIA<br>
+        <strong>Type: </strong>Makeup<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><em>Description </em></h5>
+<p style="text-align: center;"><span><strong>Brand Seen in: Vogue, Glamour, Cosmopolitan &amp; Many More</strong></span></p>
+<p>A deep rose mauve, this shade is rich in pigment and cool in tone. </p>
+<p><span>Drench your lips in creamy color that lasts. Packed with healing and organic botanicals, this nourishing formula builds in intensity with each swipe and dances between a satin and a semi-matte finish. Weightless in feel and soothing when applied, it's a lipstick that takes care of your lips.  A sharpener is included in the base of the product for a perfect application every time.</span></p>
+<br>
+<p><strong><em>Our Beauty Notes</em><span><span style="font-style: inherit;">: Creamier than ever lip crayon by industry favorite ILIA now with just enough cool tones to gently amplify your everyday look. <br></span></span></strong></p>
+<h5><em> Ingredients</em></h5>
+<p>Helianthus Annuus (Sunflower) Seed Oil*, Euphorbia Cerifera (Candelilla) Wax, Copernicia Cerifera (Carnauba) Wax*, Cocos Nucifera (Coconut) Oil*, Helianthus Annuus (Sunflower) Seed Wax, Shorea Robusta Resin, Rhus Verniciflua Peel Wax, Sesamum Indicum (Sesame) Seed Oil*, Theobroma Cacao (Cocoa) Seed Butter*, Zea Mays (Corn) Starch*, Simmondsia Chinensis (Jojoba) Seed Oil*, Rosa Canina (Rosehip) Seed Oil*, Rosmarinus Officinalis (Rosemary) Leaf*, Vaccinium Macrocarpon (Cranberry) Fruit, Salvia Officinalis (Sage) Leaf*, Vanilla Planifolia (Vanilla) Bean, Tocopherol, May Contain: Mica, Titanium Dioxide Ci77891, Aroma (Essential Oil Blend), [+/-: Black Oxide Ci 77499, Yellow Oxide Ci 77492, Red Oxide Ci 77491, Red 7 (Ci15850), Red 28 (Ci45410), Yellow 5 (Ci19140)]. *Certified Organic Ingredients. Ingrédients Organiques Certifiés.</p>
+<ul class="tabs-content"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hydration</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Sensitivity</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/450012643367</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/450011234343</id>
+    <published>2015-11-25T19:33:00-08:00</published>
+    <updated>2015-11-25T19:33:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/satin-cream-lip-crayon-in-walk-this-way-new"/>
+    <title>Satin Cream Lip Crayon in Walk This Way (NEW)</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>ILIA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/Walk_This_Way.jpg?v=1514497304" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>ILIA<br>
+        <strong>Type: </strong>Makeup<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><em>Description </em></h5>
+<p style="text-align: center;"><span><strong>Brand Seen in: Vogue, Glamour, Cosmopolitan &amp; Many More</strong></span></p>
+<p>Your new everyday, go-to shade: this warm neutral-nude is the perfect color to compliment any look.</p>
+<p><span>Drench your lips in creamy color that lasts. Packed with healing and organic botanicals, this nourishing formula builds in intensity with each swipe and dances between a satin and a semi-matte finish. Weightless in feel and soothing when applied, it's a lipstick that takes care of your lips.  A sharpener is included in the base of the product for a perfect application every time.</span></p>
+<br>
+<p><strong><em>Our Beauty Notes</em><span><span style="font-style: inherit;">: Creamier than ever in the most ideal "just enough something" shade ready for your handbag, makeup bag, car or desk and multiple seamlessly chic looks. <br></span></span></strong></p>
+<h5><em> Ingredients</em></h5>
+<p>Helianthus Annuus (Sunflower) Seed Oil*, Euphorbia Cerifera (Candelilla) Wax, Copernicia Cerifera (Carnauba) Wax*, Cocos Nucifera (Coconut) Oil*, Helianthus Annuus (Sunflower) Seed Wax, Shorea Robusta Resin, Rhus Verniciflua Peel Wax, Sesamum Indicum (Sesame) Seed Oil*, Theobroma Cacao (Cocoa) Seed Butter*, Zea Mays (Corn) Starch*, Simmondsia Chinensis (Jojoba) Seed Oil*, Rosa Canina (Rosehip) Seed Oil*, Rosmarinus Officinalis (Rosemary) Leaf*, Vaccinium Macrocarpon (Cranberry) Fruit, Salvia Officinalis (Sage) Leaf*, Vanilla Planifolia (Vanilla) Bean, Tocopherol, May Contain: Mica, Titanium Dioxide Ci77891, Aroma (Essential Oil Blend), [+/-: Black Oxide Ci 77499, Yellow Oxide Ci 77492, Red Oxide Ci 77491, Red 7 (Ci15850), Red 28 (Ci45410), Yellow 5 (Ci19140)]. *Certified Organic Ingredients. Ingrédients Organiques Certifiés.</p>
+<ul class="tabs-content"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hydration</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:tag>Sensitivity</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/450011234343</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/69987860507</id>
+    <published>2015-04-10T13:23:00-07:00</published>
+    <updated>2015-04-10T13:23:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/the-lip-pencils-flush"/>
+    <title>The Lip Pencils - Flush</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>Kjaer Weis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/LipPencil_flush_capped_1024x1024_copy.jpg?v=1504993448" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Kjaer Weis<br>
+        <strong>Type: </strong>Makeup<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Description</h5>
+<p style="text-align: center;">Brand Seen In: ELLE, Vogue, InStyle, Marie Claire &amp; More</p>
+<p style="text-align: center;">"Kjaer Weis will change how you think about organic makeup" - InStyle Magazine</p>
+<p><span style="font-weight: 400;">“This pencil will keep your bold pink lip colors in place</span> <span style="font-weight: 400;">while also leaving them feeling soft and supple.” – Kirsten Kjaer Weis</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Created to compliment Kjaer Weis Lipsticks and Lip Tints in the pink color range, such as Empower and Romance</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Soft texture glides on long lasting color thanks to organic ingredients such as coconut oil</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Prevents colors from feathering and creates beautiful lip definition</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Velvet-matte finish</span></li>
+</ul>
+<p><span style="font-weight: 400;">Produced in Italy<br> CCPB Certified Organic<br> NO artificial ingredients, such as petroleum, parabens, artificial fragrance, petrochemical emulsifiers.<br> NOT tested on animals<br> Gluten FREE</span></p>
+<p><span style="font-weight: 400;">Shelf Life: 30 months before being opened, 12 months after being opened.</span></p>
+<p><b><strong><em>Our Beauty Notes</em>: Lip liners are often overlooked, yet are the small detail that helps pull all looks together. Use to line lips for staying power with another lipstick or lip gloss and definition or fill in lips all over to create long-lasting vibrancy.</strong></b> <strong>﻿Additional Tip:  </strong><span style="font-weight: 400;"><strong>Pair Flush with Kjaer Weis Lipsticks and Lip Tints in the pink color range, such as Empower or Romance. Can also be worn alone for ultra-opaque, velvet-matte color.</strong> </span><strong><br></strong></p>
+<h5><em>Use</em></h5>
+<div class="fusion-one-half fusion-layout-column fusion-spacing-yes" style="margin-top: 0px; margin-bottom: 20px;">
+<div class="fusion-column-wrapper"><span style="font-weight: 400;">The Kjaer Weis Lip Pencil has a creamy, soft, smooth texture. Apply directly from pencil for precise definition or with a plum or nude based lip tint or lipstick.  </span></div>
+</div>
+<h5><em>Ingredients </em></h5>
+<p><span>Certified Organic: Of the agriculturally derived ingredients in this product, a minimum 95% comes from organic farming.</span></p>
+<p> </p>
+<div class="fusion-title title fusion-title-size-three">
+<h3 data-lineheight="24" data-fontsize="16" class="title-heading-left">Contains luxurious, organic ingredients such as:</h3>
+<div class="title-sep-container">
+<div class="title-sep sep-single sep-solid"></div>
+</div>
+</div>
+<p><span>Beeswax: Nourishes and moisturizes, wonderful for drier complexions .<br> Jojoba Seed Oil, Sweet Almond Oil: Natural moisturizers for the lips.<br> Rosa Rubiginosa Seed Oil: Excellent tissue regeneration properties; fights signs of aging.<br></span></p>
+<h5><em> </em></h5>
+<span> </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten-Free</s:tag>
+    <s:tag>Lips</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/69987860507</id>
+      <title>Flush</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/69938216987</id>
+    <published>2015-04-10T13:23:00-07:00</published>
+    <updated>2015-04-10T13:23:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/the-lip-pencils-classic"/>
+    <title>The Lip Pencils - Classic</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>Kjaer Weis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/LipPencil_classic_capped_1024x1024_copy.jpg?v=1504991769" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Kjaer Weis<br>
+        <strong>Type: </strong>Makeup<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Description</h5>
+<p style="text-align: center;">Brand Seen In: ELLE, Vogue, InStyle, Marie Claire &amp; More</p>
+<p style="text-align: center;">"Kjaer Weis will change how you think about organic makeup" - InStyle Magazine</p>
+<p><span style="font-weight: 400;">“If you want a rich, red lip to last for hours, line and fill with this pencil as your first layer of color.” – Kirsten Kjaer Weis</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Created to compliment Kjaer Weis Lipsticks and Lip Tints in the red color range, such as KW Red and Lover’s Choice</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Soft texture glides on long lasting color thanks to organic ingredients such as coconut oil</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Prevents colors from feathering and creates beautiful lip definition</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Velvet-matte finish</span></li>
+</ul>
+<p><span style="font-weight: 400;">Produced in Italy<br> CCPB Certified Organic<br> NO artificial ingredients, such as petroleum, parabens, artificial fragrance, petrochemical emulsifiers.<br> NOT tested on animals<br> Gluten FREE</span></p>
+<p><span style="font-weight: 400;">Shelf Life: 30 months before being opened, 12 months after being opened.</span></p>
+<p><b><strong><em>Our Beauty Notes</em>: Lip liners are often overlooked, yet are the small detail that helps pull all looks together. Use to line lips for staying power with another lipstick or lip gloss and definition or fill in lips all over to create long-lasting vibrancy.</strong></b> <strong>﻿Additional Tip: </strong><strong>Pair Classic with Kjaer Weis Lipsticks and Lip Tints in the red color range, such as KW Red and Lover’s Choice. Can also be worn alone for ultra-opaque, velvet-matte color.</strong><b><strong><br></strong></b></p>
+<h5><em>Use</em></h5>
+<div class="fusion-one-half fusion-layout-column fusion-spacing-yes" style="margin-top: 0px; margin-bottom: 20px;">
+<div class="fusion-column-wrapper"><span style="font-weight: 400;">The Kjaer Weis Lip Pencil has a creamy, soft, smooth texture. </span></div>
+</div>
+<h5><em>Ingredients </em></h5>
+<p><span>Certified Organic: Of the agriculturally derived ingredients in this product, a minimum 95% comes from organic farming.</span></p>
+<p> </p>
+<div class="fusion-title title fusion-title-size-three">
+<h3 data-lineheight="24" data-fontsize="16" class="title-heading-left">Contains luxurious, organic ingredients such as:</h3>
+<div class="title-sep-container">
+<div class="title-sep sep-single sep-solid"></div>
+</div>
+</div>
+<p><span>Beeswax: Nourishes and moisturizes, wonderful for drier complexions .<br> Jojoba Seed Oil, Sweet Almond Oil: Natural moisturizers for the lips.<br> Rosa Rubiginosa Seed Oil: Excellent tissue regeneration properties; fights signs of aging.<br></span></p>
+<h5><em> </em></h5>
+<span> </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten-Free</s:tag>
+    <s:tag>Lips</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/69938216987</id>
+      <title>Classic</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/69959254043</id>
+    <published>2015-04-10T13:23:00-07:00</published>
+    <updated>2015-04-10T13:23:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/the-lip-pencils-rose"/>
+    <title>The Lip Pencils - Rose</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>Kjaer Weis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/LipPencil_rose__cap_1024x1024_copy_14e9ea75-50d3-4d43-92e9-e12fefaa0323.jpg?v=1504993725" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Kjaer Weis<br>
+        <strong>Type: </strong>Makeup<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Description</h5>
+<p style="text-align: center;">Brand Seen In: ELLE, Vogue, InStyle, Marie Claire &amp; More</p>
+<p style="text-align: center;">"Kjaer Weis will change how you think about organic makeup" - InStyle Magazine</p>
+<p><span style="font-weight: 400;">“This pinky-nude Lip Pencil will define your lips in an understated, effortless looking way while also delivering rich hydration.” – Kirsten Kjaer Weis</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Created to compliment nude and pale-pink lip colors such as Kjaer Weis Lipstick in Brilliant and Kjaer Weis Lip Tint in Dream State</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Soft texture glides on long lasting color thanks to organic ingredients such as coconut oil</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Prevents colors from feathering and creates beautiful lip definition</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Velvet-matte finish</span></li>
+</ul>
+<p><span style="font-weight: 400;">Produced in Italy<br> CCPB Certified Organic<br> NO artificial ingredients, such as petroleum, parabens, artificial fragrance, petrochemical emulsifiers.<br> NOT tested on animals<br> Gluten FREE</span></p>
+<p><span style="font-weight: 400;">Shelf Life: 30 months before being opened, 12 months after being opened.</span></p>
+<p><b><strong><em>Our Beauty Notes</em>: Lip liners are often overlooked, yet are the small detail that helps pull all looks together. Use to line lips for staying power with another lipstick or lip gloss and definition or fill in lips all over to create long-lasting vibrancy.</strong></b> <strong>﻿Additional Tip:  Pair with plum-colored Kjaer Weis Lip Tints or Lipsticks such as Believe and Sensuous Plum. Can also be worn alone for ultra-opaque, velvet-matte color.</strong></p>
+<h5><em>Use</em></h5>
+<div class="fusion-one-half fusion-layout-column fusion-spacing-yes" style="margin-top: 0px; margin-bottom: 20px;">
+<div class="fusion-column-wrapper"><span style="font-weight: 400;">The Kjaer Weis Lip Pencil has a creamy, soft, smooth texture. Apply directly from pencil for precise definition or with a plum or nude based lip tint or lipstick.  </span></div>
+</div>
+<h5><em>Ingredients </em></h5>
+<p><span>Certified Organic: Of the agriculturally derived ingredients in this product, a minimum 95% comes from organic farming.</span></p>
+<p> </p>
+<div class="fusion-title title fusion-title-size-three">
+<h3 data-lineheight="24" data-fontsize="16" class="title-heading-left">Contains luxurious, organic ingredients such as:</h3>
+<div class="title-sep-container">
+<div class="title-sep sep-single sep-solid"></div>
+</div>
+</div>
+<p><span>Beeswax: Nourishes and moisturizes, wonderful for drier complexions .<br> Jojoba Seed Oil, Sweet Almond Oil: Natural moisturizers for the lips.<br> Rosa Rubiginosa Seed Oil: Excellent tissue regeneration properties; fights signs of aging.<br></span></p>
+<h5><em> </em></h5>
+<span> </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten-Free</s:tag>
+    <s:tag>Lips</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/69959254043</id>
+      <title>Rose</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>LB-KW-LIP-ROSE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/69970133019</id>
+    <published>2015-04-10T13:23:00-07:00</published>
+    <updated>2015-04-10T13:23:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/the-lip-pencils-mauve"/>
+    <title>The Lip Pencils - Mauve</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>Kjaer Weis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/LipPencil_rose__cap_1024x1024_copy_d9259e42-bbd4-43a2-89cf-d619958edb44.jpg?v=1504993036" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Kjaer Weis<br>
+        <strong>Type: </strong>Makeup<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Description</h5>
+<p style="text-align: center;">Brand Seen In: ELLE, Vogue, InStyle, Marie Claire &amp; More</p>
+<p style="text-align: center;">"Kjaer Weis will change how you think about organic makeup" - InStyle Magazine</p>
+<p><span style="font-weight: 400;">“This Lip Pencil has color that lasts, yet still keeps your lips hydrated thanks to the organic coconut oil formula.” –   Kirsten Kjaer Weis</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Created to compliment plum-hued lip colors such as Kjaer Weis Lipstick in Believe and Kjaer Weis Lip Tint in Sensuous Plum</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Soft texture glides on long lasting color thanks to organic ingredients such as coconut oil</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Prevents colors from feathering and creates beautiful lip definition</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Velvet-matte finish</span></li>
+</ul>
+<br>
+<p><span style="font-weight: 400;">Produced in Italy<br> CCPB Certified Organic<br> NO artificial ingredients, such as petroleum, parabens, artificial fragrance, petrochemical emulsifiers.<br> NOT tested on animals<br> Gluten FREE</span></p>
+<p><span style="font-weight: 400;">Shelf Life: 30 months before being opened, 12 months after being opened.</span></p>
+<p><b><strong><em>Our Beauty Notes</em>: Lip liners are often overlooked, yet are the small detail that helps pull all looks together. Use to line lips for staying power with another lipstick or lip gloss and definition or fill in lips all over to create long-lasting vibrancy.</strong></b> <strong>﻿Pair with plum-colored Kjaer Weis Lip Tints or Lipsticks such as Believe and Sensuous Plum. Can also be worn alone for ultra-opaque, velvet-matte color.</strong></p>
+<h5><em>Use</em></h5>
+<div class="fusion-one-half fusion-layout-column fusion-spacing-yes" style="margin-top: 0px; margin-bottom: 20px;">
+<div class="fusion-column-wrapper"><span style="font-weight: 400;">The Kjaer Weis Lip Pencil has a creamy, soft, smooth texture. Apply directly from pencil for precise definition or with a plum or nude based lip tint or lipstick.  </span></div>
+</div>
+<h5><em>Ingredients </em></h5>
+<table class="shop_attributes">
+<tbody>
+<tr class="">
+<th>Ingredients</th>
+<td>
+<p>Octyldodecyl Stearoyl Stearate, Cocos Nucifera (Coconut) Oil∙, C10-18 Triglycerides, Hydrogenated Vegetable Oil, Copernicia Cerifera (Carnauba) Wax∙, Euphorbia Cerifera (Candelilla) Wax, Mica, Polyglyceryl-3 Diisostearate, Oryzanol, Tocopherol, Glyceryl Caprylate, CI 77491 (Iron Oxide), CI 77891 (Titanium Dioxide), CI 77492 (Iron Oxide), CI 77499 (Iron Oxide)<br> ∙ organically grown</p>
+</td>
+</tr>
+</tbody>
+</table>
+<br>
+<h5><em> </em></h5>
+<span> </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten-Free</s:tag>
+    <s:tag>Lips</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/69970133019</id>
+      <title>Mauve</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/424191393831</id>
+    <published>2015-02-21T19:27:00-08:00</published>
+    <updated>2015-02-21T19:27:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/deva-holiday-collection"/>
+    <title>Deva Collection</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>Vapour Organic Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/Deva_Holiday_Collection.jpg?v=1512586896" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Vapour Organic Beauty<br>
+        <strong>Type: </strong>Makeup<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><em>Description </em></h5>
+<div aria-hidden="false" aria-expanded="true" role="tabpanel" aria-labelledby="ui-accordion-1-header-2" style="display: block;" class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom ui-accordion-content-active" id="htw" name="htw" itemprop="description">
+<div aria-hidden="false" aria-expanded="true" role="tabpanel" aria-labelledby="ui-accordion-1-header-0" style="display: block;" class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom ui-accordion-content-active" id="details" name="details" itemprop="description">
+<p>Delight makeup lovers on your list with the Deva Collection. Award-winning Aura Multi Use is paired with Vapour’s newest formula, Velvet Lip Gloss. Aura Radiant in Whisper highlights high planes of the face while Velvet in Deva punctuates lips with long-lasting shine. The Deva Collection is ready to gift in an elegant matchbox-style box. </p>
+<p class="p1">Specially priced at $40 (a $55 value).</p>
+<p>AURA WHISPER — Warm pale pink with gold highlight<br> VELVET DEVA — Classic sheer neutral mauve</p>
+</div>
+</div>
+<ul></ul>
+<p><strong><em>Our Beauty Notes</em>: The perfect gift set that flatters year-round and is giving us a serious case of "One for you, Two for me." <br></strong></p>
+<h5><em>Use</em></h5>
+<div aria-hidden="false" aria-expanded="true" role="tabpanel" aria-labelledby="ui-accordion-1-header-2" style="display: block;" class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom ui-accordion-content-active" id="htw" name="htw" itemprop="description">
+<p>DIRECTIONS FOR USE:<br> 1. Warm AURA with the tip of your finger in a circular motion and apply directly to high planes of the face: center of forehead, brow bones, cheekbones, cupid’s bow, center of chin. Blend with fingertips.</p>
+<p>2. Warm VELVET with the tip of your finger in a circular motion. For more payoff, use fingernail to lift Velvet out of pot. Apply directly to bare lips or your favorite shade of Siren Lipstick.</p>
+</div>
+<br>
+<h5><em>Ingredients </em></h5>
+<p><strong>AURA MULTI USE:</strong></p>
+<p>Organic Helianthus Annuus (Sunflower) Seed Oil</p>
+<p>Organic Cera Alba (Beeswax)</p>
+<p>Organic Ricinus Communis (Castor) Seed Oil</p>
+<p>Silica</p>
+<p>Castor Isostearate Beeswax Succinate*</p>
+<p>Mica</p>
+<p>Solanum Lycopersicon (Tomato) Fruit/Leaf/Stem Extract</p>
+<p>Canarium Luzonicum (Elemi) Gum Nonvolatiles</p>
+<p>Wildcrafted Commiphora Myrrha (Myrrh) Gum Oil</p>
+<p>Wildcrafted Boswellia Carteri (Frankincense) Gum*</p>
+<p>Organic Ocimum Sanctum (Tulsi/Holy Basil) Leaf Extract</p>
+<p>Organic Nelumbo Nucifera (Lotus) Leaf Extract</p>
+<p>Pogostemon Cablin Oil</p>
+<p>Tocopherol (Non GMO Vitamin E – Soy)</p>
+<p>[+/–: Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, 77492, 77499), Carmine (CI 75470)]</p>
+<p>*Eco–Cert</p>
+<p>Nt Wt 0. 17oz/4.8g</p>
+<p> </p>
+<p><strong>VELVET LIP GLOSS:</strong></p>
+<p>Organic Ricinus Communis (Castor) Seed Oil</p>
+<p>Castor Isostearate Beeswax Succinate*</p>
+<p>Organic Cera Alba (Beeswax)</p>
+<p>Mica</p>
+<p>Organic Ficus Carica (Fig) Flavor Oil</p>
+<p>Organic Prunus Domestica (Plum) &amp; Prunus Armeniaca (Apricot) Flavor Oil</p>
+<p>Organic Citrus Limon (Lemon) Oil</p>
+<p>Stevia Rebaudiana (Stevia) Extract</p>
+<p>Organic Melissa Officinalis (Lemon Balm) Leaf Extract</p>
+<p>Wildcrafted Commiphora Myrrha (Myrrh) Gum</p>
+<p>Organic Cetraria Islandica (Iceland Moss) Extract</p>
+<p>Tocopherol (Non GMO Vitamin E – Soy)</p>
+<p>Organic Camellia Sinensis (Green Tea) Leaf Extract</p>
+<p>[+/-: Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, 77492, 77499), Carmine (CI 75470), Manganese Violet (CI 77742)]</p>
+<p>*Eco–Cert</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blush</s:tag>
+    <s:tag>Bronzers</s:tag>
+    <s:tag>Eyes</s:tag>
+    <s:tag>Lips</s:tag>
+    <s:tag>Made In USA</s:tag>
+    <s:tag>No Animal Testing</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/424191393831</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/69886246939</id>
+    <published>2015-02-14T08:58:00-08:00</published>
+    <updated>2015-02-14T08:58:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/the-eye-pencils-black"/>
+    <title>The Eye Pencils - Black</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>Kjaer Weis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/EyePencil_black_capped_1024x1024_1f33fd70-ee40-4d03-bd65-b5fc0a5e99b1.jpg?v=1504990091" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Kjaer Weis<br>
+        <strong>Type: </strong>Makeup<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><em>Description</em></h5>
+<p style="text-align: center;">Brand Seen In: ELLE, Vogue, InStyle, Marie Claire &amp; More</p>
+<p style="text-align: center;">"Kjaer Weis will change how you think about organic makeup" - InStyle Magazine</p>
+<p><span style="font-weight: 400;">PLEASE NOTE: BACK-ORDERED WITH BRAND. WILL SHIP IMMEDIATELY ONCE IN (TBD). THANK YOU FOR YOUR PATIENCE.  </span></p>
+<p><span style="font-weight: 400;">“Black liner has been around forever because it’s so versatile. I’m excited to offer an organic version so gentle, you can even wear it on inner rim of the eye.” – Kirsten Kjaer Weis</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Neutral, balanced black color</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Soft, smooth texture that glides on rich color</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Satin finish</span></li>
+</ul>
+<p>Produced in Italy<br> CCPB Certified Organic<br> NO artificial ingredients, such as petroleum, parabens, artificial fragrance, petrochemical emulsifiers.<br> NOT tested on animals<br> Gluten FREE<br><span style="line-height: 1.5;"></span></p>
+<p>Shelf Life: 30 months before being opened, 12 months after being opened.</p>
+<div class="fusion-one-half fusion-layout-column fusion-column-last fusion-spacing-yes" style="margin-top: 0px; margin-bottom: 20px;">
+<div class="fusion-column-wrapper"><img class="alignnone size-full wp-image-8424" src="https://kjaerweis.com/wp-content/uploads/2017/09/campaign-jpg.jpg" alt="" srcset="https://kjaerweis.com/wp-content/uploads/2017/09/campaign-jpg.jpg 467w, https://kjaerweis.com/wp-content/uploads/2017/09/campaign-jpg-300x266.jpg 300w, https://kjaerweis.com/wp-content/uploads/2017/09/campaign-jpg-100x89.jpg 100w, https://kjaerweis.com/wp-content/uploads/2017/09/campaign-jpg-120x106.jpg 120w" sizes="(max-width: 467px) 100vw, 467px" height="414" width="467"></div>
+</div>
+<p><strong><em>Our Beauty Notes: </em>This creamy, lasting powerhouse allows you to apply thin line for daily use to a dramatized thicker buildable line that's always smooth in texture and perfect for the waterline as well thanks to its sensitive nature. <br></strong></p>
+<h5><em>Use</em></h5>
+<div class="fusion-one-half fusion-layout-column fusion-spacing-yes" style="margin-top: 0px; margin-bottom: 20px;">
+<div class="fusion-column-wrapper">The Kjaer Weis Eye Pencil has a creamy, soft, smooth texture. Apply directly from pencil for precise definition. For a softer look, smudge using the Kjaer Weis Angle Brush</div>
+</div>
+<p><br><span> </span></p>
+<h5><em> Ingredients </em></h5>
+<p>Octyldodecyl Stearoyl Stearate, Cocos Nucifera (Coconut) Oil∙, C10-18 Triglycerides, Hydrogenated Vegetable Oil, Copernicia Cerifera (Carnauba) Wax∙, Euphorbia Cerifera (Candelilla) Wax, Mica, Polyglyceryl-3 Diisostearate, Oryzanol, Tocopherol, Glyceryl Caprylate, CI 77499 (Iron Oxide), CI 77891 (Titanium Dioxide)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyes</s:tag>
+    <s:tag>Gluten-Free</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/69886246939</id>
+      <title>Black</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/69910954011</id>
+    <published>2015-02-14T08:58:00-08:00</published>
+    <updated>2015-02-14T08:58:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/copy-of-the-eye-pencils-brown"/>
+    <title>The Eye Pencils - Brown</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>Kjaer Weis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/EyePencil_black_capped_1024x1024_33f4d147-e023-4a1d-a609-39a6fa44880f.jpg?v=1504990866" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Kjaer Weis<br>
+        <strong>Type: </strong>Makeup<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><em>Description</em></h5>
+<p style="text-align: center;">Brand Seen In: ELLE, Vogue, InStyle, Marie Claire &amp; More</p>
+<p style="text-align: center;">"Kjaer Weis will change how you think about organic makeup" - InStyle Magazine</p>
+<p><span style="font-weight: 400;">“If you could only own one brown eye pencil, this would be it. The color is universally flattering, not too dark and not too light – exactly what every makeup kit needs.” – Kirsten Kjaer Weis</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Neutral, balanced black color</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Soft, smooth texture that glides on rich color</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Satin finish</span></li>
+</ul>
+<p>Produced in Italy<br> CCPB Certified Organic<br> NO artificial ingredients, such as petroleum, parabens, artificial fragrance, petrochemical emulsifiers.<br> NOT tested on animals<br> Gluten FREE<br><span style="line-height: 1.5;"></span></p>
+<p>Shelf Life: 30 months before being opened, 12 months after being opened.</p>
+<p><strong><em>Our Beauty Notes: </em>This creamy, lasting powerhouse allows you to apply thin line for daily use to a dramatized thicker buildable line that's always smooth in texture and perfect for the waterline as well thanks to its sensitive nature. <br></strong></p>
+<h5><em>Use</em></h5>
+<div class="fusion-one-half fusion-layout-column fusion-spacing-yes" style="margin-top: 0px; margin-bottom: 20px;">
+<div class="fusion-column-wrapper">The Kjaer Weis Eye Pencil has a creamy, soft, smooth texture. Apply directly from pencil for precise definition. For a softer look, smudge using the Kjaer Weis Angle Brush</div>
+</div>
+<p><br><span> </span></p>
+<h5><em> Ingredients </em></h5>
+<p>Octyldodecyl Stearoyl Stearate, Cocos Nucifera (Coconut) Oil∙, C10-18 Triglycerides, Hydrogenated Vegetable Oil, Copernicia Cerifera (Carnauba) Wax∙, Euphorbia Cerifera (Candelilla) Wax, Mica, Polyglyceryl-3 Diisostearate, Oryzanol, Tocopherol, Glyceryl Caprylate, CI 77499 (Iron Oxide), CI 77891 (Titanium Dioxide)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyes</s:tag>
+    <s:tag>Gluten-Free</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/69910954011</id>
+      <title>Brown</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://levertbeauty.com/products/70004834331</id>
+    <published>2015-02-10T22:32:00-08:00</published>
+    <updated>2015-02-10T22:32:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://levertbeauty.com/products/highlighter-in-ravishing"/>
+    <title>Highlighter in Ravishing</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>Kjaer Weis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0731/0835/products/Highlighter_Ravishing_sized_for_web-1_copy.jpg?v=1504994116" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Kjaer Weis<br>
+        <strong>Type: </strong>Makeup<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><em>Description </em></h5>
+<p style="text-align: center;"><span><em>ALLURE MAGAZINE  BEST IN BEAUTY </em>2014</span></p>
+<p style="text-align: center;">Brand Seen In: ELLE, Vogue, InStyle, Marie Claire &amp; More</p>
+<p style="text-align: center;">"Kjaer Weis will change how you think about organic makeup" - InStyle Magazine</p>
+<p>“With it’s golden undertones, Ravishing gives your skin a soft, warm glow, like a mid-summer sunset.” – Kirsten Kjaer Weis</p>
+<p>-Bring forward your best features with the illuminating power of Ravishing<br> -Create a radiant glow with golden undertones<br> -Universally flattering for all skintones<br><span style="line-height: 1.4;">-Produced in Italy</span><br><span style="line-height: 1.4;">- CCPB Certified Organic</span><br><span style="line-height: 1.4;">- NOT tested on animals</span><br><span style="line-height: 1.4;">- Gluten FREE</span><br><span style="line-height: 1.4;">- This product is not vegan</span><br><span style="line-height: 1.4;">- Refill Option </span><br><span style="line-height: 1.5;">- NO artificial ingredients, such as petroleum, parabens, artificial coloring and fragrance, petrochemical emulsifiers</span></p>
+<p><strong><span><em style="line-height: 1.4;">Our Beauty Notes</em><span style="line-height: 1.4;">: </span><span style="line-height: 1.4;"></span></span>Ideally suited for use with the Kjær Weis Foundation and Cream Blush, the Highlighter can be used to enhance and accentuate the cheek bones, nose, or brow line, providing a subtle, youthful glow. The warm pearl color also lends itself to use as a cream eye shadow, either by itself or on top of a darker eye shadow for a subtle, iridescent finish. For best results, apply with the warmth of fingers or with the Kjær Weis Foundation Brush.</strong></p>
+<h5><em><span style="line-height: 1.4;">Use</span></em></h5>
+<p><span style="line-height: 1.4;"><span>Ideally suited for use with the Kjær Weis Foundation and Cream Blush, the Highlighter can be used to enhance and accentuate the cheek bones, nose, or brow line, providing a subtle, youthful glow. The warm pearl color also lends itself to use as a cream eye shadow, either by itself or on top of a darker eye shadow for a subtle, iridescent finish. For best results, apply with the warmth of fingers or with the Kjær Weis Foundation Brush.</span></span></p>
+<h5><em><span style="line-height: 1.4;">Ingredients </span></em></h5>
+<p><span></span><span style="font-weight: 400;">Mica, Caprylic/Capric Triglyceride, Prunus Amygdalus Dulcis (Sweet Almond) Seed Oil·, Ricinus Communis (Castor) Seed Oil·, Copernicia Cerifera (Carnauba) Wax·, Cera Alba (Beeswax) ·, Simmondsia Chinensis (Jojoba) Seed Oil·, Polyglyceryl-3 Diisostearate, Rosa Rubiginosa (Rose Hip) Seed Oil·, Ammonium Glycyrrhizate, Helianthus Annuus (Sunflower) Seed Oil·, Camellia Sinensis Leaf Extract, Vanilla Planifolia Fruit Extract·, Gardenia Florida Fruit Extract, Tocopheryl Acetate, Gallic Acid, Tin Oxide, Glyceryl Stearate, Dextrin, CI 77891 (Titanium Dioxide), CI 77491 (Iron Oxides) </span>organically grown</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blush</s:tag>
+    <s:tag>bronzers</s:tag>
+    <s:tag>Gluten-Free</s:tag>
+    <s:variant>
+      <id>https://levertbeauty.com/products/70004834331</id>
+      <title>Ravishing</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
